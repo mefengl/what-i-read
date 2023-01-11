@@ -15,3 +15,5 @@ https://mp.weixin.qq.com/s/RcWZ9_cG3jF94m3QQ7jqrA One of Maozhu 's trip, looks c
 11
 
 https://www.cold-takes.com/all-possible-views-about-humanitys-future-are-wild/ , remind me of "if the future is infinite, then any time is the very begining"
+
+https://en.wikipedia.org/wiki/Fermi_paradox#Hypothetical_explanations_for_the_paradox , knowing more about fermi paradox now
