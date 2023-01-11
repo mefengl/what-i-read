@@ -17,3 +17,5 @@ https://mp.weixin.qq.com/s/RcWZ9_cG3jF94m3QQ7jqrA One of Maozhu 's trip, looks c
 https://www.cold-takes.com/all-possible-views-about-humanitys-future-are-wild/ , remind me of "if the future is infinite, then any time is the very begining"
 
 https://en.wikipedia.org/wiki/Fermi_paradox#Hypothetical_explanations_for_the_paradox , knowing more about fermi paradox now
+
+https://lizengland.com/blog/2014/04/the-door-problem/ , that why it called game industry, like movie, I don't know software develop nowadays is behind it or ahead of it
