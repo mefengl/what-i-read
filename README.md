@@ -19,3 +19,5 @@ https://www.cold-takes.com/all-possible-views-about-humanitys-future-are-wild/ ,
 https://en.wikipedia.org/wiki/Fermi_paradox#Hypothetical_explanations_for_the_paradox , knowing more about fermi paradox now
 
 https://lizengland.com/blog/2014/04/the-door-problem/ , that why it called game industry, like movie, I don't know software develop nowadays is behind it or ahead of it
+
+https://www.cold-takes.com/the-most-important-century-in-a-nutshell/ , yet another cold-takes article, great one
