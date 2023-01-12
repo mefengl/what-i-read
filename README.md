@@ -21,3 +21,11 @@ https://en.wikipedia.org/wiki/Fermi_paradox#Hypothetical_explanations_for_the_pa
 https://lizengland.com/blog/2014/04/the-door-problem/ , that why it called game industry, like movie, I don't know software develop nowadays is behind it or ahead of it
 
 https://www.cold-takes.com/the-most-important-century-in-a-nutshell/ , yet another cold-takes article, great one
+
+12
+
+https://www.lesswrong.com/s/NBDFAKt3GbFwnwzQF/p/PBRWb2Em5SNeWYwwB , "The unexamined life is not worth living", like the footer 1 of this article
+
+https://www.lesswrong.com/s/NBDFAKt3GbFwnwzQF/p/5JDkW4MYXit2CquLs , a good example of when not to believe
+
+https://www.lesswrong.com/s/NBDFAKt3GbFwnwzQF/p/wCqfCLs8z5Qw4GbKS , `do big thing, make big mistake` instead of `do small things, make small mistakes`
