@@ -40,8 +40,8 @@ https://codescene.com/engineering-blog/refactoring-components-in-react-with-cust
 
 https://www.ruanyifeng.com/blog/2023/01/weekly-issue-239.html , weekly routine
 
-13
-
 https://www.cold-takes.com/this-cant-go-on/ , the possible growth
 
 https://www.cold-takes.com/the-most-important-century-in-a-nutshell/ , `more resources, more ideas`, it should be
+
+https://www.rd.com/article/the-night-i-met-einstein/ , always grow from seed
