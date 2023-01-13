@@ -35,3 +35,7 @@ https://www.lesswrong.com/s/NBDFAKt3GbFwnwzQF/p/wCqfCLs8z5Qw4GbKS , `do big thin
 https://githubnext.com/projects/hey-github/ , write code with mouth
 
 https://blocks.githubnext.com/ , README 2.0 , doubt about the complexity it will bring
+
+https://codescene.com/engineering-blog/refactoring-components-in-react-with-custom-hooks , it's the article that make me understand how to extract a custom hook
+
+https://www.ruanyifeng.com/blog/2023/01/weekly-issue-239.html , weekly routine
