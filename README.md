@@ -29,3 +29,9 @@ https://www.lesswrong.com/s/NBDFAKt3GbFwnwzQF/p/PBRWb2Em5SNeWYwwB , "The unexami
 https://www.lesswrong.com/s/NBDFAKt3GbFwnwzQF/p/5JDkW4MYXit2CquLs , a good example of when not to believe
 
 https://www.lesswrong.com/s/NBDFAKt3GbFwnwzQF/p/wCqfCLs8z5Qw4GbKS , `do big thing, make big mistake` instead of `do small things, make small mistakes`
+
+13
+
+https://githubnext.com/projects/hey-github/ , write code with mouth
+
+https://blocks.githubnext.com/ , README 2.0 , doubt about the complexity it will bring
