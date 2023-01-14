@@ -45,3 +45,7 @@ https://www.cold-takes.com/this-cant-go-on/ , the possible growth
 https://www.cold-takes.com/the-most-important-century-in-a-nutshell/ , `more resources, more ideas`, it should be
 
 https://www.rd.com/article/the-night-i-met-einstein/ , always grow from seed
+
+14
+
+https://www.cold-takes.com/the-duplicator/ , training ai is a training model, and so is raising children
