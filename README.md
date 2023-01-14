@@ -49,3 +49,5 @@ https://www.rd.com/article/the-night-i-met-einstein/ , always grow from seed
 14
 
 https://www.cold-takes.com/the-duplicator/ , training ai is a training model, and so is raising children
+
+https://sive.rs/1s , write sentence, edit paragraph, post article
