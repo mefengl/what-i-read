@@ -55,3 +55,29 @@ https://sive.rs/1s , write sentence, edit paragraph, post article
 17
 
 https://seb.jambor.dev/posts/systemd-by-example-part-1-minimization/ , simple and nice article about systemd
+
+https://letterstoanewdeveloper.com/2023/01/09/how-i-got-into-software/ , great example of the benefit of programming
+
+https://blog.steatoda.com/stop-promoting-programmers , be a programmer before and after retirement, why not
+
+https://en.wikipedia.org/wiki/Peter_principle , known about Peter principle
+
+https://blog.steatoda.com/simple-technologies-dont-scale , funny about the cycle of technology
+
+https://annasofia.xyz/2022/11/05/criticizing-computers.html , nice pessimistic article , but it's not the end of the world , just look at natural selection, computer industry is fine
+
+https://annasofia.xyz/2022/08/03/lindy-structures.html , lindy structure is a good answer to above article
+
+https://annasofia.xyz/2022/08/10/the-role-of-the-writer.html , writing is the re-cache of knowledge
+
+https://annasofia.xyz/2022/03/23/elena-ferrante.html , still hesitate to read fiction, but I will try to read more in 2023
+
+https://annasofia.xyz/2022/07/27/the-annals-of-progress.html , the evolution of the thought towards the future
+
+https://annasofia.xyz/2022/03/07/douglass-north.html , the evolution of the economy
+
+https://annasofia.xyz/archives/ , also read the other articles from this blog
+
+https://wakeless.net/posts/the-full-stack , more than stack, everything is a stack
+
+https://blog.steatoda.com/rolling-release-api , v1/v2 stuff bring duplicate code
