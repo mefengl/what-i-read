@@ -51,3 +51,7 @@ https://www.rd.com/article/the-night-i-met-einstein/ , always grow from seed
 https://www.cold-takes.com/the-duplicator/ , training ai is a training model, and so is raising children
 
 https://sive.rs/1s , write sentence, edit paragraph, post article
+
+17
+
+https://seb.jambor.dev/posts/systemd-by-example-part-1-minimization/ , simple and nice article about systemd
