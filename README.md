@@ -83,3 +83,17 @@ https://wakeless.net/posts/the-full-stack , more than stack, everything is a sta
 https://blog.steatoda.com/rolling-release-api , v1/v2 stuff bring duplicate code
 
 https://blog.steatoda.com/native-code-is-slow , the wave of containerization is not over, it's just the beginning
+
+18
+
+https://milkyeggs.com/?p=303 , it's easy to understand, programmer now can be programmer or leader of ai programmers
+
+https://davidamos.dev/never-modify-inputs-without-permission/?ref=curious-about-code-newsletter , remind me again of the importance of immutability
+
+https://news.ycombinator.com/item?id=34421594 , nice talk about tiktok
+
+https://mp.weixin.qq.com/s/6ZR3FApKswGnN-daUWImYQ , a great article about Chinese population
+
+https://www.cold-takes.com/transformative-ai-timelines-part-1-of-4-what-kind-of-ai/ , now it's possible to train whole human civilization with ai, like the example of "Cause scientific and technological advancement."
+
+http://paulgraham.com/words.html , read it again, that's why self-machines like blog, flomo, ai, etc. are so important
