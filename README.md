@@ -99,3 +99,11 @@ https://www.cold-takes.com/transformative-ai-timelines-part-1-of-4-what-kind-of-
 http://paulgraham.com/words.html , read it again, that's why self-machines like blog, flomo, ai, etc. are so important
 
 https://seb.jambor.dev/posts/systemd-by-example-part-2-dependencies/ , known the dependency part of systemd
+
+https://www.lesswrong.com/s/gFvira6tHpLXnqCLH/p/TGux5Fhcd7GmTfNGC , real reason is 'invisible to the eye'
+
+https://www.lesswrong.com/s/gFvira6tHpLXnqCLH/p/2MD3NMLBPCqPfnfre , remind me of Elon's cache sentences
+
+https://www.lesswrong.com/s/gFvira6tHpLXnqCLH/p/dLJv2CoRCgeC2mPgj , fix my wrong view of 'gray field'
+
+https://www.lesswrong.com/s/gFvira6tHpLXnqCLH/p/rmAbiEKQDpDnZzcRf , real world example is always more absurd
