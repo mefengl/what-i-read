@@ -81,3 +81,5 @@ https://annasofia.xyz/archives/ , also read the other articles from this blog
 https://wakeless.net/posts/the-full-stack , more than stack, everything is a stack
 
 https://blog.steatoda.com/rolling-release-api , v1/v2 stuff bring duplicate code
+
+https://blog.steatoda.com/native-code-is-slow , the wave of containerization is not over, it's just the beginning
