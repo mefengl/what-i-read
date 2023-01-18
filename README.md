@@ -97,3 +97,5 @@ https://mp.weixin.qq.com/s/6ZR3FApKswGnN-daUWImYQ , a great article about Chines
 https://www.cold-takes.com/transformative-ai-timelines-part-1-of-4-what-kind-of-ai/ , now it's possible to train whole human civilization with ai, like the example of "Cause scientific and technological advancement."
 
 http://paulgraham.com/words.html , read it again, that's why self-machines like blog, flomo, ai, etc. are so important
+
+https://seb.jambor.dev/posts/systemd-by-example-part-2-dependencies/ , known the dependency part of systemd
