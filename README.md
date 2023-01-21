@@ -107,3 +107,9 @@ https://www.lesswrong.com/s/gFvira6tHpLXnqCLH/p/2MD3NMLBPCqPfnfre , remind me of
 https://www.lesswrong.com/s/gFvira6tHpLXnqCLH/p/dLJv2CoRCgeC2mPgj , fix my wrong view of 'gray field'
 
 https://www.lesswrong.com/s/gFvira6tHpLXnqCLH/p/rmAbiEKQDpDnZzcRf , real world example is always more absurd
+
+21
+
+https://fs.blog/why-life-cant-be-simpler/?utm_source=densediscovery&utm_medium=email&utm_campaign=newsletter-issue-177 , reflection on simplicity, WET(Write Everything Twice) is not a bad thing
+
+https://fs.blog/spiral-of-silence/ , 'spiral of silence', good name
