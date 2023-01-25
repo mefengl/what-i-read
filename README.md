@@ -113,3 +113,25 @@ https://www.lesswrong.com/s/gFvira6tHpLXnqCLH/p/rmAbiEKQDpDnZzcRf , real world e
 https://fs.blog/why-life-cant-be-simpler/?utm_source=densediscovery&utm_medium=email&utm_campaign=newsletter-issue-177 , reflection on simplicity, WET(Write Everything Twice) is not a bad thing
 
 https://fs.blog/spiral-of-silence/ , 'spiral of silence', good name
+
+25
+
+https://www.theverge.com/23551060/elon-musk-twitter-takeover-layoffs-workplace-salute-emoji , read it though don't like it, it's 'hardcore' in a wrong way
+
+https://slate.com/technology/2023/01/wikipedia-redesign-vector-2022-skin.html , always like the no design design of wikipedia
+
+https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/ , normal article about advice for programmer
+
+https://writings.stephenwolfram.com/2023/01/wolframalpha-as-the-way-to-bring-computational-knowledge-superpowers-to-chatgpt/ , funny article, but the solution should not be add another model, it's add another layer, in other words, a bigger model
+
+https://mp.weixin.qq.com/s/zu-D1M5kg3Pt4KmSlNT5Vg , lightory's 2022 year review, like his writing style
+
+https://www.simplethread.com/relational-databases-arent-dinosaurs-theyre-sharks/ , the idea of 'shark' or 'dinosaur' is great
+
+https://fs.blog/twenty-five-pages-a-day/ , nice strategy to read more, to me, it's time to read when I have time to think about whether read or not
+
+https://fs.blog/the-antilibrary/ , antilibrary, what a great concept
+
+https://fs.blog/the-buffett-formula/ , amazing article, 'I don’t know anyone who’s wise who doesn’t read a lot'
+
+https://tegowerk.eu/posts/cruel-optimism/ , 'cruel optimism' and 'lazy optimism' is also two good concepts, like 'Pessimists are right, optimists succeed'
