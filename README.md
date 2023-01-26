@@ -135,3 +135,13 @@ https://fs.blog/the-antilibrary/ , antilibrary, what a great concept
 https://fs.blog/the-buffett-formula/ , amazing article, 'I don’t know anyone who’s wise who doesn’t read a lot'
 
 https://tegowerk.eu/posts/cruel-optimism/ , 'cruel optimism' and 'lazy optimism' is also two good concepts, like 'Pessimists are right, optimists succeed'
+
+26
+
+https://www.theatlantic.com/ideas/archive/2023/01/parents-saying-no-sleepovers-tiktok-controversy/672821/ , 'Sleepovers let kids get a slimpse of how other families live their lives'
+
+https://www.lesswrong.com/s/6xgy8XYEisLk3tCjH/p/nj8JKFoLSMEmD3RGp , 99% right need 34 evidence
+
+https://www.lesswrong.com/s/6xgy8XYEisLk3tCjH/p/XTXWPQSEgoMkAupKt , nice article about the Bayes' Rule, "10000 woman" and "bus driver's age" are good examples
+
+https://www.lesswrong.com/s/paoDwasxFpSpzwA2f/p/WBdvyyHLdxZSAMmoz , 'see whether you can think without using those terms at all'
