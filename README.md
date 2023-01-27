@@ -145,3 +145,11 @@ https://www.lesswrong.com/s/6xgy8XYEisLk3tCjH/p/nj8JKFoLSMEmD3RGp , 99% right ne
 https://www.lesswrong.com/s/6xgy8XYEisLk3tCjH/p/XTXWPQSEgoMkAupKt , nice article about the Bayes' Rule, "10000 woman" and "bus driver's age" are good examples
 
 https://www.lesswrong.com/s/paoDwasxFpSpzwA2f/p/WBdvyyHLdxZSAMmoz , 'see whether you can think without using those terms at all'
+
+27
+
+https://every.to/divinations/instagram-cant-recreate-tiktoks-magic-884063 , great article about TikTok's 'show the world' culture
+
+https://twitter.com/MatthewJBar/status/1618811583748268033 , awsome thread showing the problems that GDP measures the level of development, actually, when I know second-hand trade is not included in GDP, I know there must be something wrong if GDP is the only indicator of development
+
+https://www.worksinprogress.co/issue/there-was-no-great-stagnation/ , more details about above idea
