@@ -153,3 +153,7 @@ https://every.to/divinations/instagram-cant-recreate-tiktoks-magic-884063 , grea
 https://twitter.com/MatthewJBar/status/1618811583748268033 , awsome thread showing the problems that GDP measures the level of development, actually, when I know second-hand trade is not included in GDP, I know there must be something wrong if GDP is the only indicator of development
 
 https://www.worksinprogress.co/issue/there-was-no-great-stagnation/ , more details about above idea
+
+28
+
+https://neckar.substack.com/p/the-reading-obsession , a great article to read along with 'the-buffett-formula' above
