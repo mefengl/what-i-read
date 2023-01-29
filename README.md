@@ -157,3 +157,7 @@ https://www.worksinprogress.co/issue/there-was-no-great-stagnation/ , more detai
 28
 
 https://neckar.substack.com/p/the-reading-obsession , a great article to read along with 'the-buffett-formula' above
+
+29
+
+https://www.lesswrong.com/posts/dkchEFnM9EYpW3bjK/why-and-how-to-graduate-early-u-s , some tips about how to graduate early, too late for me though
