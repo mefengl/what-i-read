@@ -161,3 +161,7 @@ https://neckar.substack.com/p/the-reading-obsession , a great article to read al
 29
 
 https://www.lesswrong.com/posts/dkchEFnM9EYpW3bjK/why-and-how-to-graduate-early-u-s , some tips about how to graduate early, too late for me though
+
+31
+
+https://davidamos.dev/my-goldilocks-python-set-up/ , known the modern python set up
