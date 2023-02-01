@@ -165,3 +165,15 @@ https://www.lesswrong.com/posts/dkchEFnM9EYpW3bjK/why-and-how-to-graduate-early-
 31
 
 https://davidamos.dev/my-goldilocks-python-set-up/ , known the modern python set up
+
+## 2023-02
+
+01
+
+https://www.ft.com/content/9d84d534-b2dd-4cff-85d1-aee137b26a45 , TwitterPay
+
+https://sebastiancarlos.com/react-js-best-practices-from-the-new-docs-1c65570e785d , amazing article talk about react new docs
+
+https://www.lesswrong.com/s/pFatcKW3JJhTSxqAF/p/ijYCZSQvgNeaQqcHN , 'If you're trying to do something, then do it with minimum effort. Anything else is wasted motion.'
+
+https://www.lesswrong.com/s/pFatcKW3JJhTSxqAF/p/HpHnMEiHYzSZiYk6g , don't see `give up` as a failure, it also closer to the good side of `try`
