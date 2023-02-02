@@ -177,3 +177,7 @@ https://sebastiancarlos.com/react-js-best-practices-from-the-new-docs-1c65570e78
 https://www.lesswrong.com/s/pFatcKW3JJhTSxqAF/p/ijYCZSQvgNeaQqcHN , 'If you're trying to do something, then do it with minimum effort. Anything else is wasted motion.'
 
 https://www.lesswrong.com/s/pFatcKW3JJhTSxqAF/p/HpHnMEiHYzSZiYk6g , don't see `give up` as a failure, it also closer to the good side of `try`
+
+02
+
+https://www.fastcompany.com/90841814/ditching-gmail-for-37signals-hey-email , a user story of 'Hey' email
