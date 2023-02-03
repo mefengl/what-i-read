@@ -181,3 +181,13 @@ https://www.lesswrong.com/s/pFatcKW3JJhTSxqAF/p/HpHnMEiHYzSZiYk6g , don't see `g
 02
 
 https://www.fastcompany.com/90841814/ditching-gmail-for-37signals-hey-email , a user story of 'Hey' email
+
+03
+
+https://zura.wiki/post/manners-in-the-chinese-workplace/ , so interesting to read it as a Chinese
+
+https://zura.wiki/post/dictionary/ , Ta is really serious about these words
+
+https://event-driven.io/en/agile_vs_introverts/ , great article as I'm an introvert coder
+
+https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals#question-1-how-is-the-40-number-measured , kind of amazing, at least, now I know how GitHub Copilot works, although still can't live without it
