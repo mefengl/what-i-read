@@ -203,3 +203,25 @@ https://basecamp.com/shapeup/2.1-chapter-07 , important questions are worth aski
 https://basecamp.com/shapeup/2.2-chapter-08 , the idea of 'cool-down/clean-up' is also great, cool-down for two weeks, why not 
 
 https://www.outsystems.com/blog/posts/people-who-are-serious-about-programming/ , use native language to write native app
+
+06
+
+https://www.nytimes.com/interactive/2023/02/05/world/asia/china-obits-covid.html ,  it's a shame that our own media can't make such a report
+
+https://www.lesswrong.com/s/pFatcKW3JJhTSxqAF/p/8uk5bmmpJaSAgnZfg , "You're allowed to reject arbitrarily good amounts of faked pleasure-experience in order to avoid bad real-world outcomes."
+
+https://www.lesswrong.com/s/pFatcKW3JJhTSxqAF/p/HqQ3CpMqQyaaLLKew , 'should' assumes that there's only bad or worse options
+
+https://www.lesswrong.com/s/pFatcKW3JJhTSxqAF/p/jvByGYcBzfYB78sYL , 'but as an honor'
+
+https://www.lesswrong.com/s/pFatcKW3JJhTSxqAF/p/grfDjRpWr2xjtLBvi , 'The goal is not to maximize how much work you get done today. The goal is to maximize your productivity over time'
+
+https://www.lesswrong.com/s/pFatcKW3JJhTSxqAF/p/Kdgpm7t9gZvWncZqa , 'rest and health are just two of the unending streams that you move through'
+
+https://www.lesswrong.com/s/pFatcKW3JJhTSxqAF/p/TzpjnLf3oyEegmu9r , it's ok to be afraid of this world
+
+https://acko.net/blog/get-in-zoomer-we-re-saving-react/ , common old days developer's honor
+
+https://mindingourway.com/have-no-excuses/ , "you won't be measured by how good your excuses were"
+
+https://mindingourway.com/come-to-your-terms/ , when it comes to big problems, be extremely transparent
