@@ -174,9 +174,9 @@ https://www.ft.com/content/9d84d534-b2dd-4cff-85d1-aee137b26a45 , TwitterPay
 
 https://sebastiancarlos.com/react-js-best-practices-from-the-new-docs-1c65570e785d , an amazing article talking about React new docs
 
-https://www.lesswrong.com/s/pFatcKW3JJhTSxqAF/p/ijYCZSQvgNeaQqcHN , 'If you're trying to do something, then do it with minimum effort. Anything else is wasted motion.'
+https://mindingourway.com/half-assing-it-with-everything-youve-got/ , 'If you're trying to do something, then do it with minimum effort. Anything else is wasted motion.'
 
-https://www.lesswrong.com/s/pFatcKW3JJhTSxqAF/p/HpHnMEiHYzSZiYk6g , don't see `give up` as a failure, it is also closer to the good side of `try`
+https://mindingourway.com/failing-with-abandon/ , don't see `give up` as a failure, it is also closer to the good side of `try`
 
 02
 
@@ -208,17 +208,17 @@ https://www.outsystems.com/blog/posts/people-who-are-serious-about-programming/ 
 
 https://www.nytimes.com/interactive/2023/02/05/world/asia/china-obits-covid.html ,  it's a shame that our media can't make such a report
 
-https://www.lesswrong.com/s/pFatcKW3JJhTSxqAF/p/8uk5bmmpJaSAgnZfg , "You're allowed to reject arbitrarily good amounts of faked pleasure-experience to avoid bad real-world outcomes."
+https://mindingourway.com/youre-allowed-to-fight-for-something/ , "You're allowed to reject arbitrarily good amounts of faked pleasure-experience to avoid bad real-world outcomes."
 
-https://www.lesswrong.com/s/pFatcKW3JJhTSxqAF/p/HqQ3CpMqQyaaLLKew , 'should' assumes that there are only bad or worse options
+https://mindingourway.com/should-considered-harmful/ , 'should' assumes that there are only bad or worse options
 
-https://www.lesswrong.com/s/pFatcKW3JJhTSxqAF/p/jvByGYcBzfYB78sYL , 'but as an honor'
+https://mindingourway.com/shoulds-are-not-a-duty/ , 'but as an honor'
 
-https://www.lesswrong.com/s/pFatcKW3JJhTSxqAF/p/grfDjRpWr2xjtLBvi , 'The goal is not to maximize how much work you get done today. The goal is to maximize your productivity over time
+https://mindingourway.com/stop-before-you-drop/ , 'The goal is not to maximize how much work you get done today. The goal is to maximize your productivity over time
 
-https://www.lesswrong.com/s/pFatcKW3JJhTSxqAF/p/Kdgpm7t9gZvWncZqa , 'rest and health are just two of the unending streams that you move through
+https://mindingourway.com/rest-in-motion/ , 'rest and health are just two of the unending streams that you move through
 
-https://www.lesswrong.com/s/pFatcKW3JJhTSxqAF/p/TzpjnLf3oyEegmu9r , it's ok to be afraid of this world
+https://mindingourway.com/being-unable-to-despair/ , it's ok to be afraid of this world
 
 https://acko.net/blog/get-in-zoomer-we-re-saving-react/ , common old days developer's honor
 
@@ -273,3 +273,29 @@ https://alexkondov.com/encapsulate-what-varies/ , isolate the things that change
 https://alexkondov.com/what-is-bikeshedding/ , now I know that 'bikeshedding' is called 'bikeshedding'
 
 https://alexkondov.com/how-good-is-typescript/ , things I already know, but glad to read others' opinion
+
+https://matklad.github.io/2020/09/13/your-language-sucks.html , interesting language comparison
+
+08
+
+https://matklad.github.io/2020/08/11/things-I-have-learned-about-life.html , "if it’s OK to love both your kids, than it should be OK to love both your partners, right?"
+
+https://mindingourway.com/transmute-guilt-i/ ,  "Guilt was made for us, not us for it"
+
+https://mindingourway.com/there-is-no-try/ , when you say 'try', failure is the second option, replace it with 'next step(s)', failure is at 4th or more depending on how many steps you have
+
+https://www.ejorgenson.com/blog/lifetime-of-expenses , interesting conclusion
+
+https://mindingourway.com/the-art-of-response/ , "get to a solution before self-doubt creeps in"
+
+https://mindingourway.com/desperation/ , desperation is a tool to avoid wasting self potential
+
+https://mindingourway.com/recklessness/ , "Try not to break anything vital, but if you do, fix it and keep moving."
+
+https://mindingourway.com/defiance/ , "fuck these mortal constraints, I'm fixing things."
+
+https://mindingourway.com/self-signaling-the-ability-to-do-what-you-want/ , "Two bites left? Screw it, get me a take-out box.", "A problem isn't solved until it's solved automatically, without need for attention or willpower."
+
+https://www.lesswrong.com/s/paoDwasxFpSpzwA2f/p/kpRSCH7ALLcb6ucWM , fix my obsession with complexity
+
+http://jlord.us/essential-electron/ , a good introduction to Electron
