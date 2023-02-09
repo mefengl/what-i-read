@@ -299,3 +299,13 @@ https://mindingourway.com/self-signaling-the-ability-to-do-what-you-want/ , "Two
 https://www.lesswrong.com/s/paoDwasxFpSpzwA2f/p/kpRSCH7ALLcb6ucWM , fix my obsession with complexity
 
 http://jlord.us/essential-electron/ , a good introduction to Electron
+
+09
+
+http://paulgraham.com/artistsship.html , programmers are willing to pay if they can publish their work instantly instead of waiting for approval
+
+https://www.topspeed.com/why-the-tesla-cybertruck-doesnt-deserve-all-the-hate-it-gets/ , quite detailed article of Cybertruck
+
+https://www.amitmerchant.com/put-the-secondary-sidebar-of-vs-code-to-good-use/ , looks nice to put outline in another sidebar
+
+https://ark-invest.com/home-thank-you-big-ideas-2023 , amazing ppts to show the progress of humanity
