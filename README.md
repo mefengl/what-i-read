@@ -309,3 +309,13 @@ https://www.topspeed.com/why-the-tesla-cybertruck-doesnt-deserve-all-the-hate-it
 https://www.amitmerchant.com/put-the-secondary-sidebar-of-vs-code-to-good-use/ , looks nice to put outline in another sidebar
 
 https://ark-invest.com/home-thank-you-big-ideas-2023 , amazing ppts to show the progress of humanity
+
+10
+
+https://www.smashingmagazine.com/2023/01/key-good-component-design-selfishness/ , very good article about a right mindset of component design, what really should a button, a header, a footer do, etc.
+
+13
+
+https://davidamos.dev/chatgpt-is-an-extra-ordinary-python-programmer/ , great usage of ChatGPT to write program, just like writing an essay, let ChatGPT fill the outline
+
+https://fs.blog/knowledge-project-podcast/kunal-shah/ , the insight of Indian society is interesting
