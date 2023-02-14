@@ -319,3 +319,7 @@ https://www.smashingmagazine.com/2023/01/key-good-component-design-selfishness/ 
 https://davidamos.dev/chatgpt-is-an-extra-ordinary-python-programmer/ , great usage of ChatGPT to write program, just like writing an essay, let ChatGPT fill the outline
 
 https://fs.blog/knowledge-project-podcast/kunal-shah/ , the insight of Indian society is interesting
+
+14
+
+https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web , great idea to compare ChatGPT with the printer
