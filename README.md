@@ -324,6 +324,12 @@ https://fs.blog/knowledge-project-podcast/kunal-shah/ , the insight of Indian so
 
 https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web , great idea to compare ChatGPT with the printer
 
+15
+
+https://world.hey.com/dhh/inspiration-is-perishable-f2c8652e , read it long time ago, it affects me a lot
+
 16
 
 https://stratechery.com/2023/from-bing-to-sydney-search-as-distraction-sentient-ai/ , like a science fiction
+
+https://arc.net/e/D25B2EEA-7506-4850-A169-3B2A00802889 , "What if the best tab is the one you never create?", of course, of course, my Arc
