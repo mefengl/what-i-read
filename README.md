@@ -323,3 +323,7 @@ https://fs.blog/knowledge-project-podcast/kunal-shah/ , the insight of Indian so
 14
 
 https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web , great idea to compare ChatGPT with the printer
+
+16
+
+https://stratechery.com/2023/from-bing-to-sydney-search-as-distraction-sentient-ai/ , like a science fiction
