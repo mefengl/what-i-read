@@ -324,6 +324,8 @@ https://fs.blog/knowledge-project-podcast/kunal-shah/ , the insight of Indian so
 
 https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web , great idea to compare ChatGPT with the printer
 
+https://www.benkuhn.net/abyss/ , when to quit, quit quickly
+
 15
 
 https://world.hey.com/dhh/inspiration-is-perishable-f2c8652e , read it long time ago, it affects me a lot
