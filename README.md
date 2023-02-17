@@ -335,3 +335,11 @@ https://world.hey.com/dhh/inspiration-is-perishable-f2c8652e , read it long time
 https://stratechery.com/2023/from-bing-to-sydney-search-as-distraction-sentient-ai/ , like a science fiction
 
 https://arc.net/e/D25B2EEA-7506-4850-A169-3B2A00802889 , "What if the best tab is the one you never create?", of course, of course, my Arc
+
+17
+
+https://neugierig.org/software/blog/2022/12/chrome.html , meaningful article about how Chrome started
+
+https://neugierig.org/software/blog/2022/10/blog-software.html , write a blog generator, why not
+
+https://www.neugierig.org/software/blog/2022/12/simple-web-hacks.html , a reasonable setup for 10 year project
