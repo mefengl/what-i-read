@@ -343,3 +343,7 @@ https://neugierig.org/software/blog/2022/12/chrome.html , meaningful article abo
 https://neugierig.org/software/blog/2022/10/blog-software.html , write a blog generator, why not
 
 https://www.neugierig.org/software/blog/2022/12/simple-web-hacks.html , a reasonable setup for 10 year project
+
+18
+
+https://www.historydefined.net/sleeping-8-hours-per-night-is-a-surprisingly-new-concept/ , view sleep without opinion
