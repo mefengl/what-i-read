@@ -347,3 +347,9 @@ https://www.neugierig.org/software/blog/2022/12/simple-web-hacks.html , a reason
 18
 
 https://www.historydefined.net/sleeping-8-hours-per-night-is-a-surprisingly-new-concept/ , view sleep without opinion
+
+19
+
+https://fs.blog/the-human-mind-has-a-shut-off-device/ , "Once you’ve formed a belief, adding exceptions and justifications becomes easier than updating it." same as "normal people believe the idea that comes last"
+
+https://en.wikipedia.org/wiki/List_of_countries_by_suicide_rate , the answers of human being
