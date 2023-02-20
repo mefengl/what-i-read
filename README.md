@@ -353,3 +353,11 @@ https://www.historydefined.net/sleeping-8-hours-per-night-is-a-surprisingly-new-
 https://fs.blog/the-human-mind-has-a-shut-off-device/ , "Once you’ve formed a belief, adding exceptions and justifications becomes easier than updating it." same as "normal people believe the idea that comes last"
 
 https://en.wikipedia.org/wiki/List_of_countries_by_suicide_rate , the answers of human being
+
+20
+
+https://sive.rs/hyn , "If you’re not feeling “hell yeah!” then say no"
+
+https://www.builder.io/blog/usesignal-is-the-future-of-web-frameworks , known the idea of `useSignal`
+
+https://medium.com/@aplaceofmind/ventura-is-not-macos-its-macios-1d00f12fa01e , so funny means it must be true
