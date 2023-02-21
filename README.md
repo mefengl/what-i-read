@@ -361,3 +361,17 @@ https://sive.rs/hyn , "If you’re not feeling “hell yeah!” then say no"
 https://www.builder.io/blog/usesignal-is-the-future-of-web-frameworks , known the idea of `useSignal`
 
 https://medium.com/@aplaceofmind/ventura-is-not-macos-its-macios-1d00f12fa01e , so funny means it must be true
+
+21
+
+https://world.hey.com/dhh/we-stand-to-save-7m-over-five-years-from-our-cloud-exit-53996caa , "And what, Gul'dan,must we give it return?"
+
+https://spacelift.io/blog/iac-architecture-patterns-terragrunt , nice points of IaC, #terraform #iac
+
+https://spacelift.io/blog/terraform-automation , introducing some really useful command, #terraform #iac
+
+https://spacelift.io/blog/infrastructure-problems-that-spacelift-solves , interesting problems and solutions, #terraform #iac
+
+https://spacelift.io/blog/multi-cloud-infrastructure-strategy , nice article about `Multi-Cloud Infrastructure`, #terraform #iac #mci
+
+https://spacelift.io/blog/devops-best-practices , give great anti-patterns, #terraform #iac
