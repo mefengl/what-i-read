@@ -375,3 +375,9 @@ https://spacelift.io/blog/infrastructure-problems-that-spacelift-solves , intere
 https://spacelift.io/blog/multi-cloud-infrastructure-strategy , nice article about `Multi-Cloud Infrastructure`, #terraform #iac #mci
 
 https://spacelift.io/blog/devops-best-practices , give great anti-patterns, #terraform #iac
+
+22
+
+https://replicate.com/blog/machine-learning-needs-better-tools , there are just so much opportunities in following years, after web, mobile, now it's consumer grade AI
+
+http://apihandyman.io/writing-openapi-swagger-specification-tutorial-part-3-simplifying-specification-file/ , great article about simplifying OpenAPI, though it's OpenAPI 2.0, but still useful
