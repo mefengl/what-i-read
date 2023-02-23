@@ -381,3 +381,9 @@ https://spacelift.io/blog/devops-best-practices , give great anti-patterns, #ter
 https://replicate.com/blog/machine-learning-needs-better-tools , there are just so much opportunities in following years, after web, mobile, now it's consumer grade AI
 
 http://apihandyman.io/writing-openapi-swagger-specification-tutorial-part-3-simplifying-specification-file/ , great article about simplifying OpenAPI, though it's OpenAPI 2.0, but still useful
+
+23
+
+https://worksinprogress.substack.com/p/creating-the-world-that-has-never , the weakness of science
+
+https://www.ejorgenson.com/blog/free-with-technology-not-subsidy , the weakness of government subsidy
