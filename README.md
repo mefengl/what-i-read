@@ -387,3 +387,9 @@ http://apihandyman.io/writing-openapi-swagger-specification-tutorial-part-3-simp
 https://worksinprogress.substack.com/p/creating-the-world-that-has-never , the weakness of science
 
 https://www.ejorgenson.com/blog/free-with-technology-not-subsidy , the weakness of government subsidy
+
+24
+
+https://leerob.substack.com/p/why-im-optimistic-about-javascripts , javascript, yes!
+
+https://mp.weixin.qq.com/s/a0m0EsuiLP2Jvc8c7egR4w , how to live a modern life
