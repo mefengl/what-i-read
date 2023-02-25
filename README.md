@@ -393,3 +393,9 @@ https://www.ejorgenson.com/blog/free-with-technology-not-subsidy , the weakness 
 https://leerob.substack.com/p/why-im-optimistic-about-javascripts , javascript, yes!
 
 https://mp.weixin.qq.com/s/a0m0EsuiLP2Jvc8c7egR4w , how to live a modern life
+
+25
+
+https://www.scotthyoung.com/blog/2007/10/18/the-art-of-the-finish-how-to-go-from-busy-to-accomplished/ , read it many many times, shaped the way I do things to some degree
+
+https://world.hey.com/dhh/get-out-of-momentum-s-way-765248d2 , not making things then making trouble
