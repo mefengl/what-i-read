@@ -403,3 +403,11 @@ https://world.hey.com/dhh/get-out-of-momentum-s-way-765248d2 , not making things
 26
 
 https://davidamos.dev/who-is-reading-your-docs/ , docs for readers
+
+28
+
+https://www.lloydatkinson.net/posts/2022/react-conditional-rendering-with-type-safety-and-exhaustive-checking/ , great article about how to use typescript for an array of react node
+
+https://blog.kebab-ca.se/chapters/2023-02-12-sqlite-wasm/overview.html , C can run everywhere, except the browser, but now with WebAssembly, it can
+
+https://fly.io/blog/love-letter-react/ , learn so much from React and its community
