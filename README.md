@@ -411,3 +411,21 @@ https://www.lloydatkinson.net/posts/2022/react-conditional-rendering-with-type-s
 https://blog.kebab-ca.se/chapters/2023-02-12-sqlite-wasm/overview.html , C can run everywhere, except the browser, but now with WebAssembly, it can
 
 https://fly.io/blog/love-letter-react/ , learn so much from React and its community
+
+## 2023-03
+
+05
+
+http://www.paulgraham.com/gh.html , I am and will be a great hacker
+
+http://www.paulgraham.com/mit.html , so inspiring
+
+http://www.paulgraham.com/usa.html , impatience and the desire to complete
+
+http://www.paulgraham.com/marginal.html , known marginal
+
+http://www.paulgraham.com/gap.html , the gap between the best and the rest
+
+https://www.vice.com/en/article/pkg7jm/chatgpt-china-openai-baidu-ernie-censorship , calm down a bit
+
+http://www.paulgraham.com/selfindulgence.html , the danger of second goods
