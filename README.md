@@ -414,6 +414,12 @@ https://fly.io/blog/love-letter-react/ , learn so much from React and its commun
 
 ## 2023-03
 
+02
+
+https://gist.github.com/gtallen1187/e83ed02eac6cc8d7e185 , amazing article about learning speed's impact
+
+https://newsletter.simpleaws.dev/p/serverless-web-app , used to think this is cool, but now, why I don't use Cloudflare Workers?
+
 05
 
 http://www.paulgraham.com/gh.html , I am and will be a great hacker
@@ -429,3 +435,11 @@ http://www.paulgraham.com/gap.html , the gap between the best and the rest
 https://www.vice.com/en/article/pkg7jm/chatgpt-china-openai-baidu-ernie-censorship , calm down a bit
 
 http://www.paulgraham.com/selfindulgence.html , the danger of second goods
+
+https://world.hey.com/dhh/saas-startups-will-have-to-care-about-productivity-again-78d4bd1a , return to the basics
+
+06
+
+https://lspace.swyx.io/p/varun-mohan , known Codium
+
+https://jwang18.substack.com/p/gen-ai-more-human , the mix of human and AI in dating app is interesting
