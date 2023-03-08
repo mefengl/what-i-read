@@ -443,3 +443,13 @@ https://world.hey.com/dhh/saas-startups-will-have-to-care-about-productivity-aga
 https://lspace.swyx.io/p/varun-mohan , known Codium
 
 https://jwang18.substack.com/p/gen-ai-more-human , the mix of human and AI in dating app is interesting
+
+08
+
+https://every.to/divinations/how-ideas-grow , only real value deserves to be shared
+
+https://www.lesswrong.com/posts/W5HcGywyPoDDdJtbz/trigger-action-planning , make TAPs
+
+https://www.lesswrong.com/posts/ZHWiCM4QmX8WwYajH/goal-factoring-1 , the goal is not the smallest unit of desire
+
+https://www.lesswrong.com/posts/dvzwqLbpSK2nD8Yvn/aversion-factoring , the aversion is not the smallest unit of "don't want"
