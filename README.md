@@ -453,3 +453,11 @@ https://www.lesswrong.com/posts/W5HcGywyPoDDdJtbz/trigger-action-planning , make
 https://www.lesswrong.com/posts/ZHWiCM4QmX8WwYajH/goal-factoring-1 , the goal is not the smallest unit of desire
 
 https://www.lesswrong.com/posts/dvzwqLbpSK2nD8Yvn/aversion-factoring , the aversion is not the smallest unit of "don't want"
+
+09
+
+https://www.lesswrong.com/posts/3Jggtk5otfDoL7Lpq/turbocharging , remind me to consider the gap between the amusement park and the real world
+
+https://www.lesswrong.com/posts/hBKnkx8xvmhGZPdmg/goodhart-s-imperius-1 , brain will take us to the goal, but "The map is not the territory"
+
+https://www.lesswrong.com/posts/QKpmPBpyCdNbBKAdR/systemization , the system is the goal, always systemize, but not systematize everything
