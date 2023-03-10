@@ -461,3 +461,7 @@ https://www.lesswrong.com/posts/3Jggtk5otfDoL7Lpq/turbocharging , remind me to c
 https://www.lesswrong.com/posts/hBKnkx8xvmhGZPdmg/goodhart-s-imperius-1 , brain will take us to the goal, but "The map is not the territory"
 
 https://www.lesswrong.com/posts/QKpmPBpyCdNbBKAdR/systemization , the system is the goal, always systemize, but not systematize everything
+
+10
+
+https://stevepulec.com/posts/small/ , nice examples of small team
