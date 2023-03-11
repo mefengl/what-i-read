@@ -444,6 +444,12 @@ https://lspace.swyx.io/p/varun-mohan , known Codium
 
 https://jwang18.substack.com/p/gen-ai-more-human , the mix of human and AI in dating app is interesting
 
+07
+
+
+https://www.lesswrong.com/s/KAv8z6oJCTxjR8vdR/p/gKeHcikcXA3bApyoM , so many interesting ideas
+
+
 08
 
 https://every.to/divinations/how-ideas-grow , only real value deserves to be shared
@@ -465,3 +471,17 @@ https://www.lesswrong.com/posts/QKpmPBpyCdNbBKAdR/systemization , the system is 
 10
 
 https://stevepulec.com/posts/small/ , nice examples of small team
+
+11
+
+https://www.lesswrong.com/posts/jiJquD34sa9Lyo5wc/resolve-cycles , you can always resolve the cycle in 5 minutes, cause you can always give up after all
+
+https://www.lesswrong.com/posts/f3o9ydY7iPjFF2fyk/focusing-1 , amazing article, focus is not only do one thing, instead, it's literally like take a photo, the focus is about to align
+
+https://www.lesswrong.com/posts/WFEt8QHGrnSQzPa9W/bucket-errors , use a concept called "bucket" to store different kinds of ideas?
+
+https://www.lesswrong.com/posts/CJGKkTjWLGCwhkjGY/socratic-ducking-ooda-loops-frame-by-frame-debugging , "couter vagueness"
+
+https://www.lesswrong.com/posts/T8piFGywHFd4ax9yx/gears-level-understanding-deliberate-performance-the , "Gears-Level Understanding", "Deliberate Performance", great concepts
+
+https://www.lesswrong.com/posts/8FsLyk6oDrhoqWEjB/pendulums-policy-level-decisionmaking-saving-state , when planning for the future today, it is also necessary to consider the veil of ignorance.
