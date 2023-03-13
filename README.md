@@ -495,3 +495,15 @@ https://www.lesswrong.com/posts/CJGKkTjWLGCwhkjGY/socratic-ducking-ooda-loops-fr
 https://www.lesswrong.com/posts/T8piFGywHFd4ax9yx/gears-level-understanding-deliberate-performance-the , "Gears-Level Understanding", "Deliberate Performance", great concepts
 
 https://www.lesswrong.com/posts/8FsLyk6oDrhoqWEjB/pendulums-policy-level-decisionmaking-saving-state , when planning for the future today, it is also necessary to consider the veil of ignorance.
+
+13
+
+https://mp.weixin.qq.com/s/RlzIJItge7jjRqGwdu6-0Q , a refined article about ChatGPT
+
+https://www.lesswrong.com/posts/dLbkrPu5STNCBLRjr/applause-lights , If an idea looks completely unreasonable when flipped over, it means that the original idea is absolutely correct and absolutely meaningless
+
+https://www.lesswrong.com/posts/MwQRucYo6BZZwjKE7/einstein-s-arrogance , "Einstein's arrogance" is the pride of the person who does things
+
+https://www.lesswrong.com/posts/f4txACqDWithRi7hs/occam-s-razor , a word added information or just extended the length of the sentence
+
+https://www.lesswrong.com/posts/5JDkW4MYXit2CquLs/your-strength-as-a-rationalist , read again, this is the pride of a rationalist, there may be more posibilities that stories isn't true
