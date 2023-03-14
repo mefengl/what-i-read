@@ -507,3 +507,27 @@ https://www.lesswrong.com/posts/MwQRucYo6BZZwjKE7/einstein-s-arrogance , "Einste
 https://www.lesswrong.com/posts/f4txACqDWithRi7hs/occam-s-razor , a word added information or just extended the length of the sentence
 
 https://www.lesswrong.com/posts/5JDkW4MYXit2CquLs/your-strength-as-a-rationalist , read again, this is the pride of a rationalist, there may be more posibilities that stories isn't true
+
+https://letterstoanewdeveloper.com/2023/03/06/understanding-people-matters-more-than-understanding-tech/ , "people matter more than tech"
+
+https://www.swyx.io/puwtpd , give help to maintain everything deserves to be maintained, why not? It's good for myself, and it's good for the world
+
+https://www.swyx.io/measuring-devrel , given good metrics to measure the community health
+
+https://www.swyx.io/js-third-age , nice article about js's past and future
+
+https://www.swyx.io/cloudflare-go , interesting article about Cloudflare's cloud
+
+https://www.swyx.io/part-time-creator-manifesto , just like this kind of article
+
+https://en.wikipedia.org/wiki/Hedonic_treadmill , "richer doesn't always mean happier", but richer gives you more choices
+
+https://til.simonwillison.net/gpt3/chatgpt-applescript , yes! ChatGPT can write applescript! still wandering why I don't think about this before, I have use it to write bash script for months!
+
+https://pmarca.substack.com/p/followup-to-why-ai-wont-cause-unemployment , another evidence of basic income already exists
+
+https://world.hey.com/dhh/actions-beat-arguments-2aa1da34 , a recent mistake I made is to convince others to join me instead of just doing it myself, cause words are so powerless
+
+https://outlook.live.com/mail/0/inbox/id/AQQkADAwATM3ZmYAZS01NDM2LTI3MjIALTAwAi0wMAoAEADFWzWVwaqGS6iFvYdjax5U , a way to let human involved in the process of ChatGPT
+
+http://www.paulgraham.com/head.html , great principles for own project
