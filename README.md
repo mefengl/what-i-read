@@ -531,3 +531,7 @@ https://world.hey.com/dhh/actions-beat-arguments-2aa1da34 , a recent mistake I m
 https://outlook.live.com/mail/0/inbox/id/AQQkADAwATM3ZmYAZS01NDM2LTI3MjIALTAwAi0wMAoAEADFWzWVwaqGS6iFvYdjax5U , a way to let human involved in the process of ChatGPT
 
 http://www.paulgraham.com/head.html , great principles for own project
+
+15
+
+https://www.theverge.com/2023/3/14/23638033/openai-gpt-4-chatgpt-multimodal-deep-learning , known gpt-4
