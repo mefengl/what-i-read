@@ -535,3 +535,7 @@ http://www.paulgraham.com/head.html , great principles for own project
 15
 
 https://www.theverge.com/2023/3/14/23638033/openai-gpt-4-chatgpt-multimodal-deep-learning , known gpt-4
+
+19
+
+https://emaggiori.com/employed-in-tech-for-years-but-almost-never-worked/ , I want to tried this
