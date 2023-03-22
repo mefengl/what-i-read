@@ -539,3 +539,7 @@ https://www.theverge.com/2023/3/14/23638033/openai-gpt-4-chatgpt-multimodal-deep
 19
 
 https://emaggiori.com/employed-in-tech-for-years-but-almost-never-worked/ , I want to tried this
+
+22
+
+https://moores.samaltman.com/ , the allocation problem will become a stupid question
