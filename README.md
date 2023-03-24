@@ -543,3 +543,7 @@ https://emaggiori.com/employed-in-tech-for-years-but-almost-never-worked/ , I wa
 22
 
 https://moores.samaltman.com/ , the allocation problem will become a stupid question
+
+24
+
+http://habitatchronicles.com/2004/04/you-cant-tell-people-anything/ , another way to say "talk is cheap"
