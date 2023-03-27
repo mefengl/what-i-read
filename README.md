@@ -547,3 +547,13 @@ https://moores.samaltman.com/ , the allocation problem will become a stupid ques
 24
 
 http://habitatchronicles.com/2004/04/you-cant-tell-people-anything/ , another way to say "talk is cheap"
+
+27
+
+https://importai.substack.com/p/import-ai-321-open-source-gpt3-giving , `capability overhang`
+
+https://about.fb.com/news/2023/03/mark-zuckerberg-meta-year-of-efficiency , looks like another Elon's style
+
+https://blog.logrocket.com/exploring-competitive-features-node-js-v18-v19/ , slowly accepted, it is a fact that node v18 is already a very stable version
+
+https://writings.stephenwolfram.com/2023/03/will-ais-take-all-our-jobs-and-end-human-history-or-not-well-its-complicated/ , the first half is very good, understanding the incompleteness of computation. Just like programming, if some difficulties must be solved in the process of programming, then this complexity is actually irreducible
