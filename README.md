@@ -557,3 +557,9 @@ https://about.fb.com/news/2023/03/mark-zuckerberg-meta-year-of-efficiency , look
 https://blog.logrocket.com/exploring-competitive-features-node-js-v18-v19/ , slowly accepted, it is a fact that node v18 is already a very stable version
 
 https://writings.stephenwolfram.com/2023/03/will-ais-take-all-our-jobs-and-end-human-history-or-not-well-its-complicated/ , the first half is very good, understanding the incompleteness of computation. Just like programming, if some difficulties must be solved in the process of programming, then this complexity is actually irreducible
+
+28
+
+https://www.eugenewei.com/blog/2017/5/11/jpeg-your-ideas , a nice article about the things people easily remember
+
+https://world.hey.com/dhh/why-is-paid-social-media-a-bad-idea-623a9c76 , ha, title says it's a bad idea, but the article is actually happy to see it, very funny ideas to see it as a experiment
