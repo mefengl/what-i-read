@@ -2,13 +2,13 @@
 
 current read speed:
 
-3 articles per day
+2 articles per day
 
-20 articles per week
+10 articles per week
 
 current add speed:
 
-more than 20 articles per week?
+more than 10 articles per week?
 
 ## 2023-01
 
@@ -563,3 +563,15 @@ https://writings.stephenwolfram.com/2023/03/will-ais-take-all-our-jobs-and-end-h
 https://www.eugenewei.com/blog/2017/5/11/jpeg-your-ideas , a nice article about the things people easily remember
 
 https://world.hey.com/dhh/why-is-paid-social-media-a-bad-idea-623a9c76 , ha, title says it's a bad idea, but the article is actually happy to see it, very funny ideas to see it as a experiment
+
+30
+
+https://react.dev/blog/2023/03/22/react-labs-what-we-have-been-working-on-march-2023 , looks cool
+
+https://frontendmastery.com/posts/rethinking-react-best-practices/ , a very good supplement to the previous article
+
+https://www.riffusion.com/about , generating a spectrum image with stable diffusion, and then playing it, how incredible.
+
+https://openai.com/blog/chatgpt-plugins , the features showcased in ChatGPT's auto browser web, such as the ability to click and scroll like a human, along with the sandbox for running Python code are really impressive
+
+https://world.hey.com/dhh/america-is-never-getting-to-denmark-e471ae91 , interesting article about the difference between the US and Denmark caused by the difference in the cultural integration
