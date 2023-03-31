@@ -575,3 +575,29 @@ https://www.riffusion.com/about , generating a spectrum image with stable diffus
 https://openai.com/blog/chatgpt-plugins , the features showcased in ChatGPT's auto browser web, such as the ability to click and scroll like a human, along with the sandbox for running Python code are really impressive
 
 https://world.hey.com/dhh/america-is-never-getting-to-denmark-e471ae91 , interesting article about the difference between the US and Denmark caused by the difference in the cultural integration
+
+31
+
+https://www.vantage.sh/blog/cloudflare-r2-aws-s3-comparison , nice article about the comparison between Cloudflare R2 and AWS S3
+
+https://herbcaudill.com/words/20190219-rewrite-refactor-reinvent , interesting article about rewrite
+
+https://simonwillison.net/2023/Mar/27/ai-enhanced-development/ , introduce a way of replace the original fetch with a new one, which can be used to log the request and response (and can be used in my chat-kit project)
+
+https://www.quantamagazine.org/brains-speed-up-perception-by-guessing-whats-next-20190502/ , brain's pre-fetching
+
+https://www.lesswrong.com/s/5uZQHpecjn7955faL/p/DwtYPRuCxpXTrzG9m , "Do not attempt long chains of reasoning", I like the name of "long chains of reasoning"
+
+https://robertwpearce.com/how-to-lose-functional-programming-at-work , great article about best practices in code
+
+https://www.epicweb.dev/fully-typed-web-apps , "type, ui, backend", this article's idea of put the type in same level with ui and backend is very inspiring
+
+https://www.epicweb.dev/full-stack-components , just so cool
+
+https://swizec.com/blog/reader-question-how-to-grow-10-years-into-your-career/ , mentioned many ideas I heard before, such as "y-intercept doesn't matter", "senior engineer is a terminal title"
+
+https://swizec.com/blog/the-programming-tutorial-seo-industry-is-dead/ , yes, I am glad to see seo not important as before, cause I am not good at it
+
+https://swizec.com/blog/done-means-shipped/ , "Fucken' ship", haha
+
+https://world.hey.com/dhh/how-to-have-buckets-of-time-38693993 , use "bucket" concept to bundle small tasks
