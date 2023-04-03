@@ -604,6 +604,12 @@ https://world.hey.com/dhh/how-to-have-buckets-of-time-38693993 , use "bucket" co
 
 ## 2023-04
 
+01
+
 https://tailwindcss.com/blog/tailwindcss-v3-3 , just nice release note to look at, like Arc's realease note
 
 https://www.ft.com/content/e8d011fa-b8b5-11e3-835e-00144feabdc0 , interesting article about global warming
+
+03
+
+https://mp.weixin.qq.com/s/VPKZ8VHl6xOIDDY-XErXUQ , summarizing the scenario modes of double confirmation, it is very enlightening
