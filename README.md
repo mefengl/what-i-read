@@ -615,3 +615,7 @@ https://www.ft.com/content/e8d011fa-b8b5-11e3-835e-00144feabdc0 , interesting ar
 https://mp.weixin.qq.com/s/VPKZ8VHl6xOIDDY-XErXUQ , summarizing the scenario modes of double confirmation, it is very enlightening
 
 https://jalammar.github.io/illustrated-stable-diffusion/ , relatively simple and easy to understand
+
+04
+
+https://www.youtube.com/watch?v=gsWPpE4Rid0 , Mr.Beast's waste time
