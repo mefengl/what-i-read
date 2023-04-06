@@ -619,3 +619,7 @@ https://jalammar.github.io/illustrated-stable-diffusion/ , relatively simple and
 04
 
 https://www.youtube.com/watch?v=gsWPpE4Rid0 , Mr.Beast's waste time
+
+06
+
+http://antirez.com/news/61 , thank AI for it may eliminating the Tower of Babel in the visible future.
