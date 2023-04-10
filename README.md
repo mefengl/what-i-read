@@ -634,3 +634,5 @@ https://world.hey.com/dhh/the-hardware-we-need-for-our-cloud-exit-has-arrived-99
 https://www.growbyginkgo.com/2023/03/14/theres-nothing-unnatural-about-a-computer/ , like the movie Avatar
 
 https://swizec.com/blog/why-engineers-are-worth-so-much , like "skill deposit"
+
+https://www.semafor.com/article/03/24/2023/the-secret-history-of-elon-musk-sam-altman-and-openai , very interesting article about the history of OpenAI
