@@ -623,3 +623,14 @@ https://www.youtube.com/watch?v=gsWPpE4Rid0 , Mr.Beast's waste time
 06
 
 http://antirez.com/news/61 , thank AI for it may eliminating the Tower of Babel in the visible future.
+
+
+07
+
+https://world.hey.com/dhh/the-hardware-we-need-for-our-cloud-exit-has-arrived-99d66966 , glad they make it
+
+10
+
+https://www.growbyginkgo.com/2023/03/14/theres-nothing-unnatural-about-a-computer/ , like the movie Avatar
+
+https://swizec.com/blog/why-engineers-are-worth-so-much , like "skill deposit"
