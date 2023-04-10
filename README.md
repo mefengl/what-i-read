@@ -1,15 +1,5 @@
 # what-i-read
 
-current read speed:
-
-2 articles per day
-
-10 articles per week
-
-current add speed:
-
-more than 10 articles per week?
-
 ## 2023-01
 
 10
