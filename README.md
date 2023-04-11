@@ -648,3 +648,5 @@ https://about.sourcegraph.com/blog/cheating-is-all-you-need , great example of "
 https://invertedpassion.com/the-anti-productivity-manifesto/ ,remaind me once again that things are infinite, but time is not, instead, it's surprisingly short
 
 https://awesomekling.substack.com/p/how-were-building-a-browser-when , they are rebuild browser engine, and that pretty cool, not sure it is necessary or not
+
+https://thestrategybridge.org/the-bridge/2019/9/24/notes-from-a-sun-tzu-skeptic , interesting article about Sun Tzu
