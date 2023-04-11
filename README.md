@@ -640,3 +640,5 @@ https://www.wordfence.com/blog/2023/04/friday-long-read-what-to-do-about-ai , ma
 https://swizec.com/blog/how-to-own-projects-like-a-senior-engineer , being 100% responsible not only means being 100% responsible, but also means what things should be 100% irresponsible
 
 https://slate.com/technology/2023/04/twitter-inc-x-corp-elon-musk-x-nevada.html , useful information about X company
+
+https://www.camel-ai.org/ , the idea of simulating a society first and then extracting knowledge from social practice is very interesting
