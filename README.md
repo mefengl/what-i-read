@@ -650,3 +650,5 @@ https://invertedpassion.com/the-anti-productivity-manifesto/ ,remaind me once ag
 https://awesomekling.substack.com/p/how-were-building-a-browser-when , they are rebuild browser engine, and that pretty cool, not sure it is necessary or not
 
 https://thestrategybridge.org/the-bridge/2019/9/24/notes-from-a-sun-tzu-skeptic , interesting article about Sun Tzu
+
+https://szopa.medium.com/teaching-chatgpt-to-speak-my-sons-invented-language-9d109c0a0f05 , another example of how easy to create a new language will be under the help of AI, maybe we really need it to create a 10x better language compare to English
