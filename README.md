@@ -634,3 +634,5 @@ https://25iq.com/2015/10/10/a-dozen-things-ive-learned-from-charlie-munger-about
 https://www.gatesnotes.com/The-Age-of-AI-Has-Begun , interesting to see Bill Gates's also think AI is a big thing
 
 https://greyenlightenment.com/2023/04/08/the-ai-winter-some-possible-scenarios , another example of "Pessimists seem to be right"
+
+https://www.wordfence.com/blog/2023/04/friday-long-read-what-to-do-about-ai , made an interesting discussion about derivative technology
