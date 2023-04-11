@@ -628,3 +628,5 @@ https://swizec.com/blog/why-engineers-are-worth-so-much , like "skill deposit"
 https://www.semafor.com/article/03/24/2023/the-secret-history-of-elon-musk-sam-altman-and-openai , very interesting article about the history of OpenAI
 
 https://25iq.com/2015/10/10/a-dozen-things-ive-learned-from-charlie-munger-about-moats/ , known the concept of "moat"
+
+https://www.gatesnotes.com/The-Age-of-AI-Has-Begun , interesting to see Bill Gates's also think AI is a big thing
