@@ -629,4 +629,8 @@ https://www.semafor.com/article/03/24/2023/the-secret-history-of-elon-musk-sam-a
 
 https://25iq.com/2015/10/10/a-dozen-things-ive-learned-from-charlie-munger-about-moats/ , known the concept of "moat"
 
+11
+
 https://www.gatesnotes.com/The-Age-of-AI-Has-Begun , interesting to see Bill Gates's also think AI is a big thing
+
+https://greyenlightenment.com/2023/04/08/the-ai-winter-some-possible-scenarios , another example of "Pessimists seem to be right"
