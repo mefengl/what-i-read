@@ -642,3 +642,5 @@ https://swizec.com/blog/how-to-own-projects-like-a-senior-engineer , being 100% 
 https://slate.com/technology/2023/04/twitter-inc-x-corp-elon-musk-x-nevada.html , useful information about X company
 
 https://www.camel-ai.org/ , the idea of simulating a society first and then extracting knowledge from social practice is very interesting
+
+https://about.sourcegraph.com/blog/cheating-is-all-you-need , great example of "big things from small things"
