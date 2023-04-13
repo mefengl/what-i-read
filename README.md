@@ -666,3 +666,5 @@ https://techcrunch.com/2023/04/10/researchers-populated-a-tiny-virtual-town-with
 13
 
 https://proton.me/blog/ban-tiktok-better-restrict-act , the view on law is very interesting
+
+https://www.vice.com/en/article/v7begx/overemployed-hustlers-exploit-chatgpt-to-take-on-even-more-full-time-jobs , this is the result of sudden mismatch between productive development and production relations
