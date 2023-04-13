@@ -651,4 +651,16 @@ https://awesomekling.substack.com/p/how-were-building-a-browser-when , they are 
 
 https://thestrategybridge.org/the-bridge/2019/9/24/notes-from-a-sun-tzu-skeptic , interesting article about Sun Tzu
 
+https://thestrategybridge.org/the-bridge/2022/5/31/shackled-by-doctrines-why-western-strategists-need-to-start-taking-ancient-chinese-texts-seriously , another one, very interesting
+
+https://thestrategybridge.org/the-bridge/2020/11/10/siege-mentality-a-tale-of-two-wus , another one, "wen vs wu"
+
 https://szopa.medium.com/teaching-chatgpt-to-speak-my-sons-invented-language-9d109c0a0f05 , another example of how easy to create a new language will be under the help of AI, maybe we really need it to create a 10x better language compare to English
+
+12
+
+https://martinfowler.com/bliki/ConwaysLaw.html , Conway's Law is the primary manifestation of organization structure as code
+
+13
+
+https://proton.me/blog/ban-tiktok-better-restrict-act , the view on law is very interesting
