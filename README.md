@@ -661,6 +661,8 @@ https://szopa.medium.com/teaching-chatgpt-to-speak-my-sons-invented-language-9d1
 
 https://martinfowler.com/bliki/ConwaysLaw.html , Conway's Law is the primary manifestation of organization structure as code
 
+https://techcrunch.com/2023/04/10/researchers-populated-a-tiny-virtual-town-with-ai-and-it-was-very-wholesome , really a ai playground
+
 13
 
 https://proton.me/blog/ban-tiktok-better-restrict-act , the view on law is very interesting
