@@ -672,3 +672,5 @@ https://www.vice.com/en/article/v7begx/overemployed-hustlers-exploit-chatgpt-to-
 14
 
 https://adamkdean.co.uk/posts/gpt-unicorn-a-daily-exploration-of-gpt-4s-image-generation-capabilities , finally saw a example of this idea
+
+https://jina.ai/news/auto-gpt-unmasked-hype-hard-truths-production-pitfalls/ , great article about auto-gpt
