@@ -676,3 +676,7 @@ https://adamkdean.co.uk/posts/gpt-unicorn-a-daily-exploration-of-gpt-4s-image-ge
 https://jina.ai/news/auto-gpt-unmasked-hype-hard-truths-production-pitfalls/ , great article about auto-gpt
 
 https://www.concernednetizen.com/2023/04/long-live-the-free-software-foundation/ , "OSS is about the community, while free software is about users", I don't know if this classification is correct, but it does mention corresponding relationships such as "development experience and user experience", which is very interesting
+
+15
+
+https://www.quantamagazine.org/a-new-approach-to-computation-reimagines-artificial-intelligence-20230413 , is this a new way of representing neural network structures?
