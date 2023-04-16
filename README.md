@@ -680,3 +680,23 @@ https://www.concernednetizen.com/2023/04/long-live-the-free-software-foundation/
 15
 
 https://www.quantamagazine.org/a-new-approach-to-computation-reimagines-artificial-intelligence-20230413 , is this a new way of representing neural network structures?
+
+16
+
+https://seldo.com/posts/the_case_for_frameworks , "They are popular because they are a damn good idea."
+
+https://www.lloydatkinson.net/posts/2022/one-teams-eight-points-is-another-teams-two-points/ , a great artilce to see the down side of agile
+
+https://www.lloydatkinson.net/posts/2022/default-exports-in-javascript-modules-are-terrible/ , good point, but I still like default export
+
+https://swizec.com/blog/reader-question-how-to-grow-10-years-into-your-career/ , the meaning in the long run
+
+https://blog.gruntwork.io/5-lessons-learned-from-writing-over-300-000-lines-of-infrastructure-code-36ba7fadeac1 , the example of "run tf plan in big repo make it impossible to debug" is very interesting
+
+https://tom.preston-werner.com/2010/08/23/readme-driven-development.html , "a beautifully crafted library with no documentation is also damn near worthless"
+
+https://tom.preston-werner.com/2022/05/23/major-version-numbers-are-not-sacred.html , another layer ontop of the semver
+
+https://tom.preston-werner.com/2011/11/22/open-source-everything.html , tell me in which case my code also can not be open source
+
+https://tom.preston-werner.com/2010/12/11/designer-architect-developer.html , "Design comes first"
