@@ -704,3 +704,5 @@ https://tom.preston-werner.com/2010/12/11/designer-architect-developer.html , "D
 17
 
 https://simonw.substack.com/p/prompt-injection-whats-the-worst , the prompt attack is terrifying when AI operates in reality
+
+https://www.chinalawtranslate.com/en/overview-of-draft-measures-on-generative-ai/ , understanding own country's laws through the English-speaking world
