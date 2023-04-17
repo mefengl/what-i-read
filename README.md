@@ -700,3 +700,7 @@ https://tom.preston-werner.com/2022/05/23/major-version-numbers-are-not-sacred.h
 https://tom.preston-werner.com/2011/11/22/open-source-everything.html , tell me in which case my code also can not be open source
 
 https://tom.preston-werner.com/2010/12/11/designer-architect-developer.html , "Design comes first"
+
+17
+
+https://simonw.substack.com/p/prompt-injection-whats-the-worst , the prompt attack is terrifying when AI operates in reality
