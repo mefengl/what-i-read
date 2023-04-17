@@ -706,3 +706,7 @@ https://tom.preston-werner.com/2010/12/11/designer-architect-developer.html , "D
 https://simonw.substack.com/p/prompt-injection-whats-the-worst , the prompt attack is terrifying when AI operates in reality
 
 https://www.chinalawtranslate.com/en/overview-of-draft-measures-on-generative-ai/ , understanding own country's laws through the English-speaking world
+
+17
+
+https://tkdodo.eu/blog/breaking-react-querys-api-on-purpose , like people who think problem deeply, and then decide what to do (instead of communitings and meetings)
