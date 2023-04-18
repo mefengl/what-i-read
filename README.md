@@ -712,3 +712,5 @@ https://tkdodo.eu/blog/breaking-react-querys-api-on-purpose , like people who th
 18
 
 https://thehub.ca/2023-04-11/make-the-future-bright-again-jason-crawford-on-the-importance-of-building-a-new-philosophy-of-progress/ , why? why the philosophy of progress is not mainstream anymore?
+
+https://www.wbur.org/hereandnow/2021/11/10/making-friends-adults , "Making friends as an adult is just hard"
