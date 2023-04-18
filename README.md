@@ -730,3 +730,5 @@ https://lethain.com/profit-and-loss-statement/ , "Profit & Loss statement", now 
 https://lethain.com/work-on-what-matters/ , "work on what matters", cause so many things are stupid games
 
 https://dynomight.net/lists/ , dispelled my bias against list articles themselves
+
+https://dynomight.net/copies/ , great! I got the concept of "copies", It explains a lot of my recent behavior, I previously referred to part of it as a 'disposable strategy' or 'use and throw away strategy'
