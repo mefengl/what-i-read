@@ -718,3 +718,5 @@ https://www.wbur.org/hereandnow/2021/11/10/making-friends-adults , "Making frien
 https://www.wired.com/story/openai-ceo-sam-altman-the-age-of-giant-ai-models-is-already-over/ , they found it during the training process of GPT-5?
 
 https://dynomight.net/scaling/ , An article supporting the above viewpoint believes that the progress of AI mainly comes from algorithms
+
+https://lethain.com/forty-year-career/ , think my career in 40 years, why not
