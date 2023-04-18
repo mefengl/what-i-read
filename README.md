@@ -720,3 +720,5 @@ https://www.wired.com/story/openai-ceo-sam-altman-the-age-of-giant-ai-models-is-
 https://dynomight.net/scaling/ , An article supporting the above viewpoint believes that the progress of AI mainly comes from algorithms
 
 https://lethain.com/forty-year-career/ , think my career in 40 years, why not
+
+https://albertcory50.substack.com/p/reasons-why-software-patents-should , if familiar with FSF, then should not be suprised by this article
