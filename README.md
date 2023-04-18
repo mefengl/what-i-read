@@ -722,3 +722,5 @@ https://dynomight.net/scaling/ , An article supporting the above viewpoint belie
 https://lethain.com/forty-year-career/ , think my career in 40 years, why not
 
 https://albertcory50.substack.com/p/reasons-why-software-patents-should , if familiar with FSF, then should not be suprised by this article
+
+https://lethain.com/time-and-energy/ , "you can easily starve while eating your fill of this sort of quasi-accomplish", "quasi-accomplish" is a good word
