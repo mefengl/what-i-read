@@ -726,3 +726,5 @@ https://albertcory50.substack.com/p/reasons-why-software-patents-should , if fam
 https://lethain.com/time-and-energy/ , "you can easily starve while eating your fill of this sort of quasi-accomplish", "quasi-accomplish" is a good word
 
 https://lethain.com/profit-and-loss-statement/ , "Profit & Loss statement", now not only I know the importance of P&L, but also why it is important
+
+https://lethain.com/work-on-what-matters/ , "work on what matters", cause so many things are stupid games
