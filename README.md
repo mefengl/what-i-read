@@ -728,3 +728,5 @@ https://lethain.com/time-and-energy/ , "you can easily starve while eating your 
 https://lethain.com/profit-and-loss-statement/ , "Profit & Loss statement", now not only I know the importance of P&L, but also why it is important
 
 https://lethain.com/work-on-what-matters/ , "work on what matters", cause so many things are stupid games
+
+https://dynomight.net/lists/ , dispelled my bias against list articles themselves
