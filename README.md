@@ -738,3 +738,7 @@ https://dynomight.net/copies/ , great! I got the concept of "copies", It explain
 https://www.notboring.co/p/intelligence-superabundance , an optimistic article
 
 https://world.hey.com/dhh/how-to-continue-making-kerosene-lamps-on-the-eve-of-electricity-5a8b8e1a , that means making features for others is no longer rational, because they can be quickly generated automatically
+
+https://dynomight.net/weird-ideas/ , just interesting
+
+https://dynomight.net/beliefs/ , you don't need to be right to be useful
