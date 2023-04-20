@@ -742,3 +742,7 @@ https://world.hey.com/dhh/how-to-continue-making-kerosene-lamps-on-the-eve-of-el
 https://dynomight.net/weird-ideas/ , just interesting
 
 https://dynomight.net/beliefs/ , you don't need to be right to be useful
+
+20
+
+https://book.stevejobsarchive.com/ , just great
