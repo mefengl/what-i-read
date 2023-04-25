@@ -752,3 +752,7 @@ https://book.stevejobsarchive.com/ , just great
 https://www.benkuhn.net/newmgr/ , good article about management
 
 https://mp.weixin.qq.com/s/RSFLlSBFjKZNF8jLA9LJKQ , best aritcle about ai era I ever read
+
+25
+
+https://dynomight.substack.com/p/nonpersons , funny questions
