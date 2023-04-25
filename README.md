@@ -756,3 +756,5 @@ https://mp.weixin.qq.com/s/RSFLlSBFjKZNF8jLA9LJKQ , best aritcle about ai era I 
 25
 
 https://dynomight.substack.com/p/nonpersons , funny questions
+
+https://www.notboring.co/p/the-unbearable-heaviness-of-being , details about google's AI situation
