@@ -758,3 +758,9 @@ https://mp.weixin.qq.com/s/RSFLlSBFjKZNF8jLA9LJKQ , best aritcle about ai era I 
 https://dynomight.substack.com/p/nonpersons , funny questions
 
 https://www.notboring.co/p/the-unbearable-heaviness-of-being , details about google's AI situation
+
+## 2023-05
+
+09
+
+https://world.hey.com/jason/on-hiring-rehiring-and-one-question-to-answer-them-all-5db97bcb , make no choice is also a choice, keep someone is also a rehire
