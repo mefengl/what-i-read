@@ -764,3 +764,7 @@ https://www.notboring.co/p/the-unbearable-heaviness-of-being , details about goo
 09
 
 https://world.hey.com/jason/on-hiring-rehiring-and-one-question-to-answer-them-all-5db97bcb , make no choice is also a choice, keep someone is also a rehire
+
+10
+
+https://openai.com/research/language-models-can-explain-neurons-in-language-models , an important step in reverse engineering the brain
