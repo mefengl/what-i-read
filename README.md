@@ -768,3 +768,7 @@ https://world.hey.com/jason/on-hiring-rehiring-and-one-question-to-answer-them-a
 10
 
 https://openai.com/research/language-models-can-explain-neurons-in-language-models , an important step in reverse engineering the brain
+
+11
+
+https://www.etsy.com/uk/codeascraft/etsys-journey-to-typescript , real TypeScript migration article
