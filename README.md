@@ -761,6 +761,10 @@ https://www.notboring.co/p/the-unbearable-heaviness-of-being , details about goo
 
 ## 2023-05
 
+03
+
+https://mitchellh.com/writing/prompt-engineering-vs-blind-prompting , the rare article really get the point of prompt engineering(if it is not a joke)
+
 09
 
 https://world.hey.com/jason/on-hiring-rehiring-and-one-question-to-answer-them-all-5db97bcb , make no choice is also a choice, keep someone is also a rehire
