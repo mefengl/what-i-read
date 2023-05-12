@@ -784,3 +784,5 @@ https://collabfund.com/blog/one-big-web-a-few-ways-the-world-works/ , just inter
 https://engineering.atspotify.com/2021/04/building-the-future-of-our-desktop-apps/ , cause find Spotify's desktop app is even better than the web app, so I find this article to go deeper
 
 https://world.hey.com/jason/we-stand-with-the-underdogs-7d487d64 , what big companies get when they are big
+
+https://swizec.com/blog/you-can-t-fix-the-wrong-abstraction/ , "No amount of refactoring, bar starting again from scratch, can rescue a system built on flawed concepts."
