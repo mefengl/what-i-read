@@ -767,6 +767,8 @@ https://mitchellh.com/writing/prompt-engineering-vs-blind-prompting , the rare a
 
 https://mitchellh.com/writing/the-new-normal , "new normal" is a good concept
 
+https://mitchellh.com/writing/automation-obsessed , that's why he can create HashiCorp
+
 09
 
 https://world.hey.com/jason/on-hiring-rehiring-and-one-question-to-answer-them-all-5db97bcb , make no choice is also a choice, keep someone is also a rehire
