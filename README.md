@@ -798,3 +798,5 @@ https://swizec.com/blog/you-can-t-fix-the-wrong-abstraction/ , "No amount of ref
 https://www.macarthur.me/posts/use-mutation-observer-to-handle-nodes-that-dont-exist-yet , the article I want to read long time ago
 
 https://www.macarthur.me/posts/options-for-removing-event-listeners , another also good article about removeListener
+
+https://youmightnotneed.com/lodash , always funny to know how to create lodash
