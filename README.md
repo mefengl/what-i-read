@@ -772,3 +772,7 @@ https://openai.com/research/language-models-can-explain-neurons-in-language-mode
 11
 
 https://www.etsy.com/uk/codeascraft/etsys-journey-to-typescript , real TypeScript migration article
+
+12
+
+https://www.jeremybrown.tech/8-kubernetes-is-a-red-flag-signalling-premature-optimisation/ , "Kubernetes is a red flag signalling premature optimisation."
