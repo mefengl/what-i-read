@@ -780,3 +780,5 @@ https://www.jeremybrown.tech/8-kubernetes-is-a-red-flag-signalling-premature-opt
 https://pavkam.dev/2023-04-19-work-with-ai-nonsense/ , "AI use AI"
 
 https://collabfund.com/blog/one-big-web-a-few-ways-the-world-works/ , just interesting
+
+https://engineering.atspotify.com/2021/04/building-the-future-of-our-desktop-apps/ , cause find Spotify's desktop app is even better than the web app, so I find this article to go deeper
