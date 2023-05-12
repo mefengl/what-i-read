@@ -788,3 +788,5 @@ https://world.hey.com/jason/we-stand-with-the-underdogs-7d487d64 , what big comp
 https://swizec.com/blog/you-can-t-fix-the-wrong-abstraction/ , "No amount of refactoring, bar starting again from scratch, can rescue a system built on flawed concepts."
 
 https://www.macarthur.me/posts/use-mutation-observer-to-handle-nodes-that-dont-exist-yet , the article I want to read long time ago
+
+https://www.macarthur.me/posts/options-for-removing-event-listeners , another also good article about removeListener
