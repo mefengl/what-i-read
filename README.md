@@ -776,3 +776,5 @@ https://www.etsy.com/uk/codeascraft/etsys-journey-to-typescript , real TypeScrip
 12
 
 https://www.jeremybrown.tech/8-kubernetes-is-a-red-flag-signalling-premature-optimisation/ , "Kubernetes is a red flag signalling premature optimisation."
+
+https://pavkam.dev/2023-04-19-work-with-ai-nonsense/ , "AI use AI"
