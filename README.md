@@ -786,3 +786,5 @@ https://engineering.atspotify.com/2021/04/building-the-future-of-our-desktop-app
 https://world.hey.com/jason/we-stand-with-the-underdogs-7d487d64 , what big companies get when they are big
 
 https://swizec.com/blog/you-can-t-fix-the-wrong-abstraction/ , "No amount of refactoring, bar starting again from scratch, can rescue a system built on flawed concepts."
+
+https://www.macarthur.me/posts/use-mutation-observer-to-handle-nodes-that-dont-exist-yet , the article I want to read long time ago
