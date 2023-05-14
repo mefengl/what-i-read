@@ -800,3 +800,9 @@ https://www.macarthur.me/posts/use-mutation-observer-to-handle-nodes-that-dont-e
 https://www.macarthur.me/posts/options-for-removing-event-listeners , another also good article about removeListener
 
 https://youmightnotneed.com/lodash , always funny to know how to create lodash
+
+14
+
+https://github.com/you-dont-need/You-Dont-Need-Loops/blob/master/readme.md , I was amazed by it goes back to the basics in Lisp, such as `car` and `cdr`
+
+https://github.com/crimx/observable-hooks/blob/master/README.md , "Render-as-You-Fetch"
