@@ -806,3 +806,7 @@ https://youmightnotneed.com/lodash , always funny to know how to create lodash
 https://github.com/you-dont-need/You-Dont-Need-Loops/blob/master/readme.md , I was amazed by it goes back to the basics in Lisp, such as `car` and `cdr`
 
 https://github.com/crimx/observable-hooks/blob/master/README.md , "Render-as-You-Fetch"
+
+15
+
+https://world.hey.com/dhh/sitting-on-the-bench-ba937b84 , I partly agree with this article, but I think it is not the whole story. What if I am the one sitting on the bench and take advantage of that idle time to learn something new?
