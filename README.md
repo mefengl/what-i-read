@@ -810,3 +810,7 @@ https://github.com/crimx/observable-hooks/blob/master/README.md , "Render-as-You
 15
 
 https://world.hey.com/dhh/sitting-on-the-bench-ba937b84 , I partly agree with this article, but I think it is not the whole story. What if I am the one sitting on the bench and take advantage of that idle time to learn something new?
+
+18
+
+https://mp.weixin.qq.com/s/sbxJneZOxovMnAOEylrhLw , another perspective, breaking many mental stereotypes
