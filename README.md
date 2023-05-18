@@ -814,3 +814,5 @@ https://world.hey.com/dhh/sitting-on-the-bench-ba937b84 , I partly agree with th
 18
 
 https://mp.weixin.qq.com/s/sbxJneZOxovMnAOEylrhLw , another perspective, breaking many mental stereotypes
+
+https://world.hey.com/jason/kill-overkill-4689acac , "So complexity isn't the issue. Overkill is the issue."
