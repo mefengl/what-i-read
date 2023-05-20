@@ -820,3 +820,7 @@ https://world.hey.com/jason/kill-overkill-4689acac , "So complexity isn't the is
 19
 
 https://blog.almaer.com/building-a-modern-design-system-in-layers , "design system in layers", begin with "html&css"
+
+20
+
+https://blog.visionarycto.com/p/my-20-year-career-is-technical-debt , technical debt is the norm, not the exception
