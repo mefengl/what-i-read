@@ -824,3 +824,7 @@ https://blog.almaer.com/building-a-modern-design-system-in-layers , "design syst
 20
 
 https://blog.visionarycto.com/p/my-20-year-career-is-technical-debt , technical debt is the norm, not the exception
+
+23
+
+https://waitbutwhy.com/2015/08/how-and-why-spacex-will-colonize-mars.html/2 , "Far view"
