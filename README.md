@@ -832,3 +832,5 @@ https://waitbutwhy.com/2015/08/how-and-why-spacex-will-colonize-mars.html/2 , "F
 25
 
 https://geohot.github.io/blog/jekyll/update/2023/05/24/the-tiny-corp-raised-5M.html , glad to see another interesting company that may help the world and me
+
+https://mp.weixin.qq.com/s/4U6UfXDMEie-nAtRjaD56Q , just accept the loss
