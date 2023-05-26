@@ -839,4 +839,4 @@ https://mp.weixin.qq.com/s/4U6UfXDMEie-nAtRjaD56Q , just accept the loss
 
 https://alexkondov.com/reading-code-chakra-ui/ , some examples of abstract code
 
-> https://blog.csdn.net/qq_45663927/article/details/130881750
+https://world.hey.com/dhh/manage-process-before-people-20736695 , do the progress in the app instead of meetings is my dream
