@@ -834,3 +834,9 @@ https://waitbutwhy.com/2015/08/how-and-why-spacex-will-colonize-mars.html/2 , "F
 https://geohot.github.io/blog/jekyll/update/2023/05/24/the-tiny-corp-raised-5M.html , glad to see another interesting company that may help the world and me
 
 https://mp.weixin.qq.com/s/4U6UfXDMEie-nAtRjaD56Q , just accept the loss
+
+26
+
+https://alexkondov.com/reading-code-chakra-ui/ , some examples of abstract code
+
+> https://blog.csdn.net/qq_45663927/article/details/130881750
