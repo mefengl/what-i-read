@@ -840,3 +840,7 @@ https://mp.weixin.qq.com/s/4U6UfXDMEie-nAtRjaD56Q , just accept the loss
 https://alexkondov.com/reading-code-chakra-ui/ , some examples of abstract code
 
 https://world.hey.com/dhh/manage-process-before-people-20736695 , do the progress in the app instead of meetings is my dream
+
+29
+
+https://garden.bradwoods.io/notes/design/user-driven-ui , the website is so cool, and the name of "user-driven UI" is also not bad, I think "growth UI" is even better, and the "ZPD(Zone of Proximal Development)" is also a good concept to know
