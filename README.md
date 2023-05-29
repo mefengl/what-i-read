@@ -844,3 +844,5 @@ https://world.hey.com/dhh/manage-process-before-people-20736695 , do the progres
 29
 
 https://garden.bradwoods.io/notes/design/user-driven-ui , the website is so cool, and the name of "user-driven UI" is also not bad, I think "growth UI" is even better, and the "ZPD(Zone of Proximal Development)" is also a good concept to know
+
+https://garden.bradwoods.io/notes/design/juice , "juice" is a good concept, and the website to show this article is super cool
