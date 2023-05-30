@@ -852,3 +852,5 @@ https://www.geoffreylitt.com/2023/03/25/llm-end-user-programming.html , I agree 
 30
 
 https://zhuanlan.zhihu.com/p/546663474 , a nice article introduce the history of "@tanstack/table" library
+
+https://frontendmastery.com/posts/building-future-facing-frontend-architectures/ , I know I tend to use abstract language a lot, but hey, that's just me! I'd rather go overboard than be too boring. I am still learning how to write better, and I am not afraid to make mistakes.
