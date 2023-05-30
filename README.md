@@ -848,3 +848,7 @@ https://garden.bradwoods.io/notes/design/user-driven-ui , the website is so cool
 https://garden.bradwoods.io/notes/design/juice , "juice" is a good concept, and the website to show this article is super cool
 
 https://www.geoffreylitt.com/2023/03/25/llm-end-user-programming.html , I agree the idea that people will be able to write one-time programs in the future
+
+30
+
+https://zhuanlan.zhihu.com/p/546663474 , a nice article introduce the history of "@tanstack/table" library
