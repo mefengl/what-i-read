@@ -856,3 +856,5 @@ https://zhuanlan.zhihu.com/p/546663474 , a nice article introduce the history of
 https://frontendmastery.com/posts/building-future-facing-frontend-architectures/ , I know I tend to use abstract language a lot, but hey, that's just me! I'd rather go overboard than be too boring. I am still learning how to write better, and I am not afraid to make mistakes.
 
 https://www.geoffreylitt.com/2023/01/08/for-your-next-side-project-make-a-browser-extension.html , the history and ideas behind Twemex
+
+https://julesblom.com/writing/running-promises-in-parallel , know more Promise api
