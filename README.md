@@ -858,3 +858,7 @@ https://frontendmastery.com/posts/building-future-facing-frontend-architectures/
 https://www.geoffreylitt.com/2023/01/08/for-your-next-side-project-make-a-browser-extension.html , the history and ideas behind Twemex
 
 https://julesblom.com/writing/running-promises-in-parallel , know more Promise api
+
+31
+
+https://mp.weixin.qq.com/s/Zrdx2Bq_WCRF49FnO9i59w , a interview of the history and future of AI without boring part
