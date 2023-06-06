@@ -862,3 +862,9 @@ https://julesblom.com/writing/running-promises-in-parallel , know more Promise a
 31
 
 https://mp.weixin.qq.com/s/Zrdx2Bq_WCRF49FnO9i59w , a interview of the history and future of AI without boring part
+
+## 2023-06
+
+06
+
+https://cutlefish.substack.com/p/tbm-224-the-black-box , such vivid demonstration shows the complexity brought by management
