@@ -872,3 +872,5 @@ https://cutlefish.substack.com/p/tbm-224-the-black-box , such vivid demonstratio
 https://guzey.com/why-is-there-only-one-elon-musk/ , something about genius
 
 https://mp.weixin.qq.com/s/NVmO1O5SS9YGhJNEf9RBRA , about interpersonal communication
+
+https://world.hey.com/jason/advice-expires-d37374e6 , "Advice expires" is a good concept, it shows the model we should use to consider advice
