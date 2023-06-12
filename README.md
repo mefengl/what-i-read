@@ -876,3 +876,7 @@ https://mp.weixin.qq.com/s/NVmO1O5SS9YGhJNEf9RBRA , about interpersonal communic
 https://world.hey.com/jason/advice-expires-d37374e6 , "Advice expires" is a good concept, it shows the model we should use to consider advice
 
 https://marmelab.com/blog/2023/06/05/react-angularjs-moment.html , why RSC
+
+12
+
+https://mp.weixin.qq.com/s/WSO7rlwaddP9ZjPVmCzE3w , amazing article about design project naming
