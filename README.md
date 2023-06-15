@@ -880,3 +880,7 @@ https://marmelab.com/blog/2023/06/05/react-angularjs-moment.html , why RSC
 12
 
 https://mp.weixin.qq.com/s/WSO7rlwaddP9ZjPVmCzE3w , amazing article about design project naming
+
+15
+
+https://world.hey.com/dhh/acting-your-wage-will-atrophy-your-abilities-1ca261c4 , I do kind of "acting my wage"
