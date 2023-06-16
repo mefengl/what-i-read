@@ -884,3 +884,7 @@ https://mp.weixin.qq.com/s/WSO7rlwaddP9ZjPVmCzE3w , amazing article about design
 15
 
 https://world.hey.com/dhh/acting-your-wage-will-atrophy-your-abilities-1ca261c4 , I do kind of "acting my wage"
+
+16
+
+https://code.visualstudio.com/blogs/2023/03/30/vscode-copilot , known the history of Copilot
