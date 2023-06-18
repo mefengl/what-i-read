@@ -888,3 +888,7 @@ https://world.hey.com/dhh/acting-your-wage-will-atrophy-your-abilities-1ca261c4 
 16
 
 https://code.visualstudio.com/blogs/2023/03/30/vscode-copilot , known the history of Copilot
+
+18
+
+https://swizec.com/blog/what-does-solve-problems-even-mean , "Code is expensive. Use when you're building an asset"
