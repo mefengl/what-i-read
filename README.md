@@ -894,3 +894,7 @@ https://code.visualstudio.com/blogs/2023/03/30/vscode-copilot , known the histor
 https://swizec.com/blog/what-does-solve-problems-even-mean , "Code is expensive. Use when you're building an asset"
 
 https://simonwillison.net/2023/Jun/8/gpt-tokenizers/ , know more about token
+
+21
+
+https://mp.weixin.qq.com/s/uheLYetIQ7lplQmn_PtqzQ , Unconcealment
