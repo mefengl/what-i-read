@@ -898,3 +898,7 @@ https://simonwillison.net/2023/Jun/8/gpt-tokenizers/ , know more about token
 21
 
 https://mp.weixin.qq.com/s/uheLYetIQ7lplQmn_PtqzQ , Unconcealment
+
+## 2023-07
+
+https://mp.weixin.qq.com/s/9JmRawsCu4PusR7zQeU_zg , that's what happened when human pretend to be human
