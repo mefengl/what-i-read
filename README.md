@@ -902,3 +902,7 @@ https://mp.weixin.qq.com/s/uheLYetIQ7lplQmn_PtqzQ , Unconcealment
 ## 2023-07
 
 https://mp.weixin.qq.com/s/9JmRawsCu4PusR7zQeU_zg , that's what happened when human pretend to be human
+
+12
+
+https://www.w3.org/History/1945/vbush/vbush-all.shtml , an impressive article, especially considering its early publication. The issues mentioned in the text have indeed been gradually addressed or are no longer major concerns, particularly with the recent development of the Internet and llm.
