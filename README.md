@@ -906,3 +906,7 @@ https://mp.weixin.qq.com/s/9JmRawsCu4PusR7zQeU_zg , that's what happened when hu
 12
 
 https://www.w3.org/History/1945/vbush/vbush-all.shtml , an impressive article, especially considering its early publication. The issues mentioned in the text have indeed been gradually addressed or are no longer major concerns, particularly with the recent development of the Internet and llm.
+
+14
+
+https://pub.towardsai.net/rethinking-overthinking-5-ways-i-use-chatgpt-as-cognitive-scaffolding-bbd83b176461 , for LLM, compressing and refining text is inherently part of its training, if not the only part.
