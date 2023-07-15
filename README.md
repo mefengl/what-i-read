@@ -910,3 +910,7 @@ https://www.w3.org/History/1945/vbush/vbush-all.shtml , an impressive article, e
 14
 
 https://pub.towardsai.net/rethinking-overthinking-5-ways-i-use-chatgpt-as-cognitive-scaffolding-bbd83b176461 , for LLM, compressing and refining text is inherently part of its training, if not the only part.
+
+15
+
+https://world.hey.com/jason/you-only-compete-with-one-thing-48a20d93 , "Your real competition are your costs"
