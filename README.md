@@ -914,3 +914,7 @@ https://pub.towardsai.net/rethinking-overthinking-5-ways-i-use-chatgpt-as-cognit
 15
 
 https://world.hey.com/jason/you-only-compete-with-one-thing-48a20d93 , "Your real competition are your costs"
+
+16
+
+https://www.builder.io/blog/tailwind-css-tips-and-tricks , good to know about them
