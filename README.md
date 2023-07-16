@@ -924,3 +924,5 @@ https://blog.nateliason.com/p/proof-you-can-do-hard-things , "Proof You Can Do H
 https://www.dancowell.com/software-engineers-hate-code , that's why I always wants codes to be shorter
 
 https://guzey.com/follow-up , ask for it until get a "no" literally
+
+https://swizec.com/blog/you-can-t-fix-the-wrong-abstraction , "Software is built on abstractions". Senior engineers see the abstraction, junior engineers see the details, such as naming.
