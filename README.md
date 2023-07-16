@@ -918,3 +918,5 @@ https://world.hey.com/jason/you-only-compete-with-one-thing-48a20d93 , "Your rea
 16
 
 https://www.builder.io/blog/tailwind-css-tips-and-tricks , good to know about them
+
+https://blog.nateliason.com/p/proof-you-can-do-hard-things , "Proof You Can Do Hard Things"
