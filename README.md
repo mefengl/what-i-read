@@ -934,3 +934,5 @@ https://contextkeeper.io/blog/the-real-cost-of-an-interruption-and-context-switc
 https://swizec.com/blog/do-more-_work_-less , you can buy time to make your day way more than 24 hours
 
 https://guzey.com/personal/college , another kind of college
+
+https://www.nango.dev/blog/why-is-oauth-still-hard , now I know auth is not a easy thing
