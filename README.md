@@ -930,3 +930,5 @@ https://swizec.com/blog/you-can-t-fix-the-wrong-abstraction , "Software is built
 https://swizec.com/blog/why-taming-architectural-complexity-is-paramount , the more lines of code, the slower the development speed
 
 https://contextkeeper.io/blog/the-real-cost-of-an-interruption-and-context-switching , I do need a bigger screen or some tech to deal with interruptions
+
+https://swizec.com/blog/do-more-_work_-less , you can buy time to make your day way more than 24 hours
