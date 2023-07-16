@@ -932,3 +932,5 @@ https://swizec.com/blog/why-taming-architectural-complexity-is-paramount , the m
 https://contextkeeper.io/blog/the-real-cost-of-an-interruption-and-context-switching , I do need a bigger screen or some tech to deal with interruptions
 
 https://swizec.com/blog/do-more-_work_-less , you can buy time to make your day way more than 24 hours
+
+https://guzey.com/personal/college , another kind of college
