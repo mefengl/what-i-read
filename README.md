@@ -938,3 +938,5 @@ https://guzey.com/personal/college , another kind of college
 https://www.nango.dev/blog/why-is-oauth-still-hard , now I know auth is not a easy thing
 
 https://theprogrammersparadox.blogspot.com/2023/04/waterloo-style.html , data driven development
+
+https://collabfund.com/blog/one-big-web-a-few-ways-the-world-works , to do is to learn
