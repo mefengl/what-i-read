@@ -922,3 +922,5 @@ https://www.builder.io/blog/tailwind-css-tips-and-tricks , good to know about th
 https://blog.nateliason.com/p/proof-you-can-do-hard-things , "Proof You Can Do Hard Things"
 
 https://www.dancowell.com/software-engineers-hate-code , that's why I always wants codes to be shorter
+
+https://guzey.com/follow-up , ask for it until get a "no" literally
