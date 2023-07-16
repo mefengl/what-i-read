@@ -928,3 +928,5 @@ https://guzey.com/follow-up , ask for it until get a "no" literally
 https://swizec.com/blog/you-can-t-fix-the-wrong-abstraction , "Software is built on abstractions". Senior engineers see the abstraction, junior engineers see the details, such as naming.
 
 https://swizec.com/blog/why-taming-architectural-complexity-is-paramount , the more lines of code, the slower the development speed
+
+https://contextkeeper.io/blog/the-real-cost-of-an-interruption-and-context-switching , I do need a bigger screen or some tech to deal with interruptions
