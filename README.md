@@ -968,3 +968,5 @@ https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer , it is a f
 23
 
 https://www.joincolossus.com/blog/posts/growth-without-goals , "Growth Without Goals", already believe this, but still good to have a name for it, the key point is still "growth", just without goals
+
+http://augmentingcognition.com/ltm.html , this article will make me retry Anki
