@@ -2,6 +2,8 @@
 
 I really got so many great ideas from web articles, some of them changed the trajectory of my timeline. And some of them I forgot, and for them, I created this repo so I will have a change to reread them more times.
 
+I will provide links to videos that I believe are great because I have read their transcripts. If a brilliant mind does not write, it is essential to watch their video or listen to their podcast.
+
 ## 2023-01
 
 10
@@ -996,3 +998,5 @@ https://jsomers.net/blog/speed-matters , I forgot one of the ideas that I defini
 https://notes.andymatuschak.org/zMbCwoVdjsqPNyTRRr3phPN , For programmers as well, this is the issue I am concerned about. We can improve through daily work, but it seems too random and powerless when facing truly difficult problems. ⭐
 
 https://notes.andymatuschak.org/zMX9Lfuz8sGfDUivWZcyWT , I am pretty suprised it provided some practical examples
+
+https://www.youtube.com/watch?v=xym5f0XYlSc , Ilya's opinion is advanced, positive, bold, and practical. Like Elon Musk, he expresses ideas that make sense, especially in a rational manner.
