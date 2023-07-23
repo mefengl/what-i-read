@@ -967,8 +967,10 @@ https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer , it is a f
 
 23
 
-https://www.joincolossus.com/blog/posts/growth-without-goals , "Growth Without Goals", already believe this, but still good to have a name for it, the key point is still "growth", just without goals
+https://www.joincolossus.com/blog/posts/growth-without-goals , "Growth Without Goals", already believe this, but still good to have a name for it, the key point is still "growth", just without goals.
 
-http://augmentingcognition.com/ltm.html , this article will make me retry Anki
+http://augmentingcognition.com/ltm.html , this article will make me retry Anki.
 
 https://graydon2.dreamwidth.org/193447.html , "Always bet on text", I always prefer text because it is faster. In my experience, a two-hour podcast can be easily converted into text, making it easier to read and skip through. This allows me to consume more information and saves time in the long run.
+
+https://www.theatlantic.com/magazine/archive/2009/06/what-makes-us-happy/307439 , This article discusses a very basic concept of friendship, which is also a way to continue living.
