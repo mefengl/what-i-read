@@ -964,3 +964,7 @@ https://jods.mitpress.mit.edu/pub/issue3-brand , interseting ideas about "Pace L
 https://danluu.com/look-stupid , the truth is, in most cases, it is difficult to understand because real life often lacks sufficient context for problem comprehension. ⭐
 
 https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer , it is a form of life. If I had seen this a year ago, or even six months ago, I would have thought it was nonsense. However, it is how the world operates at my level and seems to be an effective approach. ⭐
+
+23
+
+https://www.joincolossus.com/blog/posts/growth-without-goals , "Growth Without Goals", already believe this, but still good to have a name for it, the key point is still "growth", just without goals
