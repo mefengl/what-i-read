@@ -974,3 +974,5 @@ http://augmentingcognition.com/ltm.html , this article will make me retry Anki.
 https://graydon2.dreamwidth.org/193447.html , "Always bet on text", I always prefer text because it is faster. In my experience, a two-hour podcast can be easily converted into text, making it easier to read and skip through. This allows me to consume more information and saves time in the long run.
 
 https://www.theatlantic.com/magazine/archive/2009/06/what-makes-us-happy/307439 , This article discusses a very basic concept of friendship, which is also a way to continue living.
+
+http://worrydream.com/refs/Hofstadter%20-%20Analogy%20as%20the%20Core%20of%20Cognition.pdf , "Analogy is everything", I think this is kind of a nature of LLM (human is just a kind of LLM)
