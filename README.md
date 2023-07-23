@@ -986,3 +986,5 @@ http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail , T
 https://aaronzlewis.com/blog/2014/06/01/solved-conversations , Some limited games in real life have already been solved, so don't treat it as an infinite game to play.
 
 https://nat.org , things you can believe
+
+https://autotranslucence.com/2018/03/30/becoming-a-magician , I'm not sure why this article has moved me, but perhaps it's because its idea suggests that doing magic in seconds is difficult, while doing it over the course of years is easier. ⭐
