@@ -1000,3 +1000,5 @@ https://notes.andymatuschak.org/zMbCwoVdjsqPNyTRRr3phPN , For programmers as wel
 https://notes.andymatuschak.org/zMX9Lfuz8sGfDUivWZcyWT , I am pretty suprised it provided some practical examples
 
 https://www.youtube.com/watch?v=xym5f0XYlSc , Ilya's opinion is advanced, positive, bold, and practical. Like Elon Musk, he expresses ideas that make sense, especially in a rational manner.
+
+https://www-cs-faculty.stanford.edu/~knuth/email.html , "I have reached an age where my main purpose is not to receive messages", This reminds me of what I should do in old age - learning that may never be applied before death, before eternal silence takes over.
