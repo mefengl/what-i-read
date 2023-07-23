@@ -992,3 +992,5 @@ https://autotranslucence.com/2018/03/30/becoming-a-magician , I'm not sure why t
 https://ma.tt/2010/11/one-point-oh , Ship it, even if it feels awkward.
 
 https://jsomers.net/blog/speed-matters , I forgot one of the ideas that I definitely shouldn't: "Speed Matters." ⭐
+
+https://notes.andymatuschak.org/zMbCwoVdjsqPNyTRRr3phPN , For programmers as well, this is the issue I am concerned about. We can improve through daily work, but it seems too random and powerless when facing truly difficult problems. ⭐
