@@ -1002,3 +1002,5 @@ https://notes.andymatuschak.org/zMX9Lfuz8sGfDUivWZcyWT , I am pretty suprised it
 https://www.youtube.com/watch?v=xym5f0XYlSc , Ilya's opinion is advanced, positive, bold, and practical. Like Elon Musk, he expresses ideas that make sense, especially in a rational manner.
 
 https://www-cs-faculty.stanford.edu/~knuth/email.html , "I have reached an age where my main purpose is not to receive messages", This reminds me of what I should do in old age - learning that may never be applied before death, before eternal silence takes over.
+
+http://web.archive.org/web/20200517015343/https://lettersofnote.com/2015/10/23/do-not-remain-nameless-to-yourself , so that is Feynman, "No problem is too small or too trivial if we can really do something about it."
