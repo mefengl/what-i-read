@@ -978,3 +978,5 @@ https://www.theatlantic.com/magazine/archive/2009/06/what-makes-us-happy/307439 
 http://worrydream.com/refs/Hofstadter%20-%20Analogy%20as%20the%20Core%20of%20Cognition.pdf , "Analogy is everything", I think this is kind of a nature of LLM (human is just a kind of LLM)
 
 https://milan.cvitkovic.net/writing/things_youre_allowed_to_do , "things I am allow to do" is things I am going to do(if I want to)
+
+https://slatestarcodex.com/2014/12/17/the-toxoplasma-of-rage , "Toxoplasma" is a fascinating concept for a drama unfolding in my surroundings.
