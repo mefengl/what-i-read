@@ -982,3 +982,5 @@ https://milan.cvitkovic.net/writing/things_youre_allowed_to_do , "things I am al
 https://slatestarcodex.com/2014/12/17/the-toxoplasma-of-rage , "Toxoplasma" is a fascinating concept for a drama unfolding in my surroundings.
 
 http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail , This article provides a more realistic view of real-world problems.
+
+https://aaronzlewis.com/blog/2014/06/01/solved-conversations , Some limited games in real life have already been solved, so don't treat it as an infinite game to play.
