@@ -990,3 +990,5 @@ https://nat.org , things you can believe
 https://autotranslucence.com/2018/03/30/becoming-a-magician , I'm not sure why this article has moved me, but perhaps it's because its idea suggests that doing magic in seconds is difficult, while doing it over the course of years is easier. ⭐
 
 https://ma.tt/2010/11/one-point-oh , Ship it, even if it feels awkward.
+
+https://jsomers.net/blog/speed-matters , I forgot one of the ideas that I definitely shouldn't: "Speed Matters." ⭐
