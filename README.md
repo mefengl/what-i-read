@@ -1006,3 +1006,7 @@ https://www-cs-faculty.stanford.edu/~knuth/email.html , "I have reached an age w
 http://web.archive.org/web/20200517015343/https://lettersofnote.com/2015/10/23/do-not-remain-nameless-to-yourself , so that is Feynman, "No problem is too small or too trivial if we can really do something about it."
 
 https://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html , The idea of this article is very helpful in reducing my anxiety. ⭐
+
+24
+
+https://www.cs.virginia.edu/~robins/YouAndYourResearch.html , "If what you are doing is not important, and if you don't think it is going to lead to something important, why are you at Bell Labs working on it?", "you have to sell it" ⭐
