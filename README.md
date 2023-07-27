@@ -1010,3 +1010,7 @@ https://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html
 24
 
 https://www.cs.virginia.edu/~robins/YouAndYourResearch.html , "If what you are doing is not important, and if you don't think it is going to lead to something important, why are you at Bell Labs working on it?", "you have to sell it" ⭐
+
+27
+
+https://meaningness.com/geeks-mops-sociopaths , how subcultures die
