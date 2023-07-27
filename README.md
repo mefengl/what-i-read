@@ -1014,3 +1014,6 @@ https://www.cs.virginia.edu/~robins/YouAndYourResearch.html , "If what you are d
 27
 
 https://meaningness.com/geeks-mops-sociopaths , how subcultures die
+
+https://www.andreasfragner.com/writing/writing-summaries , Topical Reading: Choose 4-5 topics of interest and gain in-depth knowledge by reading relevant books.
+Inspectional Reading: Skim and pre-read to select the 2 most important books for each chosen topic.
