@@ -1017,3 +1017,5 @@ https://meaningness.com/geeks-mops-sociopaths , how subcultures die
 
 https://www.andreasfragner.com/writing/writing-summaries , Topical Reading: Choose 4-5 topics of interest and gain in-depth knowledge by reading relevant books.
 Inspectional Reading: Skim and pre-read to select the 2 most important books for each chosen topic.
+
+https://www.newyorker.com/science/annals-of-artificial-intelligence/what-kind-of-mind-does-chatgpt-have , It provides an amazing explanation for why ChatGPT works, with the example being as good as "Lossy compression of the Internet."
