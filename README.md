@@ -4,6 +4,20 @@ I really got so many great ideas from web articles, some of them changed the tra
 
 I will provide links to videos that I believe are great because I have read their transcripts. If a brilliant mind does not write, it is essential to watch their video or listen to their podcast.
 
+## rules
+
+My reading process now change to `articles | filter | read | record`.
+
+### filter&pick rules
+
+When an article get 2 bad points, I will pass it.
+
+When an article get 1/2 good points, I will copy its link for further reading.
+
+Bad points can be, paywall, ads, politics.
+
+Good points can be, good title, good idea, good author.
+
 ## 2023-01
 
 10
