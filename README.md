@@ -1019,3 +1019,5 @@ https://www.andreasfragner.com/writing/writing-summaries , Topical Reading: Choo
 Inspectional Reading: Skim and pre-read to select the 2 most important books for each chosen topic.
 
 https://www.newyorker.com/science/annals-of-artificial-intelligence/what-kind-of-mind-does-chatgpt-have , It provides an amazing explanation for why ChatGPT works, with the example being as good as "Lossy compression of the Internet."
+
+https://onezero.medium.com/the-dark-forest-theory-of-the-internet-7dc3e68a7cb1 , that's how things looks like when you are in the dark forest, walk out, to the city, to the light.
