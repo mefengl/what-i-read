@@ -1046,6 +1046,8 @@ https://worksinprogress.co/issue/the-housing-theory-of-everything , high housing
 
 https://map.simonsarris.com/p/the-most-precious-resource-is-agency , let kid can decide
 
+https://scottaaronson.blog/?p=2410 , another example of "let people speak"
+
 ## hard code
 
 Best way is to memorize them.
