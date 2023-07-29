@@ -1048,6 +1048,8 @@ https://map.simonsarris.com/p/the-most-precious-resource-is-agency , let kid can
 
 https://scottaaronson.blog/?p=2410 , another example of "let people speak" , cause it's important fot consensus.
 
+https://longnow.org/essays/richard-feynman-connection-machine , many principles of Feynman are worth learning, and this article provides many examples.
+
 ## hard code
 
 Best way is to memorize them.
