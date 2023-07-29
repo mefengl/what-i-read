@@ -1050,6 +1050,8 @@ https://scottaaronson.blog/?p=2410 , another example of "let people speak" , cau
 
 https://longnow.org/essays/richard-feynman-connection-machine , many principles of Feynman are worth learning, and this article provides many examples.
 
+https://www.vogue.com/article/joan-didion-self-respect-essay-1961 , "self-respect" decide what can not to do. ⭐
+
 ## hard code
 
 Best way is to memorize them.
@@ -1057,3 +1059,5 @@ Best way is to memorize them.
 ### weekly
 
 https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short
+
+https://www.vogue.com/article/joan-didion-self-respect-essay-1961
