@@ -971,7 +971,7 @@ https://www.noahpinion.blog/p/interview-chris-miller-historian , cool to read th
 
 http://rampantgames.com/blog/?p=7745 , the concept of the "black triangle" is a great way to showcase effort without appearing laborious.
 
-https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short , "The days are long but the decades are short"
+https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short , "The days are long but the decades are short" ⭐
 
 http://paulgraham.com/makersschedule.html , as a maker, time is valuable. Work from 6 pm to 3 am and then sleep until 11 am. As a manager, time is less precious. Spend the afternoon casually meeting with others over coffee. That's a day. ⭐
 
@@ -1037,3 +1037,13 @@ https://www.newyorker.com/science/annals-of-artificial-intelligence/what-kind-of
 https://onezero.medium.com/the-dark-forest-theory-of-the-internet-7dc3e68a7cb1 , that's how things looks like when you are in the dark forest, walk out, to the city, to the light.
 
 http://paulgraham.com/conformism.html , this world is full of "passive conventional", and it is not easy to find "agreesive minded".
+
+https://www.scottaaronson.com/writings/bignumbers.html , it can be seen as the meta idea of "why speed matters"
+
+## hard code
+
+Best way is to memorize them.
+
+### weekly
+
+https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short
