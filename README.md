@@ -1036,11 +1036,15 @@ https://www.newyorker.com/science/annals-of-artificial-intelligence/what-kind-of
 
 https://onezero.medium.com/the-dark-forest-theory-of-the-internet-7dc3e68a7cb1 , that's how things looks like when you are in the dark forest, walk out, to the city, to the light.
 
+29
+
 http://paulgraham.com/conformism.html , this world is full of "passive conventional", and it is not easy to find "agreesive minded".
 
 https://www.scottaaronson.com/writings/bignumbers.html , it can be seen as the meta idea of "why speed matters", cause big number make any thing else meaningless.
 
 https://worksinprogress.co/issue/the-housing-theory-of-everything , high housing price is wrong, it's yet another stupid problem of 21st century.
+
+https://map.simonsarris.com/p/the-most-precious-resource-is-agency , let kid can decide
 
 ## hard code
 
