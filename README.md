@@ -1040,6 +1040,8 @@ http://paulgraham.com/conformism.html , this world is full of "passive conventio
 
 https://www.scottaaronson.com/writings/bignumbers.html , it can be seen as the meta idea of "why speed matters", cause big number make any thing else meaningless.
 
+https://worksinprogress.co/issue/the-housing-theory-of-everything , high housing price is wrong, it's yet another stupid problem of 21st century.
+
 ## hard code
 
 Best way is to memorize them.
