@@ -1038,7 +1038,7 @@ https://onezero.medium.com/the-dark-forest-theory-of-the-internet-7dc3e68a7cb1 ,
 
 http://paulgraham.com/conformism.html , this world is full of "passive conventional", and it is not easy to find "agreesive minded".
 
-https://www.scottaaronson.com/writings/bignumbers.html , it can be seen as the meta idea of "why speed matters"
+https://www.scottaaronson.com/writings/bignumbers.html , it can be seen as the meta idea of "why speed matters", cause big number make any thing else meaningless.
 
 ## hard code
 
