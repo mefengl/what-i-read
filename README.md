@@ -1052,6 +1052,8 @@ https://longnow.org/essays/richard-feynman-connection-machine , many principles 
 
 https://www.vogue.com/article/joan-didion-self-respect-essay-1961 , "self-respect" decide what can not to do. ⭐
 
+https://www.ribbonfarm.com/2020/01/23/being-your-selves-identity-rd-on-alt-twitter , A thing that has been forgotten for a long time, you can always create a new account, just like the first one.
+
 ## hard code
 
 Best way is to memorize them.
