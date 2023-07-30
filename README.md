@@ -1058,6 +1058,8 @@ https://www.ribbonfarm.com/2020/01/23/being-your-selves-identity-rd-on-alt-twitt
 
 https://github.com/readme/featured/typescript-gradual-types , "untyped languages just do not scale", typed languages can be noisy when scalability is not necessary.
 
+https://www.hecaitou.com/2023/07/Do-not-leave-the-good-stuff-for-the-next-day.html , So saving drafts is actually a pessimistic estimate for the future, and it's not the original intention if it really comes true.
+
 ## hard code
 
 Best way is to memorize them.
