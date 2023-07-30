@@ -1054,6 +1054,10 @@ https://www.vogue.com/article/joan-didion-self-respect-essay-1961 , "self-respec
 
 https://www.ribbonfarm.com/2020/01/23/being-your-selves-identity-rd-on-alt-twitter , A thing that has been forgotten for a long time, you can always create a new account, just like the first one.
 
+30
+
+https://github.com/readme/featured/typescript-gradual-types , "untyped languages just do not scale", typed languages can be noisy when scalability is not necessary.
+
 ## hard code
 
 Best way is to memorize them.
