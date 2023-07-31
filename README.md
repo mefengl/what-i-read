@@ -4,9 +4,11 @@ I really got so many great ideas from web articles, some of them changed the tra
 
 I will provide links to videos that I believe are great because I have read their transcripts. If a brilliant mind does not write, it is essential to watch their video or listen to their podcast.
 
-## rules
+## info
 
-My reading process now change to `articles | filter | read | record`.
+speed: 10-50k words/day
+
+reading process: `articles | filter | read | record`
 
 ### filter&pick rules
 
