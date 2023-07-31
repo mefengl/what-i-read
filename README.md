@@ -1062,6 +1062,28 @@ https://github.com/readme/featured/typescript-gradual-types , "untyped languages
 
 https://www.hecaitou.com/2023/07/Do-not-leave-the-good-stuff-for-the-next-day.html , So saving drafts is actually a pessimistic estimate for the future, and it's not the original intention if it really comes true.
 
+31
+
+https://andrewingram.net/posts/recipe-kits-a-great-alternative-to-installable-libraries , glad to see this idea of copy&paste component is getting popular, such as the coming Tailwind Catalyst.
+
+https://world.hey.com/jason/effective-productive-acfa210d , "Not doing something that isn’t worth doing is a wonderful way to spend your time"
+
+https://world.hey.com/dhh/clear-the-barnacles-b9558830 , "barnacles" is such a good word to describe the "more is less".
+
+https://world.hey.com/dhh/pick-promise-over-proof-756604d3 , Like testing eyesight or vocabulary size, let failure be the proof.
+
+https://matthewwolfe.github.io/blog/code-sharing-react-and-react-native , Use JS to write entire app, web maybe hard, but share some code is easy.
+
+https://blog.nateliason.com/p/more-than-you-think , The rain and sunshine are coming. Spread your seeds, don't worry about fertilizing, weeding, and harvesting because they all come slowly.
+
+https://astralcodexten.substack.com/p/were-not-platonists-weve-just-learned , Re-understanding intelligence.
+
+https://guzey.com/advice , Comments in 1 week, delete or move into notes in 1 month.
+
+https://perell.com/essay/50-ideas-that-changed-my-life, Those ideas are cool, but reading them together is boring. If they were one book, with each idea as a chapter, it would be better.
+
+https://tkdodo.eu/blog/react-query-and-react-context , From this article, I understand that context is a way to pass data, more useful since it looks simple.
+
 ## hard code
 
 Best way is to memorize them.
