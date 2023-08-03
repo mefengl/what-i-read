@@ -1084,6 +1084,12 @@ https://perell.com/essay/50-ideas-that-changed-my-life, Those ideas are cool, bu
 
 https://tkdodo.eu/blog/react-query-and-react-context , From this article, I understand that context is a way to pass data, more useful since it looks simple.
 
+## 2023-08
+
+03
+
+https://githubnext.com/projects/code-atlas , It's cool to auto extract variables from solutions and segment them into blocks for human understanding.
+
 ## hard code
 
 Best way is to memorize them.
