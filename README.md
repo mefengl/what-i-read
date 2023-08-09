@@ -108,7 +108,7 @@ https://blog.steatoda.com/native-code-is-slow , the wave of containerization is 
 
 https://milkyeggs.com/?p=303 , it's easy to understand, a programmer now can be a programmer or a leader of ai programmers
 
-https://davidamos.dev/never-modify-inputs-without-permission/?ref=curious-about-code-newsletter , remind me again of the importance of immutability
+https://davidamos.dev/never-modify-inputs-without-permission , remind me again of the importance of immutability
 
 https://news.ycombinator.com/item?id=34421594 , nice talk about TikTok
 
@@ -130,7 +130,7 @@ https://www.lesswrong.com/s/gFvira6tHpLXnqCLH/p/rmAbiEKQDpDnZzcRf , a real-world
 
 21
 
-https://fs.blog/why-life-cant-be-simpler/?utm_source=densediscovery&utm_medium=email&utm_campaign=newsletter-issue-177 , reflection on simplicity, WET(Write Everything Twice) is not a bad thing
+https://fs.blog/why-life-cant-be-simpler , reflection on simplicity, WET(Write Everything Twice) is not a bad thing
 
 https://fs.blog/spiral-of-silence/ , 'spiral of silence', good name
 
@@ -226,7 +226,7 @@ https://www.outsystems.com/blog/posts/people-who-are-serious-about-programming/ 
 
 06
 
-https://www.nytimes.com/interactive/2023/02/05/world/asia/china-obits-covid.html ,  it's a shame that our media can't make such a report
+https://www.nytimes.com/interactive/2023/02/05/world/asia/china-obits-covid.html , it's a shame that our media can't make such a report
 
 https://mindingourway.com/youre-allowed-to-fight-for-something/ , "You're allowed to reject arbitrarily good amounts of faked pleasure-experience to avoid bad real-world outcomes."
 
