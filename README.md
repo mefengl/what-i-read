@@ -1107,3 +1107,5 @@ https://jsomers.net/blog/speed-matters
 https://mitchellh.com/writing/the-new-normal
 
 https://mindingourway.com/self-signaling-the-ability-to-do-what-you-want
+
+https://mindingourway.com/recklessness
