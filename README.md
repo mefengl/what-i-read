@@ -1117,3 +1117,11 @@ https://www.swyx.io/create-luck
 https://mindingourway.com/shoulds-are-not-a-duty
 
 https://basecamp.com/shapeup/2.1-chapter-07
+
+https://www.lesswrong.com/posts/dkchEFnM9EYpW3bjK/why-and-how-to-graduate-early-u-s
+
+https://fs.blog/the-buffett-formula
+
+https://www.lesswrong.com/s/gFvira6tHpLXnqCLH/p/2MD3NMLBPCqPfnfre
+
+https://www.cold-takes.com/the-duplicator
