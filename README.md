@@ -1109,3 +1109,13 @@ https://mitchellh.com/writing/the-new-normal
 https://mindingourway.com/self-signaling-the-ability-to-do-what-you-want
 
 https://mindingourway.com/recklessness
+
+https://mindingourway.com/the-art-of-response
+
+### monthly
+
+https://mindingourway.com/desperation
+
+https://alexkondov.com/lodash-architecture-review
+
+https://alexkondov.com/accumulating-unintentional-tech-debt
