@@ -10,16 +10,6 @@ speed: 10-50k words/day
 
 reading process: `articles | filter | read | record`
 
-### filter&pick rules
-
-When an article get 2 bad points, I will pass it.
-
-When an article get 1/2 good points, I will copy its link for further reading.
-
-Bad points can be, paywall, ads, politics.
-
-Good points can be, good title, good idea, good author.
-
 ## 2023-01
 
 10
@@ -1112,6 +1102,8 @@ https://mindingourway.com/recklessness
 
 https://mindingourway.com/the-art-of-response
 
+https://mindingourway.com/half-assing-it-with-everything-youve-got
+
 ### monthly
 
 https://mindingourway.com/desperation
@@ -1119,3 +1111,9 @@ https://mindingourway.com/desperation
 https://alexkondov.com/lodash-architecture-review
 
 https://alexkondov.com/accumulating-unintentional-tech-debt
+
+https://www.swyx.io/create-luck
+
+https://mindingourway.com/shoulds-are-not-a-duty
+
+https://basecamp.com/shapeup/2.1-chapter-07
