@@ -1125,3 +1125,5 @@ https://fs.blog/the-buffett-formula
 https://www.lesswrong.com/s/gFvira6tHpLXnqCLH/p/2MD3NMLBPCqPfnfre
 
 https://www.cold-takes.com/the-duplicator
+
+book: Four Thousand Weeks
