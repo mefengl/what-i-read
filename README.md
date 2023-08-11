@@ -1088,6 +1088,8 @@ https://www.lesswrong.com/s/FrqfoG3LJeCZs96Ym/p/gWGA8Da539EQmAR9F , Faster! Stro
 
 https://www.lesswrong.com/s/FrqfoG3LJeCZs96Ym/p/dLJv2CoRCgeC2mPgj , "I think it’s okay to be imperfect, but not so imperfect that other people notice."
 
+https://www.lesswrong.com/s/3ELrPerFTSo75WnrH/p/qNZM3EGoE5ZeMdCRt , "Reversed Stupidity Is Not Intelligence"
+
 ## hard code
 
 Best way is to memorize them.
