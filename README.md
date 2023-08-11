@@ -1100,6 +1100,8 @@ https://www.lesswrong.com/posts/nEBbw2Bc2CnN2RMxy/gears-level-models-are-capital
 
 https://www.lesswrong.com/s/pmHZDpak4NeRLLLCw/p/BaCWFCxBQYjJXSsah , pretrain your mind
 
+https://www.lesswrong.com/s/M3TJ2fTCzoQq66NBJ/p/hwi8JQjspnMWyWs4g , "Splitting the Great Idea into parts; Treating every additional detail as burdensome;" ⭐
+
 ## hard code
 
 Best way is to memorize them.
@@ -1149,3 +1151,5 @@ https://www.cold-takes.com/the-duplicator
 book: Four Thousand Weeks
 
 book: Programmer Brain
+
+https://www.lesswrong.com/s/M3TJ2fTCzoQq66NBJ/p/hwi8JQjspnMWyWs4g
