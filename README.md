@@ -1080,6 +1080,10 @@ https://tkdodo.eu/blog/react-query-and-react-context , From this article, I unde
 
 https://githubnext.com/projects/code-atlas , It's cool to auto extract variables from solutions and segment them into blocks for human understanding.
 
+11
+
+https://www.lesswrong.com/s/FrqfoG3LJeCZs96Ym/p/GrDqnMjhqoxiqpQPw , Does humility make you stronger or weaker?
+
 ## hard code
 
 Best way is to memorize them.
