@@ -1098,6 +1098,8 @@ book: Programmer Brain
 
 https://www.lesswrong.com/posts/nEBbw2Bc2CnN2RMxy/gears-level-models-are-capital-investments , Rethink "gears level" - it's the way that works, so mistakes won't accumulate.
 
+https://www.lesswrong.com/s/pmHZDpak4NeRLLLCw/p/BaCWFCxBQYjJXSsah , pretrain your mind
+
 ## hard code
 
 Best way is to memorize them.
