@@ -1086,6 +1086,8 @@ https://www.lesswrong.com/s/FrqfoG3LJeCZs96Ym/p/GrDqnMjhqoxiqpQPw , Does humilit
 
 https://www.lesswrong.com/s/FrqfoG3LJeCZs96Ym/p/gWGA8Da539EQmAR9F , Faster! Stronger! Higher! Better!
 
+https://www.lesswrong.com/s/FrqfoG3LJeCZs96Ym/p/dLJv2CoRCgeC2mPgj , "I think it’s okay to be imperfect, but not so imperfect that other people notice."
+
 ## hard code
 
 Best way is to memorize them.
