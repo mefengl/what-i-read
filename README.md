@@ -1084,6 +1084,8 @@ https://githubnext.com/projects/code-atlas , It's cool to auto extract variables
 
 https://www.lesswrong.com/s/FrqfoG3LJeCZs96Ym/p/GrDqnMjhqoxiqpQPw , Does humility make you stronger or weaker?
 
+https://www.lesswrong.com/s/FrqfoG3LJeCZs96Ym/p/gWGA8Da539EQmAR9F , Faster! Stronger! Higher! Better!
+
 ## hard code
 
 Best way is to memorize them.
