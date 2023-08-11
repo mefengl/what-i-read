@@ -1102,6 +1102,8 @@ https://www.lesswrong.com/s/pmHZDpak4NeRLLLCw/p/BaCWFCxBQYjJXSsah , pretrain you
 
 https://www.lesswrong.com/s/M3TJ2fTCzoQq66NBJ/p/hwi8JQjspnMWyWs4g , "Splitting the Great Idea into parts; Treating every additional detail as burdensome;" ⭐
 
+https://www.lesswrong.com/s/5bZZZJ5psXrrD5BGb/p/qRWfvgJG75ESLRNu9 , "opps"
+
 ## hard code
 
 Best way is to memorize them.
@@ -1125,6 +1127,8 @@ https://mindingourway.com/recklessness
 https://mindingourway.com/the-art-of-response
 
 https://mindingourway.com/half-assing-it-with-everything-youve-got
+
+https://www.lesswrong.com/s/5bZZZJ5psXrrD5BGb/p/qRWfvgJG75ESLRNu9
 
 ### monthly
 
