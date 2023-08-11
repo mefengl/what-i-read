@@ -1080,6 +1080,10 @@ https://tkdodo.eu/blog/react-query-and-react-context , From this article, I unde
 
 https://githubnext.com/projects/code-atlas , It's cool to auto extract variables from solutions and segment them into blocks for human understanding.
 
+10
+
+book: Four Thousand Weeks
+
 11
 
 https://www.lesswrong.com/s/FrqfoG3LJeCZs96Ym/p/GrDqnMjhqoxiqpQPw , Does humility make you stronger or weaker?
@@ -1089,6 +1093,8 @@ https://www.lesswrong.com/s/FrqfoG3LJeCZs96Ym/p/gWGA8Da539EQmAR9F , Faster! Stro
 https://www.lesswrong.com/s/FrqfoG3LJeCZs96Ym/p/dLJv2CoRCgeC2mPgj , "I think it’s okay to be imperfect, but not so imperfect that other people notice."
 
 https://www.lesswrong.com/s/3ELrPerFTSo75WnrH/p/qNZM3EGoE5ZeMdCRt , "Reversed Stupidity Is Not Intelligence"
+
+book: Programmer Brain
 
 ## hard code
 
@@ -1137,3 +1143,5 @@ https://www.lesswrong.com/s/gFvira6tHpLXnqCLH/p/2MD3NMLBPCqPfnfre
 https://www.cold-takes.com/the-duplicator
 
 book: Four Thousand Weeks
+
+book: Programmer Brain
