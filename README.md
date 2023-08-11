@@ -1096,6 +1096,8 @@ https://www.lesswrong.com/s/3ELrPerFTSo75WnrH/p/qNZM3EGoE5ZeMdCRt , "Reversed St
 
 book: Programmer Brain
 
+https://www.lesswrong.com/posts/nEBbw2Bc2CnN2RMxy/gears-level-models-are-capital-investments , Rethink "gears level" - it's the way that works, so mistakes won't accumulate.
+
 ## hard code
 
 Best way is to memorize them.
