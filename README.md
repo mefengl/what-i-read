@@ -1104,6 +1104,8 @@ https://www.lesswrong.com/s/M3TJ2fTCzoQq66NBJ/p/hwi8JQjspnMWyWs4g , "Splitting t
 
 https://www.lesswrong.com/s/5bZZZJ5psXrrD5BGb/p/qRWfvgJG75ESLRNu9 , "opps"
 
+https://www.economist.com/leaders/2023/08/10/joe-bidens-china-strategy-is-not-working , You cannot wish for only one outcome
+
 ## hard code
 
 Best way is to memorize them.
