@@ -1110,7 +1110,9 @@ https://www.economist.com/leaders/2023/08/10/joe-bidens-china-strategy-is-not-wo
 
 https://danmall.com/posts/extravagance-as-savviness , There is no simple way to determine what is cheap.
 
-https://fs.blog/brain-food/july-30-2023 , the small things in life
+https://fs.blog/brain-food/july-30-2023 , the small things in life ⭐
+
+https://www.billym2k.news/p/playing-a-different-game , play different game
 
 ## hard code
 
@@ -1137,6 +1139,8 @@ https://mindingourway.com/the-art-of-response
 https://mindingourway.com/half-assing-it-with-everything-youve-got
 
 https://www.lesswrong.com/s/5bZZZJ5psXrrD5BGb/p/qRWfvgJG75ESLRNu9
+
+https://fs.blog/brain-food/july-30-2023
 
 ### monthly
 
