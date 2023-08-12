@@ -1110,6 +1110,8 @@ https://www.economist.com/leaders/2023/08/10/joe-bidens-china-strategy-is-not-wo
 
 https://danmall.com/posts/extravagance-as-savviness , There is no simple way to determine what is cheap.
 
+https://fs.blog/brain-food/july-30-2023 , the small things in life
+
 ## hard code
 
 Best way is to memorize them.
