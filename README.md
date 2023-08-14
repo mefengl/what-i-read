@@ -1118,6 +1118,8 @@ https://www.billym2k.news/p/playing-a-different-game , play different game
 
 https://unchartedterritories.tomaspueyo.com/p/geography-is-the-chessboard-of-history , interesting
 
+https://collabfund.com/blog/how-to-read-lots-of-inputs-and-a-strong-filter , filter is also important for reading
+
 ## hard code
 
 Best way is to memorize them.
