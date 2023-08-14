@@ -1114,6 +1114,10 @@ https://fs.blog/brain-food/july-30-2023 , the small things in life ⭐
 
 https://www.billym2k.news/p/playing-a-different-game , play different game
 
+14
+
+https://unchartedterritories.tomaspueyo.com/p/geography-is-the-chessboard-of-history , interesting
+
 ## hard code
 
 Best way is to memorize them.
