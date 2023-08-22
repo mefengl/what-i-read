@@ -1124,6 +1124,8 @@ https://collabfund.com/blog/how-to-read-lots-of-inputs-and-a-strong-filter , fil
 
 https://www.newyorker.com/magazine/2023/08/28/elon-musks-shadow-rule , Elon Musk from another angle.
 
+https://mp.weixin.qq.com/s/MHB-KXOXofUrbZP0Gj-vaw , amazing stories behind the movie
+
 ## hard code
 
 Best way is to memorize them.
