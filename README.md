@@ -1126,6 +1126,8 @@ https://www.newyorker.com/magazine/2023/08/28/elon-musks-shadow-rule , Elon Musk
 
 https://mp.weixin.qq.com/s/MHB-KXOXofUrbZP0Gj-vaw , amazing stories behind the movie
 
+https://jvns.ca/blog/2023/08/08/what-helps-people-get-comfortable-on-the-command-line- , a helpful article about command line
+
 ## hard code
 
 Best way is to memorize them.
