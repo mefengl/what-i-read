@@ -1120,6 +1120,10 @@ https://unchartedterritories.tomaspueyo.com/p/geography-is-the-chessboard-of-his
 
 https://collabfund.com/blog/how-to-read-lots-of-inputs-and-a-strong-filter , filter is also important for reading
 
+22
+
+https://www.newyorker.com/magazine/2023/08/28/elon-musks-shadow-rule , Elon Musk from another angle.
+
 ## hard code
 
 Best way is to memorize them.
