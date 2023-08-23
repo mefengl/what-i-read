@@ -1118,7 +1118,7 @@ https://www.billym2k.news/p/playing-a-different-game , play different game
 
 https://unchartedterritories.tomaspueyo.com/p/geography-is-the-chessboard-of-history , interesting
 
-https://collabfund.com/blog/how-to-read-lots-of-inputs-and-a-strong-filter , filter is also important for reading
+https://collabfund.com/blog/how-to-read-lots-of-inputs-and-a-strong-filter , filter is also important for reading ⭐
 
 22
 
@@ -1155,6 +1155,8 @@ https://mindingourway.com/half-assing-it-with-everything-youve-got
 https://www.lesswrong.com/s/5bZZZJ5psXrrD5BGb/p/qRWfvgJG75ESLRNu9
 
 https://fs.blog/brain-food/july-30-2023
+
+https://collabfund.com/blog/how-to-read-lots-of-inputs-and-a-strong-filter
 
 ### monthly
 
