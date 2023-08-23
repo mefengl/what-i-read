@@ -1128,6 +1128,10 @@ https://mp.weixin.qq.com/s/MHB-KXOXofUrbZP0Gj-vaw , amazing stories behind the m
 
 https://jvns.ca/blog/2023/08/08/what-helps-people-get-comfortable-on-the-command-line- , a helpful article about command line
 
+23
+
+https://joshcollinsworth.com/blog/antiquated-react , You know what? I don't care. I am forced to code in a code repository using something like Vue2, and I'm fine with it. I care about 10x improvements, like going from jQuery to React. But transitioning from React to Svelte? Not so much.
+
 ## hard code
 
 Best way is to memorize them.
