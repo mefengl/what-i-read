@@ -1136,6 +1136,8 @@ https://joshcollinsworth.com/blog/antiquated-react , You know what? I don't care
 
 https://blog.samaltman.com/how-to-be-successful , ⭐
 
+https://www.notboring.co/p/i-exponential , Like such kind article for 21th.
+
 ## hard code
 
 Best way is to memorize them.
