@@ -1132,6 +1132,10 @@ https://jvns.ca/blog/2023/08/08/what-helps-people-get-comfortable-on-the-command
 
 https://joshcollinsworth.com/blog/antiquated-react , You know what? I don't care. I am forced to code in a code repository using something like Vue2, and I'm fine with it. I care about 10x improvements, like going from jQuery to React. But transitioning from React to Svelte? Not so much.
 
+29
+
+https://blog.samaltman.com/how-to-be-successful , ⭐
+
 ## hard code
 
 Best way is to memorize them.
@@ -1161,6 +1165,8 @@ https://www.lesswrong.com/s/5bZZZJ5psXrrD5BGb/p/qRWfvgJG75ESLRNu9
 https://fs.blog/brain-food/july-30-2023
 
 https://collabfund.com/blog/how-to-read-lots-of-inputs-and-a-strong-filter
+
+https://blog.samaltman.com/how-to-be-successful
 
 ### monthly
 
