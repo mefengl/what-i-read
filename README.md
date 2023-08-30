@@ -1150,6 +1150,10 @@ https://www.artofmanliness.com/living/leisure/in-8-hours-you-could-be-in , inspi
 
 https://blog.danslimmon.com/2023/08/11/squeeze-the-hell-out-of-the-system-you-have , Rewriting is the incorrect answer to the original question.
 
+https://fffuel.co/css-selectors , useful list
+
+https://react.dev/learn/typescript , The missing tutorial for tsx.
+
 ## hard code
 
 Best way is to memorize them.
