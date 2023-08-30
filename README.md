@@ -1142,6 +1142,8 @@ https://www.notboring.co/p/i-exponential , Like such kind article for 21th.
 
 https://jasonfeifer.beehiiv.com/p/feel-better-about-quitting-something , As long as you don't learn for something disposable, you can always continue in another area. ⭐
 
+https://matt-rickard.com/reflections-on-10-000-hours-of-programming , "never take a direct dependency on a small library that you could easily rewrite or a large library that should have been small." ⭐
+
 ## hard code
 
 Best way is to memorize them.
@@ -1203,3 +1205,5 @@ book: Four Thousand Weeks
 book: Programmer Brain
 
 https://www.lesswrong.com/s/M3TJ2fTCzoQq66NBJ/p/hwi8JQjspnMWyWs4g
+
+https://matt-rickard.com/reflections-on-10-000-hours-of-programming
