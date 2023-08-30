@@ -1148,6 +1148,8 @@ https://spacecraft.ssl.umd.edu/akins_laws.html , just great.
 
 https://www.artofmanliness.com/living/leisure/in-8-hours-you-could-be-in , inspiring
 
+https://blog.danslimmon.com/2023/08/11/squeeze-the-hell-out-of-the-system-you-have , Rewriting is the incorrect answer to the original question.
+
 ## hard code
 
 Best way is to memorize them.
