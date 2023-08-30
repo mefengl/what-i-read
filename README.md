@@ -1144,6 +1144,8 @@ https://jasonfeifer.beehiiv.com/p/feel-better-about-quitting-something , As long
 
 https://matt-rickard.com/reflections-on-10-000-hours-of-programming , "never take a direct dependency on a small library that you could easily rewrite or a large library that should have been small." ⭐
 
+https://spacecraft.ssl.umd.edu/akins_laws.html , just great.
+
 ## hard code
 
 Best way is to memorize them.
@@ -1207,3 +1209,5 @@ book: Programmer Brain
 https://www.lesswrong.com/s/M3TJ2fTCzoQq66NBJ/p/hwi8JQjspnMWyWs4g
 
 https://matt-rickard.com/reflections-on-10-000-hours-of-programming
+
+https://spacecraft.ssl.umd.edu/akins_laws.html
