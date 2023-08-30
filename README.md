@@ -1138,6 +1138,10 @@ https://blog.samaltman.com/how-to-be-successful , ⭐
 
 https://www.notboring.co/p/i-exponential , Like such kind article for 21th.
 
+30
+
+https://jasonfeifer.beehiiv.com/p/feel-better-about-quitting-something , As long as you don't learn for something disposable, you can always continue in another area. ⭐
+
 ## hard code
 
 Best way is to memorize them.
@@ -1169,6 +1173,8 @@ https://fs.blog/brain-food/july-30-2023
 https://collabfund.com/blog/how-to-read-lots-of-inputs-and-a-strong-filter
 
 https://blog.samaltman.com/how-to-be-successful
+
+https://jasonfeifer.beehiiv.com/p/feel-better-about-quitting-something
 
 ### monthly
 
