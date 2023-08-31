@@ -1154,6 +1154,10 @@ https://fffuel.co/css-selectors , useful list
 
 https://react.dev/learn/typescript , The missing tutorial for tsx.
 
+31
+
+https://swizec.com/blog/why-write , "structured thought"
+
 ## hard code
 
 Best way is to memorize them.
