@@ -1158,6 +1158,12 @@ https://react.dev/learn/typescript , The missing tutorial for tsx.
 
 https://swizec.com/blog/why-write , "structured thought"
 
+## 2023-09
+
+04
+
+https://techcrunch.com/2012/04/19/an-interview-with-millenium-technology-prize-finalist-linus-torvalds , just great
+
 ## hard code
 
 Best way is to memorize them.
