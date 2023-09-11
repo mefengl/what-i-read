@@ -1164,6 +1164,10 @@ https://swizec.com/blog/why-write , "structured thought"
 
 https://techcrunch.com/2012/04/19/an-interview-with-millenium-technology-prize-finalist-linus-torvalds , just great
 
+11
+
+https://andreabergia.com/blog/2023/05/error-handling-patterns , The first step to conquer error handling.
+
 ## hard code
 
 Best way is to memorize them.
