@@ -1204,8 +1204,6 @@ https://collabfund.com/blog/how-to-read-lots-of-inputs-and-a-strong-filter
 
 https://blog.samaltman.com/how-to-be-successful
 
-https://jasonfeifer.beehiiv.com/p/feel-better-about-quitting-something
-
 ### monthly
 
 https://mindingourway.com/desperation
