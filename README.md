@@ -1172,6 +1172,10 @@ https://mp.weixin.qq.com/s/9T0U7hEihOF4LPHGMSCvMQ , know more about xAI
 
 https://andreabergia.com/blog/2023/05/error-handling-patterns , The first step to conquer error handling.
 
+14
+
+https://blog.matt-rickard.com/p/the-new-economics-of-generating-code , Already found this, but when looking back, only a little bit of code refactoring is needed.
+
 ## hard code
 
 Best way is to memorize them.
