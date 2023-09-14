@@ -1176,6 +1176,8 @@ https://andreabergia.com/blog/2023/05/error-handling-patterns , The first step t
 
 https://blog.matt-rickard.com/p/the-new-economics-of-generating-code , Already found this, but when looking back, only a little bit of code refactoring is needed.
 
+https://world.hey.com/jason/company-culture-is-the-last-50-days-dab19416 , Culture is stable in the short term, but it changes rapidly in the long term.
+
 ## hard code
 
 Best way is to memorize them.
