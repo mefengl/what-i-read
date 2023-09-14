@@ -1178,6 +1178,10 @@ https://blog.matt-rickard.com/p/the-new-economics-of-generating-code , Already f
 
 https://world.hey.com/jason/company-culture-is-the-last-50-days-dab19416 , Culture is stable in the short term, but it changes rapidly in the long term.
 
+https://arxiv.org/abs/2212.04037 , Seems to provide a way to get the simplest and most boring prompt, which I personally believe is the best way to use LLM. Like code or math, shorter is better.
+
+https://dynomight.substack.com/p/humans , Basically, this article tells me that conflict can be a choice.
+
 ## hard code
 
 Best way is to memorize them.
