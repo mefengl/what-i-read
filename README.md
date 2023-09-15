@@ -1182,17 +1182,19 @@ https://arxiv.org/abs/2212.04037 , Seems to provide a way to get the simplest an
 
 https://dynomight.substack.com/p/humans , Basically, this article tells me that conflict can be a choice.
 
+15
+
 https://thezbook.com/code-first-vs-product-first , "If the product doesn’t work well, the code is not good." ⭐
 
 https://mp.weixin.qq.com/s/oqJOaJJpu6eZa7sie0kRVw , AI industry status before 2023/09.
+
+https://visakanv.com/1000/0152-letter-to-a-young-songwriter , Some conventional wisdom, I like it. ⭐
 
 ## hard code
 
 Best way is to memorize them.
 
 ### weekly
-
-https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short
 
 https://www.vogue.com/article/joan-didion-self-respect-essay-1961
 
@@ -1217,6 +1219,8 @@ https://fs.blog/brain-food/july-30-2023
 https://collabfund.com/blog/how-to-read-lots-of-inputs-and-a-strong-filter
 
 https://blog.samaltman.com/how-to-be-successful
+
+https://visakanv.com/1000/0152-letter-to-a-young-songwriter
 
 ### monthly
 
