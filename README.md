@@ -1184,6 +1184,8 @@ https://dynomight.substack.com/p/humans , Basically, this article tells me that 
 
 https://thezbook.com/code-first-vs-product-first , "If the product doesn’t work well, the code is not good." ⭐
 
+https://mp.weixin.qq.com/s/oqJOaJJpu6eZa7sie0kRVw , AI industry status before 2023/09.
+
 ## hard code
 
 Best way is to memorize them.
