@@ -1182,6 +1182,8 @@ https://arxiv.org/abs/2212.04037 , Seems to provide a way to get the simplest an
 
 https://dynomight.substack.com/p/humans , Basically, this article tells me that conflict can be a choice.
 
+https://thezbook.com/code-first-vs-product-first , "If the product doesn’t work well, the code is not good." ⭐
+
 ## hard code
 
 Best way is to memorize them.
@@ -1247,3 +1249,5 @@ https://matt-rickard.com/reflections-on-10-000-hours-of-programming
 https://spacecraft.ssl.umd.edu/akins_laws.html
 
 https://www.artofmanliness.com/living/leisure/in-8-hours-you-could-be-in
+
+https://thezbook.com/code-first-vs-product-first
