@@ -1263,3 +1263,5 @@ https://visakanv.com/1000/0152-letter-to-a-young-songwriter , Some conventional 
 https://finbarr.ca/five-years-of-gpt-progress , give me some details about the history of GPT
 
 https://jakobgreenfeld.com/stay-in-touch , It is interesting to see the strange way in which internet marketing professionals work.
+
+https://jakobgreenfeld.com/build_an_audience , Having a large number of followers is not a meaningful goal unless you are selling ads.
