@@ -10,6 +10,74 @@ speed: 10-50k words/day
 
 reading process: `articles | filter | read | record`
 
+## hard code
+
+Best way is to memorize them.
+
+### weekly
+
+https://www.vogue.com/article/joan-didion-self-respect-essay-1961
+
+https://blog.nateliason.com/p/proof-you-can-do-hard-things
+
+https://jsomers.net/blog/speed-matters
+
+https://mitchellh.com/writing/the-new-normal
+
+https://mindingourway.com/self-signaling-the-ability-to-do-what-you-want
+
+https://mindingourway.com/recklessness
+
+https://mindingourway.com/the-art-of-response
+
+https://mindingourway.com/half-assing-it-with-everything-youve-got
+
+https://www.lesswrong.com/s/5bZZZJ5psXrrD5BGb/p/qRWfvgJG75ESLRNu9
+
+https://fs.blog/brain-food/july-30-2023
+
+https://collabfund.com/blog/how-to-read-lots-of-inputs-and-a-strong-filter
+
+https://blog.samaltman.com/how-to-be-successful
+
+https://visakanv.com/1000/0152-letter-to-a-young-songwriter
+
+### monthly
+
+https://mindingourway.com/desperation
+
+https://alexkondov.com/lodash-architecture-review
+
+https://alexkondov.com/accumulating-unintentional-tech-debt
+
+https://www.swyx.io/create-luck
+
+https://mindingourway.com/shoulds-are-not-a-duty
+
+https://basecamp.com/shapeup/2.1-chapter-07
+
+https://www.lesswrong.com/posts/dkchEFnM9EYpW3bjK/why-and-how-to-graduate-early-u-s
+
+https://fs.blog/the-buffett-formula
+
+https://www.lesswrong.com/s/gFvira6tHpLXnqCLH/p/2MD3NMLBPCqPfnfre
+
+https://www.cold-takes.com/the-duplicator
+
+book: Four Thousand Weeks
+
+book: Programmer Brain
+
+https://www.lesswrong.com/s/M3TJ2fTCzoQq66NBJ/p/hwi8JQjspnMWyWs4g
+
+https://matt-rickard.com/reflections-on-10-000-hours-of-programming
+
+https://spacecraft.ssl.umd.edu/akins_laws.html
+
+https://www.artofmanliness.com/living/leisure/in-8-hours-you-could-be-in
+
+https://thezbook.com/code-first-vs-product-first
+
 ## 2023-01
 
 10
@@ -1190,70 +1258,6 @@ https://mp.weixin.qq.com/s/oqJOaJJpu6eZa7sie0kRVw , AI industry status before 20
 
 https://visakanv.com/1000/0152-letter-to-a-young-songwriter , Some conventional wisdom, I like it. ⭐
 
-## hard code
+16
 
-Best way is to memorize them.
-
-### weekly
-
-https://www.vogue.com/article/joan-didion-self-respect-essay-1961
-
-https://blog.nateliason.com/p/proof-you-can-do-hard-things
-
-https://jsomers.net/blog/speed-matters
-
-https://mitchellh.com/writing/the-new-normal
-
-https://mindingourway.com/self-signaling-the-ability-to-do-what-you-want
-
-https://mindingourway.com/recklessness
-
-https://mindingourway.com/the-art-of-response
-
-https://mindingourway.com/half-assing-it-with-everything-youve-got
-
-https://www.lesswrong.com/s/5bZZZJ5psXrrD5BGb/p/qRWfvgJG75ESLRNu9
-
-https://fs.blog/brain-food/july-30-2023
-
-https://collabfund.com/blog/how-to-read-lots-of-inputs-and-a-strong-filter
-
-https://blog.samaltman.com/how-to-be-successful
-
-https://visakanv.com/1000/0152-letter-to-a-young-songwriter
-
-### monthly
-
-https://mindingourway.com/desperation
-
-https://alexkondov.com/lodash-architecture-review
-
-https://alexkondov.com/accumulating-unintentional-tech-debt
-
-https://www.swyx.io/create-luck
-
-https://mindingourway.com/shoulds-are-not-a-duty
-
-https://basecamp.com/shapeup/2.1-chapter-07
-
-https://www.lesswrong.com/posts/dkchEFnM9EYpW3bjK/why-and-how-to-graduate-early-u-s
-
-https://fs.blog/the-buffett-formula
-
-https://www.lesswrong.com/s/gFvira6tHpLXnqCLH/p/2MD3NMLBPCqPfnfre
-
-https://www.cold-takes.com/the-duplicator
-
-book: Four Thousand Weeks
-
-book: Programmer Brain
-
-https://www.lesswrong.com/s/M3TJ2fTCzoQq66NBJ/p/hwi8JQjspnMWyWs4g
-
-https://matt-rickard.com/reflections-on-10-000-hours-of-programming
-
-https://spacecraft.ssl.umd.edu/akins_laws.html
-
-https://www.artofmanliness.com/living/leisure/in-8-hours-you-could-be-in
-
-https://thezbook.com/code-first-vs-product-first
+https://finbarr.ca/five-years-of-gpt-progress , give me some details about the history of GPT
