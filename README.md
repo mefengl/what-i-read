@@ -1265,3 +1265,7 @@ https://finbarr.ca/five-years-of-gpt-progress , give me some details about the h
 https://jakobgreenfeld.com/stay-in-touch , It is interesting to see the strange way in which internet marketing professionals work.
 
 https://jakobgreenfeld.com/build_an_audience , Having a large number of followers is not a meaningful goal unless you are selling ads.
+
+18
+
+https://matt-rickard.com/the-age-old-resistance-to-generated-code , Great minds think alike.
