@@ -1285,3 +1285,5 @@ https://meltingasphalt.com/interactive/going-critical , Higher density is needed
 https://moretothat.com/money , Great article about what money means.
 
 https://vadimkravcenko.com/shorts/proper-documentation , Documentation is not as important as creating, but if you spend more time helping others solve problems and syncing project status in meetings, why not document? It's more meaningful than those two.
+
+https://unchartedterritories.tomaspueyo.com/p/geography-is-the-chessboard-of-history , That's how little advantages accumulate, and how the environment makes something possible.
