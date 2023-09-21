@@ -1283,3 +1283,5 @@ https://gwern.net/socks , About the seemingly insignificant things like "socks,"
 https://meltingasphalt.com/interactive/going-critical , Higher density is needed to support the existence of certain cultures that are difficult to survive.
 
 https://moretothat.com/money , Great article about what money means.
+
+https://vadimkravcenko.com/shorts/proper-documentation , Documentation is not as important as creating, but if you spend more time helping others solve problems and syncing project status in meetings, why not document? It's more meaningful than those two.
