@@ -1279,3 +1279,5 @@ https://dave.cheney.net/2015/11/05/lets-talk-about-logging , great article, now 
 https://sb.longnow.org/SB_homepage/WholeEarth_buton.html , cool
 
 https://gwern.net/socks , About the seemingly insignificant things like "socks," it's remarkable how they can have such a significant impact on our lives.
+
+https://meltingasphalt.com/interactive/going-critical , Higher density is needed to support the existence of certain cultures that are difficult to survive.
