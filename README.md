@@ -1269,3 +1269,7 @@ https://jakobgreenfeld.com/build_an_audience , Having a large number of follower
 18
 
 https://matt-rickard.com/the-age-old-resistance-to-generated-code , Great minds think alike.
+
+21
+
+https://dave.cheney.net/2015/11/05/lets-talk-about-logging , great article, now I know how to log: "Things that developers care about when they are developing or debugging software. Things that users care about when using your software.", aka debug and info.
