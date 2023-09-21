@@ -1275,3 +1275,5 @@ https://matt-rickard.com/the-age-old-resistance-to-generated-code , Great minds 
 https://dave.cheney.net/2015/11/05/lets-talk-about-logging , great article, now I know how to log: "Things that developers care about when they are developing or debugging software. Things that users care about when using your software.", aka debug and info.
 
 https://sb.longnow.org/SB_homepage/WholeEarth_buton.html , cool
+
+https://gwern.net/socks , About the seemingly insignificant things like "socks," it's remarkable how they can have such a significant impact on our lives.
