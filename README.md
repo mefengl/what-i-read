@@ -1291,3 +1291,7 @@ https://unchartedterritories.tomaspueyo.com/p/geography-is-the-chessboard-of-his
 22
 
 https://fs.blog/reversible-irreversible-decisions , Don't rush irreversible decisions, but 70% information suffices. Act promptly for reversible ones.
+
+23
+
+https://guzey.com/insight , It's a game that presents a humorous perspective in a straightforward manner.
