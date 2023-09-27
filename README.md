@@ -44,6 +44,8 @@ https://visakanv.com/1000/0152-letter-to-a-young-songwriter
 
 ### monthly
 
+https://github.com/merlinmann/wisdom/blob/master/wisdom.md
+
 https://mindingourway.com/desperation
 
 https://alexkondov.com/lodash-architecture-review
@@ -1295,3 +1297,7 @@ https://fs.blog/reversible-irreversible-decisions , Don't rush irreversible deci
 23
 
 https://guzey.com/insight , It's a game that presents a humorous perspective in a straightforward manner.
+
+27
+
+https://github.com/merlinmann/wisdom/blob/master/wisdom.md , worth reading
