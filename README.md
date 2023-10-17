@@ -4,12 +4,6 @@ I really got so many great ideas from web articles, some of them changed the tra
 
 I will provide links to videos that I believe are great because I have read their transcripts. If a brilliant mind does not write, it is essential to watch their video or listen to their podcast.
 
-## info
-
-speed: 10-50k words/day
-
-reading process: `articles | filter | read | record`
-
 ## hard code
 
 Best way is to memorize them.
@@ -81,6 +75,10 @@ https://www.artofmanliness.com/living/leisure/in-8-hours-you-could-be-in
 https://thezbook.com/code-first-vs-product-first
 
 https://gwern.net/socks , About the seemingly insignificant things like "socks," it's remarkable how they can have such a significant impact on our lives.
+
+### yearly
+
+all
 
 ## 2023-01
 
