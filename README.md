@@ -1305,3 +1305,7 @@ https://github.com/merlinmann/wisdom/blob/master/wisdom.md , worth reading
 05
 
 http://www.fairpoint.net/~jpierce/staring_into_the_singularity.htm , The entirety of human knowledge will be understood, just as we perceive the color red from giant pixels. This idea is amazing.
+
+19
+
+https://a16z.com/the-techno-optimist-manifesto , This demonstrates the common thoughts of an optimist.
