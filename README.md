@@ -1309,3 +1309,7 @@ http://www.fairpoint.net/~jpierce/staring_into_the_singularity.htm , The entiret
 19
 
 https://a16z.com/the-techno-optimist-manifesto , This demonstrates the common thoughts of an optimist.
+
+21
+
+https://scp-wiki.wikidot.com/antimemetics-division-hub , So fantastic is the meme of "antimeme."
