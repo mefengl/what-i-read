@@ -1313,3 +1313,7 @@ https://a16z.com/the-techno-optimist-manifesto , This demonstrates the common th
 21
 
 https://scp-wiki.wikidot.com/antimemetics-division-hub , So fantastic is the meme of "antimeme."
+
+30
+
+https://collabfund.com/blog/rare-skills , "I could have more and do more, but this is good enough."
