@@ -36,6 +36,8 @@ https://blog.samaltman.com/how-to-be-successful
 
 https://visakanv.com/1000/0152-letter-to-a-young-songwriter
 
+https://collabfund.com/blog/rare-skills
+
 ### monthly
 
 https://github.com/merlinmann/wisdom/blob/master/wisdom.md
