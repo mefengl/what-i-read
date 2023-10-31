@@ -38,6 +38,8 @@ https://visakanv.com/1000/0152-letter-to-a-young-songwriter
 
 https://collabfund.com/blog/rare-skills
 
+https://uxdesign.cc/transition-animations-a-practical-guide-5dba4d42f659
+
 ### monthly
 
 https://github.com/merlinmann/wisdom/blob/master/wisdom.md
@@ -1319,3 +1321,7 @@ https://scp-wiki.wikidot.com/antimemetics-division-hub , So fantastic is the mem
 30
 
 https://collabfund.com/blog/rare-skills , "I could have more and do more, but this is good enough."
+
+31
+
+https://uxdesign.cc/transition-animations-a-practical-guide-5dba4d42f659 , Amazing transition animation tutorial.
