@@ -1327,3 +1327,5 @@ https://collabfund.com/blog/rare-skills , "I could have more and do more, but th
 https://uxdesign.cc/transition-animations-a-practical-guide-5dba4d42f659 , Amazing transition animation tutorial.
 
 https://adplist.substack.com/p/how-tinder-designs-product-and-why , A fantastic example that demonstrates how to set pricing.
+
+https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo , Very inspiring.
