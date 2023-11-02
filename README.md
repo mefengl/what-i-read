@@ -1329,3 +1329,9 @@ https://uxdesign.cc/transition-animations-a-practical-guide-5dba4d42f659 , Amazi
 https://adplist.substack.com/p/how-tinder-designs-product-and-why , A fantastic example that demonstrates how to set pricing.
 
 https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo , Very inspiring.
+
+## 2023-11
+
+02
+
+https://danmall.com/posts/how-much-of-a-rascal-are-you , The right way to promote.
