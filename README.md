@@ -1335,3 +1335,7 @@ https://news.tonydinh.com/p/my-solopreneur-story-zero-to-45kmo , Very inspiring.
 02
 
 https://danmall.com/posts/how-much-of-a-rascal-are-you , The right way to promote.
+
+06
+
+https://danmall.com/posts/commit-to-commit , "I’m not sure right now, but I can tell you in an hour."
