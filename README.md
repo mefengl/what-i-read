@@ -6,6 +6,8 @@ I will provide links to videos that I believe are great because I have read thei
 
 Best way is to memorize them.
 
+## Review
+
 ### weekly
 
 https://www.vogue.com/article/joan-didion-self-respect-essay-1961
@@ -81,6 +83,8 @@ https://gwern.net/socks , About the seemingly insignificant things like "socks,"
 ### yearly
 
 all
+
+## Check
 
 ## 2023-01
 
