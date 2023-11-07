@@ -1341,3 +1341,7 @@ https://danmall.com/posts/how-much-of-a-rascal-are-you , The right way to promot
 06
 
 https://danmall.com/posts/commit-to-commit , "I’m not sure right now, but I can tell you in an hour."
+
+07
+
+https://waitbutwhy.com/2014/12/10-types-odd-friendships-youre-probably-part.html , I knew this would be great before I even read it.
