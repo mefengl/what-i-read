@@ -1345,3 +1345,7 @@ https://danmall.com/posts/commit-to-commit , "I’m not sure right now, but I ca
 07
 
 https://waitbutwhy.com/2014/12/10-types-odd-friendships-youre-probably-part.html , I knew this would be great before I even read it.
+
+09
+
+https://githubnext.com/projects/copilot-workspace , GitHub issues are also a good context clue. Basically, a good context is almost equivalent to a good artificial intelligence application.
