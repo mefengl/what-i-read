@@ -1353,3 +1353,5 @@ https://githubnext.com/projects/copilot-workspace , GitHub issues are also a goo
 https://simonwillison.net/2023/Sep/30/cli-tools-python , Interesting to see CLI development experience.
 
 https://fs.blog/turning-2-million-into-2-trillion , What does a great plan look like?
+
+https://world.hey.com/jason/keeping-easy-from-becoming-hard-e6af27d0 , Don't make easy things hard.
