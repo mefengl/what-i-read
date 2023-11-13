@@ -1357,3 +1357,5 @@ https://fs.blog/turning-2-million-into-2-trillion , What does a great plan look 
 https://world.hey.com/jason/keeping-easy-from-becoming-hard-e6af27d0 , Don't make easy things hard.
 
 https://blog.yitianshijie.net/2023/11/07/passion-is-not-hormone , "Passion is not hormone"
+
+https://josem.co/the-beauty-of-finished-software , like 'ls', like 'cd'
