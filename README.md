@@ -1367,3 +1367,5 @@ https://www.newyorker.com/magazine/2023/11/20/a-coder-considers-the-waning-days-
 14
 
 https://jxnl.github.io/instructor/blog/2023/11/05/chain-of-density , interesting technique
+
+https://docs.google.com/document/u/0/d/1q0VulPvi1awazH4EAsScXw3kqWHM-GAbBGY6IQzSV70 , "We take lessons in running datacenters from crypto miners, not traditional cloud providers."
