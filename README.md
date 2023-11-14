@@ -1363,3 +1363,7 @@ https://blog.yitianshijie.net/2023/11/07/passion-is-not-hormone , "Passion is no
 https://josem.co/the-beauty-of-finished-software , like 'ls', like 'cd'
 
 https://www.newyorker.com/magazine/2023/11/20/a-coder-considers-the-waning-days-of-the-craft , an answer to my recent question
+
+14
+
+https://jxnl.github.io/instructor/blog/2023/11/05/chain-of-density , interesting technique
