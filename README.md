@@ -22,8 +22,6 @@ https://mindingourway.com/self-signaling-the-ability-to-do-what-you-want
 
 https://mindingourway.com/recklessness
 
-https://mindingourway.com/the-art-of-response
-
 https://mindingourway.com/half-assing-it-with-everything-youve-got
 
 https://www.lesswrong.com/s/5bZZZJ5psXrrD5BGb/p/qRWfvgJG75ESLRNu9
