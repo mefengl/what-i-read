@@ -1369,3 +1369,5 @@ https://jxnl.github.io/instructor/blog/2023/11/05/chain-of-density , interesting
 https://docs.google.com/document/u/0/d/1q0VulPvi1awazH4EAsScXw3kqWHM-GAbBGY6IQzSV70 , "We take lessons in running datacenters from crypto miners, not traditional cloud providers."
 
 https://web.archive.org/web/20170615060422/https://www.apple.com/hotnews/thoughts-on-flash , Steve also care about software, of course
+
+http://paulgraham.com/ds.html , At first, only the creator desires others to use the product.
