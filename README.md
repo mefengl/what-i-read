@@ -1371,3 +1371,7 @@ https://docs.google.com/document/u/0/d/1q0VulPvi1awazH4EAsScXw3kqWHM-GAbBGY6IQzS
 https://web.archive.org/web/20170615060422/https://www.apple.com/hotnews/thoughts-on-flash , Steve also care about software, of course
 
 http://paulgraham.com/ds.html , At first, only the creator desires others to use the product.
+
+15
+
+http://hawstein.com/2023/07/12/five-years-of-an-indie-hacker , indie experience
