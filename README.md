@@ -1375,3 +1375,7 @@ http://paulgraham.com/ds.html , At first, only the creator desires others to use
 15
 
 http://hawstein.com/2023/07/12/five-years-of-an-indie-hacker , indie experience
+
+16
+
+https://blog.logrocket.com/vue-3-react-developers-side-by-side-comparison-demos , The Vue vs React article compared with code.
