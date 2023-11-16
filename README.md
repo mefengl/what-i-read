@@ -1379,3 +1379,5 @@ http://hawstein.com/2023/07/12/five-years-of-an-indie-hacker , indie experience
 16
 
 https://blog.logrocket.com/vue-3-react-developers-side-by-side-comparison-demos , The Vue vs React article compared with code.
+
+https://githubnext.com/projects/copilot-next-edit-suggestions , change somewhere, and ai to change elsewhere. really learned a lot from GitHub Next's ideas, even though they may have gotten those ideas from the community
