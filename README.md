@@ -10,6 +10,8 @@ Best way is to memorize them.
 
 ### weekly
 
+https://guzey.com/talent
+
 https://www.vogue.com/article/joan-didion-self-respect-essay-1961
 
 https://blog.nateliason.com/p/proof-you-can-do-hard-things
@@ -1381,3 +1383,7 @@ http://hawstein.com/2023/07/12/five-years-of-an-indie-hacker , indie experience
 https://blog.logrocket.com/vue-3-react-developers-side-by-side-comparison-demos , The Vue vs React article compared with code.
 
 https://githubnext.com/projects/copilot-next-edit-suggestions , change somewhere, and ai to change elsewhere. really learned a lot from GitHub Next's ideas, even though they may have gotten those ideas from the community
+
+20
+
+https://guzey.com/talent , interesting points
