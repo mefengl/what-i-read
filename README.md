@@ -26,8 +26,6 @@ https://mindingourway.com/recklessness
 
 https://mindingourway.com/half-assing-it-with-everything-youve-got
 
-https://www.lesswrong.com/s/5bZZZJ5psXrrD5BGb/p/qRWfvgJG75ESLRNu9
-
 https://fs.blog/brain-food/july-30-2023
 
 https://collabfund.com/blog/how-to-read-lots-of-inputs-and-a-strong-filter
@@ -1384,6 +1382,6 @@ https://blog.logrocket.com/vue-3-react-developers-side-by-side-comparison-demos 
 
 https://githubnext.com/projects/copilot-next-edit-suggestions , change somewhere, and ai to change elsewhere. really learned a lot from GitHub Next's ideas, even though they may have gotten those ideas from the community
 
-20
+19
 
 https://guzey.com/talent , interesting points
