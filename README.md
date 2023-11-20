@@ -1385,3 +1385,7 @@ https://githubnext.com/projects/copilot-next-edit-suggestions , change somewhere
 19
 
 https://guzey.com/talent , interesting points
+
+20
+
+https://mp.weixin.qq.com/s/JMain60TWLw97JFGzOykuA , A really cool story, but it's not a process that can be repeated.
