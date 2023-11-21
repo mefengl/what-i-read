@@ -1395,3 +1395,5 @@ https://medium.com/airbnb-engineering/unlocking-swiftui-at-airbnb-ea58f50cde49 ,
 21
 
 https://waitbutwhy.com/2013/08/the-bunny-manifesto.html , There are so many different ways to live, think, and do things
+
+https://matt-rickard.com/anticipate-the-cheap , Knowing that GitHub Copilot costs $20 but is on sale for $10...
