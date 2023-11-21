@@ -10,6 +10,8 @@ Best way is to memorize them.
 
 ### weekly
 
+https://www.sahilbloom.com/newsletter/10-ways-to-stand-out-from-the-crowd
+
 https://guzey.com/talent
 
 https://www.vogue.com/article/joan-didion-self-respect-essay-1961
@@ -1397,3 +1399,7 @@ https://medium.com/airbnb-engineering/unlocking-swiftui-at-airbnb-ea58f50cde49 ,
 https://waitbutwhy.com/2013/08/the-bunny-manifesto.html , There are so many different ways to live, think, and do things
 
 https://matt-rickard.com/anticipate-the-cheap , Knowing that GitHub Copilot costs $20 but is on sale for $10...
+
+https://www.sahilbloom.com/newsletter/10-ways-to-stand-out-from-the-crowd , anyway
+
+https://janvikalra.substack.com/p/going-from-zero-to-600-users , Fresh real-world experience
