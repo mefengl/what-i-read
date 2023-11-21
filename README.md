@@ -1391,3 +1391,7 @@ https://guzey.com/talent , interesting points
 https://mp.weixin.qq.com/s/JMain60TWLw97JFGzOykuA , A really cool story, but it's not a process that can be repeated.
 
 https://medium.com/airbnb-engineering/unlocking-swiftui-at-airbnb-ea58f50cde49 , Where are Fluent and React Native? It's a sign that they are not good enough.
+
+21
+
+https://waitbutwhy.com/2013/08/the-bunny-manifesto.html , There are so many different ways to live, think, and do things
