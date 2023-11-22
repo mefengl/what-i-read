@@ -10,6 +10,8 @@ Best way is to memorize them.
 
 ### weekly
 
+https://slrncl.com/notes
+
 https://www.sahilbloom.com/newsletter/10-ways-to-stand-out-from-the-crowd
 
 https://guzey.com/talent
@@ -1403,3 +1405,7 @@ https://matt-rickard.com/anticipate-the-cheap , Knowing that GitHub Copilot cost
 https://www.sahilbloom.com/newsletter/10-ways-to-stand-out-from-the-crowd , anyway
 
 https://janvikalra.substack.com/p/going-from-zero-to-600-users , Fresh real-world experience
+
+22
+
+https://slrncl.com/notes , good taste
