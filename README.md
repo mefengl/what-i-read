@@ -10,6 +10,8 @@ Best way is to memorize them.
 
 ### weekly
 
+https://blog.gregbrockman.com/how-i-became-a-machine-learning-practitioner
+
 https://slrncl.com/notes
 
 https://www.sahilbloom.com/newsletter/10-ways-to-stand-out-from-the-crowd
