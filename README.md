@@ -1415,3 +1415,5 @@ https://slrncl.com/notes , good taste
 23
 
 https://blog.gregbrockman.com/how-i-became-a-machine-learning-practitioner , I am really glad to see such an honest article about his journey of learning AI
+
+https://www.notboring.co/p/openai-and-grand-strategy , "Grand Strategy" is a good concept
