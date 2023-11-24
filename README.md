@@ -1419,3 +1419,7 @@ https://blog.gregbrockman.com/how-i-became-a-machine-learning-practitioner , I a
 https://www.notboring.co/p/openai-and-grand-strategy , "Grand Strategy" is a good concept
 
 http://www.incompleteideas.net/IncIdeas/BitterLesson.html , The scale is what really scales.
+
+24
+
+https://ln.hixie.ch/?start=1700627373 , "Most of my work was done on a laptop from random buildings on Google's campus; entire years went by where I didn't use my assigned desk."
