@@ -1423,3 +1423,7 @@ http://www.incompleteideas.net/IncIdeas/BitterLesson.html , The scale is what re
 24
 
 https://ln.hixie.ch/?start=1700627373 , "Most of my work was done on a laptop from random buildings on Google's campus; entire years went by where I didn't use my assigned desk."
+
+28
+
+https://seths.blog/2023/11/working-with-problems , Great article on problem solving
