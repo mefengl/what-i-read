@@ -1427,3 +1427,5 @@ https://ln.hixie.ch/?start=1700627373 , "Most of my work was done on a laptop fr
 28
 
 https://seths.blog/2023/11/working-with-problems , Great article on problem solving
+
+https://ratrey.substack.com/p/psychology-of-learning-learn-like , Comparing learning to traveling to a new city is a particularly good example
