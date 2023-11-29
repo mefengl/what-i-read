@@ -1429,3 +1429,7 @@ https://ln.hixie.ch/?start=1700627373 , "Most of my work was done on a laptop fr
 https://seths.blog/2023/11/working-with-problems , Great article on problem solving
 
 https://ratrey.substack.com/p/psychology-of-learning-learn-like , Comparing learning to traveling to a new city is a particularly good example
+
+29
+
+https://www.forbes.com/sites/kenrickcai/2023/11/27/pika-ai-video-generator-editor-series-a , Speed matters, no matter how you achieve it
