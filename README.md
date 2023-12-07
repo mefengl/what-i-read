@@ -1433,3 +1433,5 @@ https://ratrey.substack.com/p/psychology-of-learning-learn-like , Comparing lear
 29
 
 https://www.forbes.com/sites/kenrickcai/2023/11/27/pika-ai-video-generator-editor-series-a , Speed matters, no matter how you achieve it
+
+https://blog.yitianshijie.net/2022/12/26/mother-goose , "Something that people in a language culture will read, whether they like it or not, is the most important thing in culture."
