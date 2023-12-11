@@ -1435,3 +1435,7 @@ https://ratrey.substack.com/p/psychology-of-learning-learn-like , Comparing lear
 https://www.forbes.com/sites/kenrickcai/2023/11/27/pika-ai-video-generator-editor-series-a , Speed matters, no matter how you achieve it
 
 https://blog.yitianshijie.net/2022/12/26/mother-goose , "Something that people in a language culture will read, whether they like it or not, is the most important thing in culture."
+
+## 2023-12
+
+http://worrydream.com/refs/Kay%20-%20The%20Center%20of%20Why.pdf , "I had already read many books by the time I was old enough to go to school. But I was surprised to find that in school there was just One Book about each subject"
