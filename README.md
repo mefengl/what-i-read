@@ -1445,3 +1445,5 @@ http://worrydream.com/refs/Kay%20-%20The%20Center%20of%20Why.pdf , "I had alread
 13
 
 https://www.rollingstone.com/culture/culture-features/elon-musk-the-architect-of-tomorrow-120850 , Good to read, despite knowing many details.
+
+https://en.wikipedia.org/wiki/Kardashev_scale , Thinking about big questions is good for human health.
