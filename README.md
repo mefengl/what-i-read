@@ -1438,4 +1438,10 @@ https://blog.yitianshijie.net/2022/12/26/mother-goose , "Something that people i
 
 ## 2023-12
 
+11
+
 http://worrydream.com/refs/Kay%20-%20The%20Center%20of%20Why.pdf , "I had already read many books by the time I was old enough to go to school. But I was surprised to find that in school there was just One Book about each subject"
+
+13
+
+https://www.rollingstone.com/culture/culture-features/elon-musk-the-architect-of-tomorrow-120850 , Good to read, despite knowing many details.
