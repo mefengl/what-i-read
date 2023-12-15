@@ -1447,3 +1447,9 @@ http://worrydream.com/refs/Kay%20-%20The%20Center%20of%20Why.pdf , "I had alread
 https://www.rollingstone.com/culture/culture-features/elon-musk-the-architect-of-tomorrow-120850 , Good to read, despite knowing many details.
 
 https://en.wikipedia.org/wiki/Kardashev_scale , Thinking about big questions is good for human health.
+
+15
+
+https://jakelazaroff.com/words/web-components-will-outlive-your-javascript-framework , for the things that need last long
+
+https://jakelazaroff.com/words/frameworks-cover-up-skill-issues-and-thats-a-good-thing , for the things that need speed
