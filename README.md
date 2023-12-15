@@ -1453,3 +1453,5 @@ https://en.wikipedia.org/wiki/Kardashev_scale , Thinking about big questions is 
 https://jakelazaroff.com/words/web-components-will-outlive-your-javascript-framework , for the things that need last long
 
 https://jakelazaroff.com/words/frameworks-cover-up-skill-issues-and-thats-a-good-thing , for the things that need speed
+
+https://marcotm.com/articles/information-extraction-with-large-language-models-parsing-unstructured-data-with-gpt , an amusing exploration similar to one I recently undertook
