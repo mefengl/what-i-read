@@ -1457,3 +1457,7 @@ https://jakelazaroff.com/words/frameworks-cover-up-skill-issues-and-thats-a-good
 https://marcotm.com/articles/information-extraction-with-large-language-models-parsing-unstructured-data-with-gpt , an amusing exploration similar to one I recently undertook
 
 https://world.hey.com/dhh/commit-to-competence-in-this-coming-year-feb7d7c5 , Remember the maintainer of WXT (a web extension framework), who always writes detailed issues and pull requests. Good habits benefit every remaining second of our lives, while bad habits harm every remaining second.
+
+25
+
+https://blog.jim-nielsen.com/2023/examples-of-great-urls , inspiring url examples
