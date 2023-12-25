@@ -1461,3 +1461,5 @@ https://world.hey.com/dhh/commit-to-competence-in-this-coming-year-feb7d7c5 , Re
 25
 
 https://blog.jim-nielsen.com/2023/examples-of-great-urls , inspiring url examples
+
+https://manupa.dev/blog/anatomy-of-shadcn-ui , It's a really cool idea to build a UI library like this.
