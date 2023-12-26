@@ -10,6 +10,8 @@ Best way is to memorize them.
 
 ### weekly
 
+https://world.hey.com/dhh/commit-to-competence-in-this-coming-year-feb7d7c5
+
 https://blog.gregbrockman.com/how-i-became-a-machine-learning-practitioner
 
 https://slrncl.com/notes
@@ -26,23 +28,13 @@ https://jsomers.net/blog/speed-matters
 
 https://mitchellh.com/writing/the-new-normal
 
-https://mindingourway.com/self-signaling-the-ability-to-do-what-you-want
-
-https://mindingourway.com/recklessness
-
-https://mindingourway.com/half-assing-it-with-everything-youve-got
-
 https://fs.blog/brain-food/july-30-2023
-
-https://collabfund.com/blog/how-to-read-lots-of-inputs-and-a-strong-filter
 
 https://blog.samaltman.com/how-to-be-successful
 
 https://visakanv.com/1000/0152-letter-to-a-young-songwriter
 
 https://collabfund.com/blog/rare-skills
-
-https://uxdesign.cc/transition-animations-a-practical-guide-5dba4d42f659
 
 ### monthly
 
