@@ -1455,3 +1455,7 @@ https://world.hey.com/dhh/commit-to-competence-in-this-coming-year-feb7d7c5 , Re
 https://blog.jim-nielsen.com/2023/examples-of-great-urls , inspiring url examples
 
 https://manupa.dev/blog/anatomy-of-shadcn-ui , It's a really cool idea to build a UI library like this.
+
+28
+
+https://rebornix.com/vscode/2019/08/11/web-keyboard-support , very useful articles about shortcut design
