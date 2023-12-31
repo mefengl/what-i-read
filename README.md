@@ -1459,3 +1459,7 @@ https://manupa.dev/blog/anatomy-of-shadcn-ui , It's a really cool idea to build 
 28
 
 https://rebornix.com/vscode/2019/08/11/web-keyboard-support , very useful articles about shortcut design
+
+31
+
+https://acreom.com/blog/the-quest-for-a-great-search , Useful article that met my needs.
