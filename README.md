@@ -1465,3 +1465,7 @@ https://rebornix.com/vscode/2019/08/11/web-keyboard-support , very useful articl
 https://acreom.com/blog/the-quest-for-a-great-search , Useful article that met my needs.
 
 https://lucaongaro.eu/blog/2019/01/30/minisearch-client-side-fulltext-search-engine.html , A highly detailed and useful article from its creator.
+
+## 2024-01
+
+https://www.raycast.com/blog/how-raycast-api-extensions-work , I'm inspired and considering a similar question.
