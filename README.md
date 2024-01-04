@@ -1468,4 +1468,10 @@ https://lucaongaro.eu/blog/2019/01/30/minisearch-client-side-fulltext-search-eng
 
 ## 2024-01
 
+03
+
 https://www.raycast.com/blog/how-raycast-api-extensions-work , I'm inspired and considering a similar question.
+
+04
+
+https://aoxiang.me/06/08/2023/control-product , also an amazing example of "get your hands dirty"
