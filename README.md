@@ -1475,3 +1475,7 @@ https://www.raycast.com/blog/how-raycast-api-extensions-work , I'm inspired and 
 04
 
 https://aoxiang.me/06/08/2023/control-product , also an amazing example of "get your hands dirty"
+
+05
+
+https://beej.us/blog/data/noises-in-the-distance , "when you rely on the work of others, you're not leveling up yourself. And then you will be killed"
