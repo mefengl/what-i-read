@@ -1485,3 +1485,5 @@ https://caseyhandmer.wordpress.com/2024/01/02/elon-musk-is-not-understood , it's
 07
 
 https://overreacted.io/a-chain-reaction , build jsx from zero
+
+https://overreacted.io/the-two-reacts , f(data) vs f(state), or f(data, state)?
