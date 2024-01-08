@@ -10,6 +10,10 @@ Best way is to memorize them.
 
 ### weekly
 
+https://beej.us/blog/data/noises-in-the-distance
+
+https://mitchellh.com/writing/building-large-technical-projects
+
 https://world.hey.com/dhh/commit-to-competence-in-this-coming-year-feb7d7c5
 
 https://blog.gregbrockman.com/how-i-became-a-machine-learning-practitioner
