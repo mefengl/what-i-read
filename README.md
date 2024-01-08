@@ -1487,3 +1487,7 @@ https://caseyhandmer.wordpress.com/2024/01/02/elon-musk-is-not-understood , it's
 https://overreacted.io/a-chain-reaction , build jsx from zero
 
 https://overreacted.io/the-two-reacts , f(data) vs f(state), or f(data, state)?
+
+08
+
+https://mitchellh.com/writing/building-large-technical-projects , speed matters, real-time preview matters, small demo matters
