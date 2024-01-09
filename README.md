@@ -1497,3 +1497,5 @@ https://overreacted.io/the-two-reacts , f(data) vs f(state), or f(data, state)?
 https://mitchellh.com/writing/building-large-technical-projects , speed matters, real-time preview matters, small demo matters
 
 https://world.hey.com/dhh/happiness-is-never-having-to-ask-for-permission-20962d41 , PWA can/will be great
+
+https://antfu.me/posts/why-reproductions-are-required , Informative article that offers new perspectives on handling PRs and issues.
