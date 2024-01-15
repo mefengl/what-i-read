@@ -1499,3 +1499,7 @@ https://mitchellh.com/writing/building-large-technical-projects , speed matters,
 https://world.hey.com/dhh/happiness-is-never-having-to-ask-for-permission-20962d41 , PWA can/will be great
 
 https://antfu.me/posts/why-reproductions-are-required , Informative article that offers new perspectives on handling PRs and issues.
+
+15
+
+http://antirez.com/news/140 , An insightful article sharing a programmer's experiences with LLMs.
