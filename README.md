@@ -1503,3 +1503,5 @@ https://antfu.me/posts/why-reproductions-are-required , Informative article that
 15
 
 http://antirez.com/news/140 , An insightful article sharing a programmer's experiences with LLMs.
+
+https://mp.weixin.qq.com/s/UVrpTbZjGRdQ5JQNqptKpw , the though about "feed" from WeDesign.
