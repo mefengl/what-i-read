@@ -1505,3 +1505,7 @@ https://antfu.me/posts/why-reproductions-are-required , Informative article that
 http://antirez.com/news/140 , An insightful article sharing a programmer's experiences with LLMs.
 
 https://mp.weixin.qq.com/s/UVrpTbZjGRdQ5JQNqptKpw , the though about "feed" from WeDesign.
+
+19
+
+https://sive.rs/led , "Thinking that people are stupid is not thinking. Understanding them is."
