@@ -10,6 +10,8 @@ Best way is to memorize them.
 
 ### weekly
 
+https://sive.rs/led
+
 https://beej.us/blog/data/noises-in-the-distance
 
 https://mitchellh.com/writing/building-large-technical-projects
