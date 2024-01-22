@@ -1511,3 +1511,7 @@ https://mp.weixin.qq.com/s/UVrpTbZjGRdQ5JQNqptKpw , the though about "feed" from
 19
 
 https://sive.rs/led , "Thinking that people are stupid is not thinking. Understanding them is."
+
+22
+
+https://dev.to/what1s1ove/typescript-might-not-be-your-god-case-study-of-migration-from-ts-to-jsdoc-o99 , great article about the benefits of jsdoc
