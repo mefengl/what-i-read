@@ -1515,3 +1515,5 @@ https://sive.rs/led , "Thinking that people are stupid is not thinking. Understa
 22
 
 https://dev.to/what1s1ove/typescript-might-not-be-your-god-case-study-of-migration-from-ts-to-jsdoc-o99 , great article about the benefits of jsdoc
+
+https://kentcdodds.com/blog/colocation , "Place code as close to where it's relevant as possible"
