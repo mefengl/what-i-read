@@ -10,6 +10,8 @@ Best way is to memorize them.
 
 ### weekly
 
+https://kentcdodds.com/blog/colocation
+
 https://sive.rs/led
 
 https://beej.us/blog/data/noises-in-the-distance
