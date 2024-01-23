@@ -1523,3 +1523,5 @@ https://kentcdodds.com/blog/colocation , "Place code as close to where it's rele
 https://tkdodo.eu/blog/the-query-options-api , Pass object to use everywhere
 
 https://tkdodo.eu/blog/effective-react-query-keys#use-query-key-factories , query key factories is so cool
+
+https://world.hey.com/dhh/the-benefit-of-seniority-ought-to-be-bandwidth-ff8ee736 , Effective engineers dislike excessive guidance. They don't need it and will ask if they do.
