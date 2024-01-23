@@ -1531,3 +1531,5 @@ https://bartwronski.com/2024/01/22/how-i-use-chatgpt-daily-scientist-coder-persp
 https://www.twosigma.com/articles/a-guide-to-large-language-model-abstractions , intriguing concept of layers in LLM
 
 https://blog.alexewerlof.com/p/tech-debt-day , interesting story
+
+https://ahrefs.com/blog/premium-ai-prompts , I can write premium prompts from this article.
