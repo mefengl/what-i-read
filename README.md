@@ -1539,3 +1539,5 @@ https://ahrefs.com/blog/premium-ai-prompts , I can write premium prompts from th
 24
 
 https://world.hey.com/dhh/there-are-no-secrets-left-c8c95de0 , ideas are worthless, adding good things costs nothing, similar idea
+
+https://waitbutwhy.com/2016/03/cryonics.html , This is the first solution I've seen that might actually solve death in some way, and surprisingly it was written in 2016
