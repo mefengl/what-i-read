@@ -1526,6 +1526,8 @@ https://tkdodo.eu/blog/effective-react-query-keys#use-query-key-factories , quer
 
 https://world.hey.com/dhh/the-benefit-of-seniority-ought-to-be-bandwidth-ff8ee736 , Effective engineers dislike excessive guidance. They don't need it and will ask if they do.
 
+23
+
 https://bartwronski.com/2024/01/22/how-i-use-chatgpt-daily-scientist-coder-perspective , Just for fun, my friend
 
 https://www.twosigma.com/articles/a-guide-to-large-language-model-abstractions , intriguing concept of layers in LLM
@@ -1533,3 +1535,7 @@ https://www.twosigma.com/articles/a-guide-to-large-language-model-abstractions ,
 https://blog.alexewerlof.com/p/tech-debt-day , interesting story
 
 https://ahrefs.com/blog/premium-ai-prompts , I can write premium prompts from this article.
+
+24
+
+https://world.hey.com/dhh/there-are-no-secrets-left-c8c95de0 , ideas are worthless, adding good things costs nothing, similar idea
