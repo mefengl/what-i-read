@@ -82,7 +82,7 @@ https://www.artofmanliness.com/living/leisure/in-8-hours-you-could-be-in
 
 https://thezbook.com/code-first-vs-product-first
 
-https://gwern.net/socks , About the seemingly insignificant things like "socks," it's remarkable how they can have such a significant impact on our lives.
+https://gwern.net/socks
 
 ### yearly
 
