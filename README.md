@@ -1551,3 +1551,5 @@ https://sahillavingia.com/work , happy to know that a company like this can exis
 05
 
 https://www.npr.org/2024/01/09/1196978496/debunking-popular-myths-about-sleep , some nice clarification about sleep
+
+https://world.hey.com/dhh/dare-to-connect-a-server-to-the-internet-01d25a07 , encourage me to move further
