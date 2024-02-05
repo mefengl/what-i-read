@@ -1547,3 +1547,7 @@ https://waitbutwhy.com/2016/03/cryonics.html , This is the first solution I've s
 04
 
 https://sahillavingia.com/work , happy to know that a company like this can exist
+
+05
+
+https://www.npr.org/2024/01/09/1196978496/debunking-popular-myths-about-sleep , some nice clarification about sleep
