@@ -1555,3 +1555,5 @@ https://www.npr.org/2024/01/09/1196978496/debunking-popular-myths-about-sleep , 
 https://world.hey.com/dhh/dare-to-connect-a-server-to-the-internet-01d25a07 , encourage me to move further
 
 https://lifehacker.com/health/master-small-talk-ford-method , small talk tricks don't guarantee good conversations, but they help start conversations
+
+https://guzey.com/napoleon , now we learn lessons from Napoleon
