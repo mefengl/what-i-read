@@ -1557,3 +1557,7 @@ https://world.hey.com/dhh/dare-to-connect-a-server-to-the-internet-01d25a07 , en
 https://lifehacker.com/health/master-small-talk-ford-method , small talk tricks don't guarantee good conversations, but they help start conversations
 
 https://guzey.com/napoleon , now we learn lessons from Napoleon
+
+06
+
+https://onfold.sh/blog/is-it-time-to-ditch-mysql-and-postgresql-for-sqlite , another successful recommendation of sqlite for me
