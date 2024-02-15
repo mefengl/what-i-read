@@ -1561,3 +1561,7 @@ https://guzey.com/napoleon , now we learn lessons from Napoleon
 06
 
 https://onfold.sh/blog/is-it-time-to-ditch-mysql-and-postgresql-for-sqlite , another successful recommendation of sqlite for me
+
+16
+
+https://jvns.ca/blog/2024/02/01/dealing-with-diverged-git-branches , Now I know why I am getting these errors when doing git pull
