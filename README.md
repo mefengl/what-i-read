@@ -1565,3 +1565,5 @@ https://onfold.sh/blog/is-it-time-to-ditch-mysql-and-postgresql-for-sqlite , ano
 16
 
 https://jvns.ca/blog/2024/02/01/dealing-with-diverged-git-branches , Now I know why I am getting these errors when doing git pull
+
+https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/webRequest , webRequest is an interesting API
