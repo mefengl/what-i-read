@@ -1573,3 +1573,7 @@ https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/webRe
 20
 
 https://seths.blog/2024/02/make-or-buy , It's not about whether I can or cannot, it's about whether I should care. What difference will it make if I allow myself to do so? Are there fully other suppliers that I can select from? For instance, with UI libraries, nobody should recreate the UI as long as their product isn't about design.
+
+22
+
+https://mac.install.guide/homebrew/8 , homebrew housekeeping guide
