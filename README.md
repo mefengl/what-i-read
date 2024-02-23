@@ -10,6 +10,8 @@ Best way is to memorize them.
 
 ### weekly
 
+http://www.incompleteideas.net/IncIdeas/BitterLesson.html
+
 https://seths.blog/2024/02/make-or-buy
 
 https://kentcdodds.com/blog/colocation
