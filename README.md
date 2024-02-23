@@ -1577,3 +1577,7 @@ https://seths.blog/2024/02/make-or-buy , It's not about whether I can or cannot,
 22
 
 https://mac.install.guide/homebrew/8 , homebrew housekeeping guide
+
+23
+
+http://www.incompleteideas.net/IncIdeas/BitterLesson.html , "The scale is what really scales." again
