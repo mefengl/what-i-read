@@ -10,6 +10,8 @@ Best way is to memorize them.
 
 ### weekly
 
+https://www.scattered-thoughts.net/writing/speed-matters
+
 http://www.incompleteideas.net/IncIdeas/BitterLesson.html
 
 https://seths.blog/2024/02/make-or-buy
@@ -1583,3 +1585,17 @@ https://mac.install.guide/homebrew/8 , homebrew housekeeping guide
 23
 
 http://www.incompleteideas.net/IncIdeas/BitterLesson.html , "The scale is what really scales." again
+
+29
+
+https://www.scattered-thoughts.net/writing/speed-matters , another amazing article about speed matters, love it
+
+https://www.redhat.com/sysadmin/bash-bang-commands , glad to know those called bang commands
+
+https://news.ycombinator.com/item?id=28879240 , great talk about above article
+
+https://danluu.com/productivity-velocity , same topic, suprised I missed it before
+
+https://c00kiemon5ter.github.io/code/philosophy/2011/10/30/Tale-of-two-Programmers.html , haha, think more, and code faste
+
+http://steve-yegge.blogspot.com/2008/09/programmings-dirtiest-little-secret.html , This is the guide I need for typing practice
