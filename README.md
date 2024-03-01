@@ -4,7 +4,7 @@ I really got so many great ideas from web articles, some of them changed the tra
 
 I will provide links to videos that I believe are great because I have read their transcripts. If a brilliant mind does not write, watch their video or listen to their podcast.
 
-Best way is to memorize them.
+The best way to memorize is to repeatedly read them.
 
 ## Review
 
