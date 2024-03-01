@@ -1599,3 +1599,11 @@ https://danluu.com/productivity-velocity , same topic, suprised I missed it befo
 https://c00kiemon5ter.github.io/code/philosophy/2011/10/30/Tale-of-two-Programmers.html , haha, think more, and code faste
 
 http://steve-yegge.blogspot.com/2008/09/programmings-dirtiest-little-secret.html , This is the guide I need for typing practice
+
+## 2024-03
+
+01
+
+https://read.engineerscodex.com/p/how-pinterest-scaled-to-11-million , Nice story of Pinterest scaling, like an example of a tale of two programmers
+
+https://notes.alinpanaitiu.com/Costs-of-running-a-macOS-app-studio-business , An interesting and honest article about the cost of macos development
