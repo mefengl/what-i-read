@@ -1596,7 +1596,7 @@ https://news.ycombinator.com/item?id=28879240 , great talk about above article
 
 https://danluu.com/productivity-velocity , same topic, suprised I missed it before
 
-https://c00kiemon5ter.github.io/code/philosophy/2011/10/30/Tale-of-two-Programmers.html , haha, think more, and code faste
+https://c00kiemon5ter.github.io/code/philosophy/2011/10/30/Tale-of-two-Programmers.html , haha, think more, and code faster
 
 http://steve-yegge.blogspot.com/2008/09/programmings-dirtiest-little-secret.html , This is the guide I need for typing practice
 
