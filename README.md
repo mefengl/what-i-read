@@ -1607,3 +1607,7 @@ http://steve-yegge.blogspot.com/2008/09/programmings-dirtiest-little-secret.html
 https://read.engineerscodex.com/p/how-pinterest-scaled-to-11-million , Nice story of Pinterest scaling, like an example of a tale of two programmers
 
 https://notes.alinpanaitiu.com/Costs-of-running-a-macOS-app-studio-business , An interesting and honest article about the cost of macos development
+
+04
+
+https://www.scattered-thoughts.net/writing/things-unlearned , don't learn 10 languages, learn 1 language 10 times better
