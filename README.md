@@ -1613,3 +1613,19 @@ https://notes.alinpanaitiu.com/Costs-of-running-a-macOS-app-studio-business , An
 04
 
 https://www.scattered-thoughts.net/writing/things-unlearned , don't learn 10 languages, learn 1 language 10 times better
+
+https://www.scattered-thoughts.net/writing/moving-faster , the usage of "tools" file is interesting
+
+https://mp.weixin.qq.com/s/2aoc-Shk89ji7tMPU_EgtA , Evan You's thoughts on front-end ecosystem these days
+
+07
+
+https://www.yitay.net/blog/training-great-llms-entirely-from-ground-zero-in-the-wilderness , interesting to see a xoogler's experience outside of Google
+
+https://www.notboring.co/p/ambitions-gravity , insteresting compare to "gravity of reality"
+
+https://shubhamjain.co/2019/05/22/getting-better-at-english , useful and honest article about starting English writing
+
+https://shubhamjain.co/2019/02/16/messy-code , messy code is good, cause it leave us the opportunity to clean it up
+
+https://shubhamjain.co/2018/06/07/falsehoods-programmers-believe-about-hiring , inspiring article about applying for a job
