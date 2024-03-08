@@ -1637,3 +1637,5 @@ https://aptabase.com/blog/why-chose-to-build-on-tauri-instead-electron , it chan
 https://www.codecentric.de/wissens-hub/blog/electron-tauri-building-desktop-apps-web-technologies , great article about electron, provide a lot of useful information, should refer to it when I need to build a desktop app
 
 https://getlotus.app/21-making-electron-apps-feel-native-on-mac , cool tips about make electron app feel native
+
+https://www.sequoiacap.com/article/black-holes-perspective , It has greatly relieved my worries about AI, but its surpassing of human intelligence is unimaginable, because humans seem to have only intelligence left, knowledge, energy, and the fundamentals can't be compared at all
