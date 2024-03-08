@@ -1629,3 +1629,11 @@ https://shubhamjain.co/2019/05/22/getting-better-at-english , useful and honest 
 https://shubhamjain.co/2019/02/16/messy-code , messy code is good, cause it leave us the opportunity to clean it up
 
 https://shubhamjain.co/2018/06/07/falsehoods-programmers-believe-about-hiring , inspiring article about applying for a job
+
+08
+
+https://aptabase.com/blog/why-chose-to-build-on-tauri-instead-electron , it changed my mind about electron a little bit
+
+https://www.codecentric.de/wissens-hub/blog/electron-tauri-building-desktop-apps-web-technologies , great article about electron, provide a lot of useful information, should refer to it when I need to build a desktop app
+
+https://getlotus.app/21-making-electron-apps-feel-native-on-mac , cool tips about make electron app feel native
