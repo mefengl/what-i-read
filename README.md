@@ -1645,3 +1645,5 @@ https://www.sequoiacap.com/article/black-holes-perspective , It has greatly reli
 https://seths.blog/2024/03/where-are-you , Thinking about tomorrow is living in tomorrow
 
 https://seths.blog/2024/03/graceful , be kind
+
+https://hulry.com/firesides/gezellig , gezellig is an interesting concept
