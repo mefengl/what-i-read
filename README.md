@@ -1639,3 +1639,9 @@ https://www.codecentric.de/wissens-hub/blog/electron-tauri-building-desktop-apps
 https://getlotus.app/21-making-electron-apps-feel-native-on-mac , cool tips about make electron app feel native
 
 https://www.sequoiacap.com/article/black-holes-perspective , It has greatly relieved my worries about AI, but its surpassing of human intelligence is unimaginable, because humans seem to have only intelligence left, knowledge, energy, and the fundamentals can't be compared at all
+
+09
+
+https://seths.blog/2024/03/where-are-you , Thinking about tomorrow is living in tomorrow
+
+https://seths.blog/2024/03/graceful , be kind
