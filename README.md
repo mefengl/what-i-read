@@ -1647,3 +1647,9 @@ https://seths.blog/2024/03/where-are-you , Thinking about tomorrow is living in 
 https://seths.blog/2024/03/graceful , be kind
 
 https://hulry.com/firesides/gezellig , gezellig is an interesting concept
+
+11
+
+https://matt-rickard.com/lessons-from-debugging , Made me realize the importance of debugging flow
+
+https://www.ntietz.com/blog/how-i-debug-2023 , do the debugging in the professional way
