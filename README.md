@@ -10,6 +10,8 @@ The best way to memorize is to repeatedly read them.
 
 ### weekly
 
+https://playbook.samaltman.com
+
 https://www.scattered-thoughts.net/writing/things-unlearned
 
 https://www.scattered-thoughts.net/writing/speed-matters
@@ -1653,3 +1655,21 @@ https://hulry.com/firesides/gezellig , gezellig is an interesting concept
 https://matt-rickard.com/lessons-from-debugging , Made me realize the importance of debugging flow
 
 https://www.ntietz.com/blog/how-i-debug-2023 , do the debugging in the professional way
+
+14
+
+https://playbook.samaltman.com , I may have read this before, but now it gives me much more encouragement.
+
+15
+
+https://www.mayank.co/blog/declarative-shadow-dom-guide , The Shadow DOM scores another point.
+
+https://papereditor.app/dev , It has inspired me in two aspects, one is that true minimalism is not feasible, and the other is how to balance between native and non-native.
+
+https://nat.org , I like the "some things I believe" part.
+
+https://blogs.oracle.com/javamagazine/post/java-comments-reduce-technical-debt , Writing comments first, perhaps a new paradigm for coding.
+
+18
+
+https://web.dev/articles/indexeddb , great article to learn about indexeddb
