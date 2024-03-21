@@ -1673,3 +1673,9 @@ https://blogs.oracle.com/javamagazine/post/java-comments-reduce-technical-debt ,
 18
 
 https://web.dev/articles/indexeddb , great article to learn about indexeddb
+
+21
+
+https://blog.yitianshijie.net/quotes , Included are some words that people who respect themselves would say.
+
+https://blog.yitianshijie.net/2024/03/21/tech-dystopia-genealogy , Recommend some books.
