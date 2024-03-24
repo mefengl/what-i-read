@@ -1683,3 +1683,5 @@ https://blog.yitianshijie.net/2024/03/21/tech-dystopia-genealogy , Recommend som
 25
 
 https://www.scotthyoung.com/blog/2024/03/12/infinite-library-problem , Read textbooks first
+
+https://time.com/6837151/therapists-respond-insults , learn in hard conversation, how to prompt human better
