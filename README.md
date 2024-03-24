@@ -1679,3 +1679,7 @@ https://web.dev/articles/indexeddb , great article to learn about indexeddb
 https://blog.yitianshijie.net/quotes , Included are some words that people who respect themselves would say.
 
 https://blog.yitianshijie.net/2024/03/21/tech-dystopia-genealogy , Recommend some books.
+
+25
+
+https://www.scotthyoung.com/blog/2024/03/12/infinite-library-problem , Read textbooks first
