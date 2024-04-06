@@ -60,6 +60,8 @@ https://collabfund.com/blog/rare-skills
 
 ### monthly
 
+https://www.kalzumeus.com/standing-invitation
+
 https://github.com/merlinmann/wisdom/blob/master/wisdom.md
 
 https://mindingourway.com/desperation
