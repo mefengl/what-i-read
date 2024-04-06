@@ -10,6 +10,8 @@ The best way to memorize is to repeatedly read them.
 
 ### weekly
 
+https://guzey.com/rare-talent
+
 https://playbook.samaltman.com
 
 https://www.scattered-thoughts.net/writing/things-unlearned
