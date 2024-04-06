@@ -1697,3 +1697,5 @@ https://time.com/6837151/therapists-respond-insults , learn in hard conversation
 https://guzey.com/rare-talent , An article like this offers comfort by letting you know that you're not alone.
 
 https://www.sfwa.org/2011/12/14/guest-post-how-i-went-from-writing-2000-words-a-day-to-10000-words-a-day , provides a great example of how to increase the amount of writing, "amount matters"
+
+https://zhengdongwang.com/2023/06/27/why-transformative-ai-is-really-really-hard-to-achieve.html , For the viewpoint on the speed of AI development, it's a good hedge.
