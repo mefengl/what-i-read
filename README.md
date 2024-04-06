@@ -1703,3 +1703,5 @@ https://www.sfwa.org/2011/12/14/guest-post-how-i-went-from-writing-2000-words-a-
 https://zhengdongwang.com/2023/06/27/why-transformative-ai-is-really-really-hard-to-achieve.html , For the viewpoint on the speed of AI development, it's a good hedge.
 
 https://www.kalzumeus.com/standing-invitation , Encourage others to initiate contact with you more often.
+
+https://longform.asmartbear.com/perseverance , When should one pivot?
