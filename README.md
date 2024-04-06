@@ -10,6 +10,8 @@ The best way to memorize is to repeatedly read them.
 
 ### weekly
 
+https://www.sfwa.org/2011/12/14/guest-post-how-i-went-from-writing-2000-words-a-day-to-10000-words-a-day
+
 https://guzey.com/rare-talent
 
 https://playbook.samaltman.com
