@@ -1709,3 +1709,5 @@ https://longform.asmartbear.com/perseverance , When should one pivot?
 https://ralphammer.com/is-it-worth-the-trouble , "Permanent rebellion is the only way to be present in the world.", "we should find freedom here and now, not in eternity.", "try not to live as good as possible but as much as possible."
 
 https://levels.io/contact , From a cruel perspective, it is correct.
+
+https://garyvaynerchuk.com/instagram-for-business-180-strategy-grow-business-brand , An interesting way to explore human relationships on social media.
