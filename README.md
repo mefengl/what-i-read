@@ -1711,3 +1711,9 @@ https://ralphammer.com/is-it-worth-the-trouble , "Permanent rebellion is the onl
 https://levels.io/contact , From a cruel perspective, it is correct.
 
 https://garyvaynerchuk.com/instagram-for-business-180-strategy-grow-business-brand , An interesting way to explore human relationships on social media.
+
+## 2024-05
+
+12
+
+https://huyenchip.com/2024/03/14/ai-oss.html , Very good analysis of open source projects about AI.
