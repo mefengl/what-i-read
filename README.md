@@ -1721,3 +1721,5 @@ https://huyenchip.com/2024/03/14/ai-oss.html , Very good analysis of open source
 23
 
 https://nuejs.org/blog/tailwind-misinformation-engine , Very good neutralization of the tailwind frenzy
+
+https://ronjeffries.com/xprog/articles/practices/pracsimplest , "Do the simplest thing that could possibly work" is a good principle
