@@ -1717,3 +1717,7 @@ https://garyvaynerchuk.com/instagram-for-business-180-strategy-grow-business-bra
 12
 
 https://huyenchip.com/2024/03/14/ai-oss.html , Very good analysis of open source projects about AI.
+
+23
+
+https://nuejs.org/blog/tailwind-misinformation-engine , Very good neutralization of the tailwind frenzy
