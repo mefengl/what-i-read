@@ -1723,3 +1723,7 @@ https://huyenchip.com/2024/03/14/ai-oss.html , Very good analysis of open source
 https://nuejs.org/blog/tailwind-misinformation-engine , Very good neutralization of the tailwind frenzy
 
 https://ronjeffries.com/xprog/articles/practices/pracsimplest , "Do the simplest thing that could possibly work" is a good principle
+
+25
+
+https://nonint.com/2023/06/10/the-it-in-ai-models-is-the-dataset , It's an interesting perspective that suggests people who share the same environment will become similar individuals
