@@ -1727,3 +1727,7 @@ https://ronjeffries.com/xprog/articles/practices/pracsimplest , "Do the simplest
 25
 
 https://nonint.com/2023/06/10/the-it-in-ai-models-is-the-dataset , It's an interesting perspective that suggests people who share the same environment will become similar individuals
+
+26
+
+https://blog.jim-nielsen.com/2024/you-are-what-you-read , We read to be inspired, not just to remember
