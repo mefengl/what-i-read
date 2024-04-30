@@ -1733,3 +1733,7 @@ https://nonint.com/2023/06/10/the-it-in-ai-models-is-the-dataset , It's an inter
 https://blog.jim-nielsen.com/2024/you-are-what-you-read , We read to be inspired, not just to remember
 
 https://blog.jim-nielsen.com/2023/offline-is-online-with-extreme-latency , "Offline: 30 seconds to days of latency (until you sync back online)"
+
+30
+
+https://rentry.co/GPT2 , Interesting reasoning
