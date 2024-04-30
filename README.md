@@ -1739,3 +1739,5 @@ https://blog.jim-nielsen.com/2023/offline-is-online-with-extreme-latency , "Offl
 https://rentry.co/GPT2 , Interesting reasoning
 
 https://www.fromjason.xyz/p/notebook/firechat-was-a-tool-for-revolution-then-it-disappeared , The technology usage is interesting
+
+https://www.aljazeera.com/economy/2024/4/30/on-chinas-instagram-women-find-a-space-to-share-the-routine-and-taboo , Different perspectives to look at this platform
