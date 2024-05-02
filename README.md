@@ -1712,7 +1712,7 @@ https://levels.io/contact , From a cruel perspective, it is correct.
 
 https://garyvaynerchuk.com/instagram-for-business-180-strategy-grow-business-brand , An interesting way to explore human relationships on social media.
 
-## 2024-05
+## 2024-04
 
 12
 
@@ -1745,5 +1745,9 @@ https://www.aljazeera.com/economy/2024/4/30/on-chinas-instagram-women-find-a-spa
 https://pketh.org/decade-of-inspiration.html , About inspiration, a very good example
 
 https://jamesclear.com/great-speeches/inventing-on-principle-by-bret-victor , I am familiar with the concept of discussing real-time updates
+
+## 2024-05
+
+02
 
 https://martinbaun.com/blog/posts/action-breeds-clarity-2 , "learn by doing", "just in time learning"
