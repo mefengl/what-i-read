@@ -1753,3 +1753,7 @@ https://jamesclear.com/great-speeches/inventing-on-principle-by-bret-victor , I 
 https://martinbaun.com/blog/posts/action-breeds-clarity-2 , "learn by doing", "just in time learning"
 
 https://www.noemamag.com/we-need-to-rewild-the-internet , From an ecological perspective, it is very interesting to look at the Internet. Yes, perhaps we should have measures like a national forest park for the Internet
+
+05
+
+https://harpers.org/archive/1932/10/in-praise-of-idleness , People should have leisure.
