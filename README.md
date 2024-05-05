@@ -1757,3 +1757,5 @@ https://www.noemamag.com/we-need-to-rewild-the-internet , From an ecological per
 05
 
 https://harpers.org/archive/1932/10/in-praise-of-idleness , People should have leisure.
+
+https://idlewords.com/2005/04/dabblers_and_blowhards.htm , I believe comparing coding to drawing is a mistake; it's more akin to carpentry.
