@@ -1761,3 +1761,5 @@ https://harpers.org/archive/1932/10/in-praise-of-idleness , People should have l
 https://idlewords.com/2005/04/dabblers_and_blowhards.htm , I believe comparing coding to drawing is a mistake; it's more akin to carpentry
 
 https://idlewords.com/talks/internet_with_a_human_face.htm , Understand a more comprehensible perspective on privacy protection
+
+https://www.lennysnewsletter.com/p/how-perplexity-builds-product , I was surprised by how I could ask GPT-3 for advice on running a company
