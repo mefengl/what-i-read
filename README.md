@@ -1771,3 +1771,5 @@ https://dev.to/perssondennis/answers-to-common-nextjs-questions-1oki , Valuable 
 07
 
 https://keygen.sh/blog/your-14-day-free-trial-aint-gonna-cut-it , The discussion on whether to offer a free trial or implement a paywall was very inspiring
+
+https://dev.to/perssondennis/react-anti-patterns-and-best-practices-dos-and-donts-3c2g , A well-structured checklist for writing React functional components
