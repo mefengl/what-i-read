@@ -1763,3 +1763,11 @@ https://idlewords.com/2005/04/dabblers_and_blowhards.htm , I believe comparing c
 https://idlewords.com/talks/internet_with_a_human_face.htm , Understand a more comprehensible perspective on privacy protection
 
 https://www.lennysnewsletter.com/p/how-perplexity-builds-product , I was surprised by how I could ask GPT-3 for advice on running a company
+
+06
+
+https://dev.to/perssondennis/answers-to-common-nextjs-questions-1oki , Valuable insights on React app routing
+
+07
+
+https://keygen.sh/blog/your-14-day-free-trial-aint-gonna-cut-it , The discussion on whether to offer a free trial or implement a paywall was very inspiring
