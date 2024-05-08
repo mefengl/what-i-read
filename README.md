@@ -1773,3 +1773,9 @@ https://dev.to/perssondennis/answers-to-common-nextjs-questions-1oki , Valuable 
 https://keygen.sh/blog/your-14-day-free-trial-aint-gonna-cut-it , The discussion on whether to offer a free trial or implement a paywall was very inspiring
 
 https://dev.to/perssondennis/react-anti-patterns-and-best-practices-dos-and-donts-3c2g , A well-structured checklist for writing React functional components
+
+https://towardsdatascience.com/how-i-won-singapores-gpt-4-prompt-engineering-competition-34c195a93d41 , It's beneficial to observe the expertise of the prompt master
+
+08
+
+https://austinhenley.com/blog/intellicode.html , The cool conclusion comes from the design research of AI programming interfaces
