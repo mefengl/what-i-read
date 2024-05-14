@@ -1779,3 +1779,7 @@ https://towardsdatascience.com/how-i-won-singapores-gpt-4-prompt-engineering-com
 08
 
 https://austinhenley.com/blog/intellicode.html , The cool conclusion comes from the design research of AI programming interfaces
+
+14
+
+https://ui.dev/why-react-query , the ending of this article is great, React Query is not a fetch library
