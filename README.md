@@ -1785,3 +1785,5 @@ https://austinhenley.com/blog/intellicode.html , The cool conclusion comes from 
 https://ui.dev/why-react-query , the ending of this article is great, React Query is not a fetch library
 
 https://www.debugbear.com/blog/counting-chrome-extensions , amazing article about the extension market
+
+https://stack.convex.dev/caching-in , "Don’t think about caching"
