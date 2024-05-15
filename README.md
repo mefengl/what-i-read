@@ -1786,4 +1786,8 @@ https://ui.dev/why-react-query , the ending of this article is great, React Quer
 
 https://www.debugbear.com/blog/counting-chrome-extensions , amazing article about the extension market
 
+15
+
 https://stack.convex.dev/caching-in , "Don’t think about caching"
+
+https://blog.nateliason.com/p/de-atomization-is-the-secret-to-happiness , "Atomization" is a great concept, as is "De-Atomization"
