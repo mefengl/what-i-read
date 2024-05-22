@@ -1793,3 +1793,7 @@ https://stack.convex.dev/caching-in , "Don’t think about caching"
 https://blog.nateliason.com/p/de-atomization-is-the-secret-to-happiness , "Atomization" is a great concept, as is "De-Atomization"
 
 https://longform.asmartbear.com/exponential-growth , Very good content has given me a more realistic understanding of the connotation of exponential growth (not just from the 'exponential' itself)
+
+22
+
+https://www.anthropic.com/research/mapping-mind-language-model , Explore the internal structure of language models
