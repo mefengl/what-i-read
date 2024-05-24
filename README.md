@@ -1797,3 +1797,5 @@ https://longform.asmartbear.com/exponential-growth , Very good content has given
 22
 
 https://www.anthropic.com/research/mapping-mind-language-model , Explore the internal structure of language models
+
+https://noahkagan.com/brutally-honest-career-advice-to-my-younger-self , Advice for young
