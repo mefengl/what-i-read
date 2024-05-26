@@ -1798,4 +1798,10 @@ https://longform.asmartbear.com/exponential-growth , Very good content has given
 
 https://www.anthropic.com/research/mapping-mind-language-model , Explore the internal structure of language models
 
+24
+
 https://noahkagan.com/brutally-honest-career-advice-to-my-younger-self , Advice for young
+
+26
+
+https://rachelbythebay.com/w/2018/04/28/meta , I think this is somewhat inspiring, but I haven't really understood it yet
