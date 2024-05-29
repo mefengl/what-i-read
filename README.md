@@ -1805,3 +1805,7 @@ https://noahkagan.com/brutally-honest-career-advice-to-my-younger-self , Advice 
 26
 
 https://rachelbythebay.com/w/2018/04/28/meta , I think this is somewhat inspiring, but I haven't really understood it yet
+
+29
+
+https://hiandrewquinn.github.io/til-site/posts/doing-is-normally-distributed-learning-is-log-normal , A large amount of work is a way to eliminate future uncertainty
