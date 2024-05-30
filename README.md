@@ -1809,3 +1809,7 @@ https://rachelbythebay.com/w/2018/04/28/meta , I think this is somewhat inspirin
 29
 
 https://hiandrewquinn.github.io/til-site/posts/doing-is-normally-distributed-learning-is-log-normal , A large amount of work is a way to eliminate future uncertainty
+
+30
+
+https://gwern.net/bitcoin-is-worse-is-better , The similarity between Bitcoin and Unix is amusing
