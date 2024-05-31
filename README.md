@@ -1821,3 +1821,5 @@ https://testing.googleblog.com/2024/05/dont-dry-your-code-prematurely.html , "wi
 https://notes.eatonphil.com/2025-05-30-how-i-run-book-clubs.html , I learned a lot about building a knowledge-sharing group from this article
 
 https://dreamsongs.com/WIB.html , This is how JavaScript succeeds and also how it seems to fail
+
+https://www.informit.com/articles/article.aspx , I choose to learn
