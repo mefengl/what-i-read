@@ -1819,3 +1819,5 @@ https://gwern.net/bitcoin-is-worse-is-better , The similarity between Bitcoin an
 https://testing.googleblog.com/2024/05/dont-dry-your-code-prematurely.html , "with time, it will clearly indicate the need for a well-considered abstraction"
 
 https://notes.eatonphil.com/2025-05-30-how-i-run-book-clubs.html , I learned a lot about building a knowledge-sharing group from this article
+
+https://dreamsongs.com/WIB.html , This is how JavaScript succeeds and also how it seems to fail
