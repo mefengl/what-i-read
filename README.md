@@ -1813,3 +1813,7 @@ https://hiandrewquinn.github.io/til-site/posts/doing-is-normally-distributed-lea
 30
 
 https://gwern.net/bitcoin-is-worse-is-better , The similarity between Bitcoin and Unix is amusing
+
+31
+
+https://testing.googleblog.com/2024/05/dont-dry-your-code-prematurely.html , "with time, it will clearly indicate the need for a well-considered abstraction"
