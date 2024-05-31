@@ -1822,4 +1822,4 @@ https://notes.eatonphil.com/2025-05-30-how-i-run-book-clubs.html , I learned a l
 
 https://dreamsongs.com/WIB.html , This is how JavaScript succeeds and also how it seems to fail
 
-https://www.informit.com/articles/article.aspx , I choose to learn
+https://www.informit.com/articles/article.aspx , I choose to learn this
