@@ -1,6 +1,6 @@
 # what-i-read
 
-I really got so many great ideas from web articles, some of them changed the trajectory of my timeline. And some of them I forgot, and for them, I created this repo so I will have a change to reread them more times.
+I really got so many great ideas from web articles, some of them changed the trajectory of my timeline. And some of them I forgot, and for them, I created this repo so I will have a chance to reread them more times.
 
 I will provide links to videos that I believe are great because I have read their transcripts. If a brilliant mind does not write, watch their video or listen to their podcast.
 
