@@ -1835,3 +1835,5 @@ https://seths.blog/2024/06/are-you-pitching-or-are-you-asking , "Are you pitchin
 https://hulry.com/yutori , "yutori" kind of like leisure
 
 https://sashachapin.substack.com/p/50-things-i-know , they are good
+
+https://bigthink.com/the-well/dusking-end-addiction-light , If we need some time to daydream, dusk is a good choice
