@@ -1837,3 +1837,5 @@ https://hulry.com/yutori , "yutori" kind of like leisure
 https://sashachapin.substack.com/p/50-things-i-know , they are good
 
 https://bigthink.com/the-well/dusking-end-addiction-light , If we need some time to daydream, dusk is a good choice
+
+https://collabfund.com/blog/a-few-thoughts-on-spending-money , "Unspent money buys something intangible but valuable"
