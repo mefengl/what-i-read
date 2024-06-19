@@ -1829,3 +1829,7 @@ https://www.informit.com/articles/article.aspx , I choose to learn this
 19
 
 https://world.hey.com/dhh/why-i-retired-from-the-tech-crusades-107a51ea , "the best things in life are free, the second best things are very expensive"
+
+https://seths.blog/2024/06/are-you-pitching-or-are-you-asking , "Are you pitching or are you asking?"
+
+https://hulry.com/yutori , "yutori" kind of like leisure
