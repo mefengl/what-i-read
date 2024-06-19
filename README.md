@@ -1833,3 +1833,5 @@ https://world.hey.com/dhh/why-i-retired-from-the-tech-crusades-107a51ea , "the b
 https://seths.blog/2024/06/are-you-pitching-or-are-you-asking , "Are you pitching or are you asking?"
 
 https://hulry.com/yutori , "yutori" kind of like leisure
+
+https://sashachapin.substack.com/p/50-things-i-know , they are good
