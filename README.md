@@ -1823,3 +1823,9 @@ https://notes.eatonphil.com/2025-05-30-how-i-run-book-clubs.html , I learned a l
 https://dreamsongs.com/WIB.html , This is how JavaScript succeeds and also how it seems to fail
 
 https://www.informit.com/articles/article.aspx , I choose to learn this
+
+## 2024-06
+
+19
+
+https://world.hey.com/dhh/why-i-retired-from-the-tech-crusades-107a51ea , "the best things in life are free, the second best things are very expensive"
