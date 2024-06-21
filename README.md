@@ -306,7 +306,7 @@ https://basecamp.com/shapeup/1.2-chapter-03 , the idea of 'appetite', is such a 
 
 https://basecamp.com/shapeup/2.1-chapter-07 , important questions are worth asking twice.
 
-https://basecamp.com/shapeup/2.2-chapter-08 , the idea of 'cool-down/clean-up' is also great, cool-down for two weeks, why not 
+https://basecamp.com/shapeup/2.2-chapter-08 , the idea of 'cool-down/clean-up' is also great, cool-down for two weeks, why not
 
 https://www.outsystems.com/blog/posts/people-who-are-serious-about-programming/ , use native language to write a native app
 
@@ -552,9 +552,7 @@ https://jwang18.substack.com/p/gen-ai-more-human , the mix of human and AI in da
 
 07
 
-
 https://www.lesswrong.com/s/KAv8z6oJCTxjR8vdR/p/gKeHcikcXA3bApyoM , so many interesting ideas
-
 
 08
 
@@ -719,7 +717,6 @@ https://www.youtube.com/watch?v=gsWPpE4Rid0 , Mr.Beast's waste time
 06
 
 http://antirez.com/news/61 , thank AI for it may eliminating the Tower of Babel in the visible future.
-
 
 07
 
@@ -1711,8 +1708,6 @@ https://ralphammer.com/is-it-worth-the-trouble , "Permanent rebellion is the onl
 https://levels.io/contact , From a cruel perspective, it is correct.
 
 https://garyvaynerchuk.com/instagram-for-business-180-strategy-grow-business-brand , An interesting way to explore human relationships on social media.
-
-## 2024-04
 
 12
 
