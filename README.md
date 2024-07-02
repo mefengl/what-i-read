@@ -10,6 +10,8 @@ The best way to memorize is to repeatedly read them.
 
 ### weekly
 
+https://seths.blog/2024/07/the-lazy-jugglers
+
 https://www.sfwa.org/2011/12/14/guest-post-how-i-went-from-writing-2000-words-a-day-to-10000-words-a-day
 
 https://guzey.com/rare-talent
@@ -1838,3 +1840,7 @@ https://collabfund.com/blog/a-few-thoughts-on-spending-money , "Unspent money bu
 29
 
 https://www.builder.io/blog/micro-agent , Builder.io always does the bare minimum to be useful
+
+## 2024-07
+
+https://seths.blog/2024/07/the-lazy-jugglers , just great
