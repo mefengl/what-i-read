@@ -1843,4 +1843,10 @@ https://www.builder.io/blog/micro-agent , Builder.io always does the bare minimu
 
 ## 2024-07
 
+03
+
 https://seths.blog/2024/07/the-lazy-jugglers , just great
+
+04
+
+https://seths.blog/2024/06/the-pinocchio-protocol , "And few people would start smoking if the deposits on their lungs ended up on their face instead."
