@@ -1850,3 +1850,7 @@ https://seths.blog/2024/07/the-lazy-jugglers , just great
 04
 
 https://seths.blog/2024/06/the-pinocchio-protocol , "And few people would start smoking if the deposits on their lungs ended up on their face instead."
+
+05
+
+https://news.ycombinator.com/item?id=40844727 , already know product hunt should consider as an seo tool instead of a product bootstrap tool, but this article is a good reminder
