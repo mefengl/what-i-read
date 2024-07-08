@@ -1856,3 +1856,9 @@ https://seths.blog/2024/06/the-pinocchio-protocol , "And few people would start 
 https://news.ycombinator.com/item?id=40844727 , already know product hunt should consider as an seo tool instead of a product bootstrap tool, but this article is a good reminder
 
 https://eslint.org/blog/2024/07/whats-coming-next-for-eslint , the refactoring observer of eslint looks very interesting
+
+07
+
+https://www.latepost.com/news/dj_detail?id=280 , great thoughts from pingduoduo's founder
+
+https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful , inspiring ideas about concurrency
