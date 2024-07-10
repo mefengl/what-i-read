@@ -1862,3 +1862,5 @@ https://eslint.org/blog/2024/07/whats-coming-next-for-eslint , the refactoring o
 https://www.latepost.com/news/dj_detail?id=280 , great thoughts from pingduoduo's founder
 
 https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful , inspiring ideas about concurrency
+
+https://longform.asmartbear.com/procrastinate , "Whatever the cost of putting off duties, burn-out is even more costly."
