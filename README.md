@@ -1863,4 +1863,6 @@ https://www.latepost.com/news/dj_detail?id=280 , great thoughts from pingduoduo'
 
 https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful , inspiring ideas about concurrency
 
+10
+
 https://longform.asmartbear.com/procrastinate , "Whatever the cost of putting off duties, burn-out is even more costly."
