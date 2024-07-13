@@ -1866,3 +1866,5 @@ https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-consider
 10
 
 https://longform.asmartbear.com/procrastinate , "Whatever the cost of putting off duties, burn-out is even more costly."
+
+https://world.hey.com/jason/directional-decisions-22bcd41c , do one thing, so we don't have to worry about the other hundred things
