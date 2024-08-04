@@ -1872,3 +1872,7 @@ https://world.hey.com/jason/directional-decisions-22bcd41c , do one thing, so we
 25
 
 https://annas-archive.org/blog/critical-window.html , glad they exist
+
+## 2024-08
+
+https://blog.wildcat.io/2024/08/i-m-back-rails , maybe the js ecosystem needs to learn a little bit from the ruby ecosystem
