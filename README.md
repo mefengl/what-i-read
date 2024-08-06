@@ -1876,3 +1876,5 @@ https://annas-archive.org/blog/critical-window.html , glad they exist
 ## 2024-08
 
 https://blog.wildcat.io/2024/08/i-m-back-rails , maybe the js ecosystem needs to learn a little bit from the ruby ecosystem
+
+https://akkartik.name/post/programming-2024 , inspiring article about programming
