@@ -1886,3 +1886,5 @@ https://akkartik.name/post/programming-2024 , inspiring article about programmin
 15
 
 https://seths.blog/2024/08/multiple-choice , '"None of the above" is often the best option.'
+
+https://seths.blog/2024/08/mediocrity-and-perfectionism , "Don't ship junk, but ship."
