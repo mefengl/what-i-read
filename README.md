@@ -1882,3 +1882,7 @@ https://blog.wildcat.io/2024/08/i-m-back-rails , maybe the js ecosystem needs to
 06
 
 https://akkartik.name/post/programming-2024 , inspiring article about programming
+
+15
+
+https://seths.blog/2024/08/multiple-choice , '"None of the above" is often the best option.'
