@@ -1892,3 +1892,7 @@ https://seths.blog/2024/08/mediocrity-and-perfectionism , "Don't ship junk, but 
 18
 
 https://sspai.com/post/91338 , how to cook rice
+
+22
+
+https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to , everything may be self-explanatory, but clearly writing it out is still greatly beneficial
