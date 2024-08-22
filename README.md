@@ -1897,4 +1897,6 @@ https://sspai.com/post/91338 , how to cook rice
 
 22
 
+https://tekin.co.uk/2021/01/how-atomic-commits-make-you-a-better-coder , a reminder to make small commits, likened to jack's ability to lift, which relies not on a single success, but on persistence and avoiding failure
+
 https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to , everything may be self-explanatory, but clearly writing it out is still greatly beneficial
