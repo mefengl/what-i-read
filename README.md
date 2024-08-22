@@ -1902,3 +1902,5 @@ https://tekin.co.uk/2021/01/how-atomic-commits-make-you-a-better-coder , a remin
 https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to , everything may be self-explanatory, but clearly writing it out is still greatly beneficial
 
 https://blog.nateliason.com/p/losing-10-million , find it fascinating to watch developments in the cryptocurrency space, as they often involve unconventional and innovative approaches to finance
+
+https://selftaughtcoders.com/how-to-quickly-and-effectively-read-other-peoples-code , the word "rinse" really says something about the nature of learning
