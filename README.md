@@ -10,6 +10,8 @@ The best way to memorize is to repeatedly read them.
 
 ### weekly
 
+https://selftaughtcoders.com/how-to-quickly-and-effectively-read-other-peoples-code
+
 https://seths.blog/2024/07/the-lazy-jugglers
 
 https://www.sfwa.org/2011/12/14/guest-post-how-i-went-from-writing-2000-words-a-day-to-10000-words-a-day
@@ -1904,3 +1906,7 @@ https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-d
 https://blog.nateliason.com/p/losing-10-million , find it fascinating to watch developments in the cryptocurrency space, as they often involve unconventional and innovative approaches to finance
 
 https://selftaughtcoders.com/how-to-quickly-and-effectively-read-other-peoples-code , the word "rinse" really says something about the nature of learning
+
+23
+
+https://blog.codinghorror.com/learn-to-read-the-source-luke , the way it emphasizes 'we must read the source code' is amazing.
