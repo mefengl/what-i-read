@@ -1910,3 +1910,5 @@ https://selftaughtcoders.com/how-to-quickly-and-effectively-read-other-peoples-c
 23
 
 https://blog.codinghorror.com/learn-to-read-the-source-luke , the way it emphasizes 'we must read the source code' is amazing.
+
+https://www.stilldrinking.org/ai-is-not-the-problem, developers are just another level of knowledge engine. It used to be google, now it's chatgpt.
