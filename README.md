@@ -10,6 +10,8 @@ The best way to memorize is to repeatedly read them.
 
 ### weekly
 
+https://meltingasphalt.com/a-codebase-is-an-organism
+
 https://selftaughtcoders.com/how-to-quickly-and-effectively-read-other-peoples-code
 
 https://seths.blog/2024/07/the-lazy-jugglers
@@ -1912,3 +1914,5 @@ https://selftaughtcoders.com/how-to-quickly-and-effectively-read-other-peoples-c
 https://blog.codinghorror.com/learn-to-read-the-source-luke , the way it emphasizes 'we must read the source code' is amazing.
 
 https://www.stilldrinking.org/ai-is-not-the-problem, developers are just another level of knowledge engine. It used to be google, now it's chatgpt.
+
+https://meltingasphalt.com/a-codebase-is-an-organism - such a good article, such a great metaphor
