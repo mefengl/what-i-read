@@ -1916,3 +1916,5 @@ https://blog.codinghorror.com/learn-to-read-the-source-luke , the way it emphasi
 https://www.stilldrinking.org/ai-is-not-the-problem, developers are just another level of knowledge engine. It used to be google, now it's chatgpt.
 
 https://meltingasphalt.com/a-codebase-is-an-organism - such a good article, such a great metaphor
+
+https://koliber.com/articles/o-zero , it's like bringing zero back to the world of algorithms
