@@ -10,6 +10,8 @@ The best way to memorize is to repeatedly read them.
 
 ### weekly
 
+https://playpermissionless.substack.com/p/higher-vibrations
+
 https://meltingasphalt.com/a-codebase-is-an-organism
 
 https://selftaughtcoders.com/how-to-quickly-and-effectively-read-other-peoples-code
@@ -1919,4 +1921,4 @@ https://meltingasphalt.com/a-codebase-is-an-organism - such a good article, such
 
 https://koliber.com/articles/o-zero , it's like bringing zero back to the world of algorithms
 
-https://playpermissionless.substack.com/p/higher-vibrations, "vibrations" is a great concept to understand relationships and other things
+https://playpermissionless.substack.com/p/higher-vibrations , "vibrations" is a great concept to understand relationships and other things
