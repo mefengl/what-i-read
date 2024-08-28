@@ -1919,6 +1919,14 @@ https://www.stilldrinking.org/ai-is-not-the-problem, developers are just another
 
 https://meltingasphalt.com/a-codebase-is-an-organism - such a good article, such a great metaphor
 
+25
+
 https://koliber.com/articles/o-zero , it's like bringing zero back to the world of algorithms
 
+27
+
 https://playpermissionless.substack.com/p/higher-vibrations , "vibrations" is a great concept to understand relationships and other things
+
+28
+
+https://sspai.com/post/91803 , actually a good article about Xianyu
