@@ -1930,3 +1930,7 @@ https://playpermissionless.substack.com/p/higher-vibrations , "vibrations" is a 
 28
 
 https://sspai.com/post/91803 , actually a good article about Xianyu
+
+30
+
+https://laike9m.com/blog/tui-yan-du-li-kai-fa-chan-pin-wo-zuo-liao-na-xie-chang-shi,159 , Real-life experience about promoting a product
