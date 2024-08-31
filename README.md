@@ -1934,3 +1934,7 @@ https://sspai.com/post/91803 , actually a good article about Xianyu
 30
 
 https://laike9m.com/blog/tui-yan-du-li-kai-fa-chan-pin-wo-zuo-liao-na-xie-chang-shi,159 , Real-life experience about promoting a product
+
+31
+
+https://hulry.com/firesides/purposeful-life , find the one sentence that makes the whole problem seem small
