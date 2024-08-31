@@ -1938,3 +1938,5 @@ https://laike9m.com/blog/tui-yan-du-li-kai-fa-chan-pin-wo-zuo-liao-na-xie-chang-
 31
 
 https://hulry.com/firesides/purposeful-life , find the one sentence that makes the whole problem seem small
+
+https://seths.blog/2024/08/omitting-the-herbs , art is better than perfection
