@@ -1946,3 +1946,5 @@ https://longform.asmartbear.com/scale , this article can serve as a good hedge, 
 ## 2024-09
 
 https://seths.blog/2024/09/your-audiobook , podcast just for myself
+
+https://longform.asmartbear.com/authentic, similar to the article 'omitting-the-herbs' , make it more authentic.
