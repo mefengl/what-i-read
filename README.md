@@ -1942,3 +1942,7 @@ https://hulry.com/firesides/purposeful-life , find the one sentence that makes t
 https://seths.blog/2024/08/omitting-the-herbs , art is better than perfection
 
 https://longform.asmartbear.com/scale , this article can serve as a good hedge, but I do not agree with it, nor do I need to agree with this negative philosophy. When I believe in it, problems find me. When I don't believe in it and view it as a problem, solutions find me
+
+## 2024-09
+
+https://seths.blog/2024/09/your-audiobook , podcast just for myself
