@@ -1945,8 +1945,16 @@ https://longform.asmartbear.com/scale , this article can serve as a good hedge, 
 
 ## 2024-09
 
+01
+
 https://seths.blog/2024/09/your-audiobook , podcast just for myself
 
 https://longform.asmartbear.com/authentic, similar to the article 'omitting-the-herbs' , make it more authentic
 
 https://longform.asmartbear.com/ramen-profitable , what does "profitable" mean? This article gives a good answer
+
+05
+
+https://guzey.com/ai/ai-views-every-year , very inspiring about current ai abilities
+
+https://guzey.com/writing-advice , writing advice from writer I like, what's more to say?
