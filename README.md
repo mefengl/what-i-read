@@ -1958,3 +1958,5 @@ https://longform.asmartbear.com/ramen-profitable , what does "profitable" mean? 
 https://guzey.com/ai/ai-views-every-year , very inspiring about current ai abilities
 
 https://guzey.com/writing-advice , writing advice from writer I like, what's more to say?
+
+https://www.talkhouse.com/lou-reed-of-the-velvet-underground-talks-kanye-wests-yeezus , rarely, there is one article that really tells the music from a feeling perspective, and it fits so well
