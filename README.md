@@ -1962,3 +1962,7 @@ https://guzey.com/writing-advice , writing advice from writer I like, what's mor
 https://www.talkhouse.com/lou-reed-of-the-velvet-underground-talks-kanye-wests-yeezus , rarely, there is one article that really tells the music from a feeling perspective, and it fits so well
 
 https://adamwathan.me/journal/2020/12/29/2020-year-in-review , what a year, it’s the miracle year for tailwindcss
+
+06
+
+https://seths.blog/2024/09/feeding-the-algorithm , yes, there are algorithms, and there is your own algorithm
