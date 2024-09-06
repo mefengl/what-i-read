@@ -1966,3 +1966,5 @@ https://adamwathan.me/journal/2020/12/29/2020-year-in-review , what a year, itâ€
 06
 
 https://seths.blog/2024/09/feeding-the-algorithm , yes, there are algorithms, and there is your own algorithm
+
+https://climate.benjames.io/someone-is-going-to-dim-the-sun , feel surprised about the cost of changing the climate of the entire planet
