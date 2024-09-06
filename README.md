@@ -1960,3 +1960,5 @@ https://guzey.com/ai/ai-views-every-year , very inspiring about current ai abili
 https://guzey.com/writing-advice , writing advice from writer I like, what's more to say?
 
 https://www.talkhouse.com/lou-reed-of-the-velvet-underground-talks-kanye-wests-yeezus , rarely, there is one article that really tells the music from a feeling perspective, and it fits so well
+
+https://adamwathan.me/journal/2020/12/29/2020-year-in-review , what a year, it’s the miracle year for tailwindcss
