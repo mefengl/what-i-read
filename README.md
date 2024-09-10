@@ -1974,3 +1974,5 @@ https://climate.benjames.io/solar-off-grid , this article lifted my optimism abo
 10
 
 https://world.hey.com/dhh/passwords-have-problems-but-passkeys-have-more-95285df9, log in with magic links, but also support passwords
+
+https://sspai.com/post/91911 , good guide for reading ingredient lists
