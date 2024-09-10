@@ -1976,3 +1976,5 @@ https://climate.benjames.io/solar-off-grid , this article lifted my optimism abo
 https://world.hey.com/dhh/passwords-have-problems-but-passkeys-have-more-95285df9, log in with magic links, but also support passwords
 
 https://sspai.com/post/91911 , good guide for reading ingredient lists
+
+https://www.granola.so/blog/announcement , "Before Granola, the point of writing notes was to capture information. In Granola, the point of writing notes is to point the AI at what's important."
