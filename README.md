@@ -1970,3 +1970,7 @@ https://seths.blog/2024/09/feeding-the-algorithm , yes, there are algorithms, an
 https://climate.benjames.io/someone-is-going-to-dim-the-sun , feel surprised about the cost of changing the climate of the entire planet
 
 https://climate.benjames.io/solar-off-grid , this article lifted my optimism about solar power to another level
+
+10
+
+https://world.hey.com/dhh/passwords-have-problems-but-passkeys-have-more-95285df9, log in with magic links, but also support passwords
