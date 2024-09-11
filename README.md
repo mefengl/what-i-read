@@ -1978,3 +1978,7 @@ https://world.hey.com/dhh/passwords-have-problems-but-passkeys-have-more-95285df
 https://sspai.com/post/91911 , good guide for reading ingredient lists
 
 https://www.granola.so/blog/announcement , "Before Granola, the point of writing notes was to capture information. In Granola, the point of writing notes is to point the AI at what's important."
+
+11
+
+https://seths.blog/2024/09/when-did-we-lose-consciousness , the process of a person entering a coma can take from 1 to 10 years
