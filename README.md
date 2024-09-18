@@ -1988,3 +1988,7 @@ https://fathy.fr/carbonyl , this is his first rust project...
 13
 
 https://jesseduffield.com/Lazygit-5-Years-On , great documentation about lazygit from the creator himself
+
+19
+
+https://www.tabletmag.com/feature/american-vulcan-palmer-luckey-anduril , the first half is very interesting
