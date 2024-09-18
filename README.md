@@ -1994,3 +1994,5 @@ https://jesseduffield.com/Lazygit-5-Years-On , great documentation about lazygit
 https://www.tabletmag.com/feature/american-vulcan-palmer-luckey-anduril , the first half is very interesting
 
 https://www.piratewires.com/p/choose-good-quests , "choose good quests", a similar idea to "choose the right question to ask"
+
+https://docs.double.bot/blog/pivot , nice article about double.bot's pivot
