@@ -2000,3 +2000,7 @@ https://docs.double.bot/blog/pivot , nice article about double.bot's pivot
 21
 
 https://seths.blog/2024/09/banana-equivalents , "banana equivalents" is a good concept
+
+24
+
+https://log.alia.fyi/entry/sabotage , you won't die if you do something
