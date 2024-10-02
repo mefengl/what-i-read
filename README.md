@@ -2004,3 +2004,7 @@ https://seths.blog/2024/09/banana-equivalents , "banana equivalents" is a good c
 24
 
 https://log.alia.fyi/entry/sabotage , you won't die if you do something
+
+## 2024-10
+
+https://simonwillison.net/2024/Sep/15/how-to-succeed-in-mrbeast-production , the article helped me find a great book about mrbeast
