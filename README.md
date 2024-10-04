@@ -2010,7 +2010,3 @@ https://log.alia.fyi/entry/sabotage , you won't die if you do something
 02
 
 https://simonwillison.net/2024/Sep/15/how-to-succeed-in-mrbeast-production , the article helped me find a great book about mrbeast
-
-04
-
-https://www.youtube.com/watch?v=wQA8vi9z5cU , I like videos that share many good things
