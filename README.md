@@ -2013,4 +2013,6 @@ https://simonwillison.net/2024/Sep/15/how-to-succeed-in-mrbeast-production , the
 
 08
 
-https://rubyonrails.org/doctrine, it influenced me a lot
+https://rubyonrails.org/doctrine , it influenced me a lot
+
+https://kk.org/thetechnium/1000-true-fans , read many old articles recently, some of them should have influenced me more deeply, they didn't is a pity
