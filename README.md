@@ -10,6 +10,8 @@ The best way to memorize is to repeatedly read them.
 
 ### weekly
 
+https://www.lesswrong.com/posts/thc4RemfLcM5AdJDa/skills-from-a-year-of-purposeful-rationality-practice
+
 https://playpermissionless.substack.com/p/higher-vibrations
 
 https://meltingasphalt.com/a-codebase-is-an-organism
@@ -2016,3 +2018,7 @@ https://simonwillison.net/2024/Sep/15/how-to-succeed-in-mrbeast-production , the
 https://rubyonrails.org/doctrine , it influenced me a lot
 
 https://kk.org/thetechnium/1000-true-fans , read many old articles recently, some of them should have influenced me more deeply, they didn't is a pity
+
+10
+
+https://www.lesswrong.com/posts/thc4RemfLcM5AdJDa/skills-from-a-year-of-purposeful-rationality-practice , amazingly useful article
