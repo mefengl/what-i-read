@@ -2022,3 +2022,7 @@ https://kk.org/thetechnium/1000-true-fans , read many old articles recently, som
 10
 
 https://www.lesswrong.com/posts/thc4RemfLcM5AdJDa/skills-from-a-year-of-purposeful-rationality-practice , amazingly useful article
+
+12
+
+https://darioamodei.com/machines-of-loving-grace , a great article about the impact of abundant intelligence
