@@ -2034,3 +2034,5 @@ https://waitbutwhy.com/2024/10/spacex-toddler.html , article about spacex's rece
 17
 
 https://moontower.substack.com/p/the-virus-with-no-vaccine , article about language
+
+https://sahillavingia.com/god , "founder mode" is already outdated, "god mode" is all you need
