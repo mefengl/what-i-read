@@ -2030,3 +2030,7 @@ https://darioamodei.com/machines-of-loving-grace , a great article about the imp
 16
 
 https://waitbutwhy.com/2024/10/spacex-toddler.html , article about spacex's recent amazing progress
+
+17
+
+https://moontower.substack.com/p/the-virus-with-no-vaccine , article about language
