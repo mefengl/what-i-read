@@ -2026,3 +2026,7 @@ https://www.lesswrong.com/posts/thc4RemfLcM5AdJDa/skills-from-a-year-of-purposef
 12
 
 https://darioamodei.com/machines-of-loving-grace , a great article about the impact of abundant intelligence
+
+16
+
+https://waitbutwhy.com/2024/10/spacex-toddler.html , article about spacex's recent amazing progress
