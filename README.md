@@ -10,6 +10,8 @@ The best way to memorize is to repeatedly read them.
 
 ### weekly
 
+https://nabeelqu.co/reflections-on-palantir
+
 https://www.lesswrong.com/posts/thc4RemfLcM5AdJDa/skills-from-a-year-of-purposeful-rationality-practice
 
 https://playpermissionless.substack.com/p/higher-vibrations
@@ -2030,3 +2032,13 @@ https://darioamodei.com/machines-of-loving-grace , a great article about the imp
 16
 
 https://waitbutwhy.com/2024/10/spacex-toddler.html , article about spacex's recent amazing progress
+
+17
+
+https://moontower.substack.com/p/the-virus-with-no-vaccine , article about language
+
+https://sahillavingia.com/god , "founder mode" is already outdated, "god mode" is all you need
+
+18
+
+https://nabeelqu.co/reflections-on-palantir , amazing article about palantir
