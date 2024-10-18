@@ -12,6 +12,10 @@ The best way to memorize is to repeatedly read them.
 
 https://nabeelqu.co/reflections-on-palantir
 
+https://nabeelqu.co/principles
+
+https://nabeelqu.co/advice
+
 https://www.lesswrong.com/posts/thc4RemfLcM5AdJDa/skills-from-a-year-of-purposeful-rationality-practice
 
 https://playpermissionless.substack.com/p/higher-vibrations
@@ -2042,3 +2046,9 @@ https://sahillavingia.com/god , "founder mode" is already outdated, "god mode" i
 18
 
 https://nabeelqu.co/reflections-on-palantir , amazing article about palantir
+
+https://nabeelqu.co/principles , great principles
+
+https://nabeelqu.co/advice , great advice
+
+https://nabeelqu.co/understanding , the honesty of understanding
