@@ -2052,3 +2052,7 @@ https://nabeelqu.co/principles , great principles
 https://nabeelqu.co/advice , great advice
 
 https://nabeelqu.co/understanding , the honesty of understanding
+
+19
+
+https://jxnl.github.io/blog/writing/2024/01/11/anatomy-of-a-tweet , a great way to present the growth of account details
