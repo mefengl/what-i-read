@@ -2056,3 +2056,7 @@ https://nabeelqu.co/understanding , the honesty of understanding
 19
 
 https://jxnl.github.io/blog/writing/2024/01/11/anatomy-of-a-tweet , a great way to present the growth of account details
+
+22
+
+https://www.justinmath.com/your-mathematical-potential-has-a-limit-but-its-likely-higher-than-you-think , talk about math and iq
