@@ -2060,3 +2060,11 @@ https://jxnl.github.io/blog/writing/2024/01/11/anatomy-of-a-tweet , a great way 
 22
 
 https://www.justinmath.com/your-mathematical-potential-has-a-limit-but-its-likely-higher-than-you-think , talk about math and iq
+
+24
+
+https://simonwillison.net/2024/Oct/21/claude-artifacts , it's so cool
+
+25
+
+https://sspai.com/post/93225 , a real account of food delivery
