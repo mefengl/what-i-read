@@ -2068,3 +2068,7 @@ https://simonwillison.net/2024/Oct/21/claude-artifacts , it's so cool
 25
 
 https://sspai.com/post/93225 , a real account of food delivery
+
+https://cybernetist.com/2024/03/11/importance-of-getting-the-foundations-right , "foundation matters"
+
+https://cybernetist.com/2022/01/01/a-few-counterintuitive-ideas , very inspiring
