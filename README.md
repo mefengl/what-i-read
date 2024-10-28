@@ -2080,3 +2080,5 @@ https://cybernetist.com/2022/01/01/a-few-counterintuitive-ideas , very inspiring
 https://www.readwriteinvest.com/p/twitter-threads-archive-2024 , very interesting writing format
 
 https://cybernetist.com/2023/11/05/some-career-advice-for-engineers , very useful advice
+
+https://dynomight.net/arithmetic , "arithmetic" is a good tool
