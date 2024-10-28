@@ -2074,3 +2074,7 @@ https://sspai.com/post/93225 , a real account of food delivery
 https://cybernetist.com/2024/03/11/importance-of-getting-the-foundations-right , "foundation matters"
 
 https://cybernetist.com/2022/01/01/a-few-counterintuitive-ideas , very inspiring
+
+28
+
+https://www.readwriteinvest.com/p/twitter-threads-archive-2024 , very interesting writing format
