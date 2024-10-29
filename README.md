@@ -2086,3 +2086,5 @@ https://dynomight.net/arithmetic , "arithmetic" is a good tool
 29
 
 https://seths.blog/2024/10/boring-to-who , know the gap between you and a non-professional
+
+https://fhur.me/posts/2024/thats-not-an-abstraction , a clean defination of abstraction
