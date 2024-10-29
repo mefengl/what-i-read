@@ -2082,3 +2082,7 @@ https://www.readwriteinvest.com/p/twitter-threads-archive-2024 , very interestin
 https://cybernetist.com/2023/11/05/some-career-advice-for-engineers , very useful advice
 
 https://dynomight.net/arithmetic , "arithmetic" is a good tool
+
+29
+
+https://seths.blog/2024/10/boring-to-who , know the gap between you and a non-professional
