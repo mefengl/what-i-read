@@ -2088,3 +2088,9 @@ https://dynomight.net/arithmetic , "arithmetic" is a good tool
 https://seths.blog/2024/10/boring-to-who , know the gap between you and a non-professional
 
 https://fhur.me/posts/2024/thats-not-an-abstraction , a clean defination of abstraction
+
+## 2024-11
+
+01
+
+https://oasis-model.github.io , amazing experience
