@@ -2095,4 +2095,6 @@ https://fhur.me/posts/2024/thats-not-an-abstraction , a clean defination of abst
 
 https://oasis-model.github.io , amazing experience
 
+17
+
 https://www.lesswrong.com/posts/5jjk4CDnj9tA7ugxr/openai-email-archives-from-musk-v-altman , maybe the most important idea in this material is elon's attitude toward talented people
