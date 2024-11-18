@@ -2098,3 +2098,7 @@ https://oasis-model.github.io , amazing experience
 17
 
 https://www.lesswrong.com/posts/5jjk4CDnj9tA7ugxr/openai-email-archives-from-musk-v-altman , maybe the most important idea in this material is elon's attitude toward talented people
+
+18
+
+https://www.founderstribune.org/p/lessons-from-peter-thiel-by-joe-lonsdale , brutal words that I like
