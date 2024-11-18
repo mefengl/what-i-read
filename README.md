@@ -2104,3 +2104,5 @@ https://www.lesswrong.com/posts/5jjk4CDnj9tA7ugxr/openai-email-archives-from-mus
 18
 
 https://www.founderstribune.org/p/lessons-from-peter-thiel-by-joe-lonsdale , brutal words that I like
+
+https://www.founderstribune.org/p/how-to-be-elon-musk-by-justine-musk , obsessed
