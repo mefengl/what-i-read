@@ -10,6 +10,8 @@ The best way to memorize is to repeatedly read them.
 
 ### weekly
 
+https://www.founderstribune.org/p/lessons-from-peter-thiel-by-joe-lonsdale
+
 https://cybernetist.com/2024/03/11/importance-of-getting-the-foundations-right
 
 https://nabeelqu.co/reflections-on-palantir
