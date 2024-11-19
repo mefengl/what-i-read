@@ -2106,3 +2106,7 @@ https://www.lesswrong.com/posts/5jjk4CDnj9tA7ugxr/openai-email-archives-from-mus
 https://www.founderstribune.org/p/lessons-from-peter-thiel-by-joe-lonsdale , brutal words that I like
 
 https://www.founderstribune.org/p/how-to-be-elon-musk-by-justine-musk , obsessed
+
+19
+
+https://nousresearch.com/dsjjjj-simulacra-in-the-stupor-of-becoming , bring a touch of mysticism to llm theory in this article
