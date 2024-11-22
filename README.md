@@ -2111,4 +2111,6 @@ https://www.founderstribune.org/p/how-to-be-elon-musk-by-justine-musk , obsessed
 
 https://nousresearch.com/dsjjjj-simulacra-in-the-stupor-of-becoming , bring a touch of mysticism to llm theory in this article
 
+22
+
 https://x.com/techprimitives/status/1830538739669414221 , live example of 'founder mode'
