@@ -2114,3 +2114,5 @@ https://nousresearch.com/dsjjjj-simulacra-in-the-stupor-of-becoming , bring a to
 22
 
 https://x.com/techprimitives/status/1830538739669414221 , live example of 'founder mode'
+
+https://nlathia.github.io/2022/09/Tweet-destroyer.html , give me a new view of what the long-lived post means
