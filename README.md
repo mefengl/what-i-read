@@ -2128,3 +2128,5 @@ https://sspai.com/post/94280 , learned a lot about listening from this article
 https://www.lesswrong.com/posts/jBRGqtrm3RqPPkGd3/magnitudes-let-s-comprehend-the-incomprehensible , brave to reach out farther
 
 https://www.lesswrong.com/posts/kANyEjDDFWkhSKbcK/two-interviews-with-the-founder-of-deepseek , known deepseek
+
+https://www.lesswrong.com/posts/uwmFSaDMprsFkpWet/explore-more-a-bag-of-tricks-to-keep-your-life-on-the-rails , goal vs direction
