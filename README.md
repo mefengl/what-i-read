@@ -2121,4 +2121,10 @@ https://nlathia.github.io/2022/09/Tweet-destroyer.html , give me a new view of w
 
 https://sspai.com/post/94280 , learned a lot about listening from this article
 
+## 2024-12
+
+01
+
 https://www.lesswrong.com/posts/jBRGqtrm3RqPPkGd3/magnitudes-let-s-comprehend-the-incomprehensible , brave to reach out farther
+
+https://www.lesswrong.com/posts/kANyEjDDFWkhSKbcK/two-interviews-with-the-founder-of-deepseek , known deepseek
