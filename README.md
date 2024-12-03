@@ -2132,3 +2132,7 @@ https://www.lesswrong.com/posts/kANyEjDDFWkhSKbcK/two-interviews-with-the-founde
 https://www.lesswrong.com/posts/uwmFSaDMprsFkpWet/explore-more-a-bag-of-tricks-to-keep-your-life-on-the-rails , goal vs direction
 
 https://www.lesswrong.com/posts/rYq6joCrZ8m62m7ej/how-could-i-have-thought-that-faster , the idea of making success think chains faster is interesting
+
+03
+
+https://nielsleenheer.com/articles/2021/why-electron-apps-are-fine , electron is fine, good enough is fine
