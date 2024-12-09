@@ -2136,3 +2136,7 @@ https://www.lesswrong.com/posts/rYq6joCrZ8m62m7ej/how-could-i-have-thought-that-
 03
 
 https://nielsleenheer.com/articles/2021/why-electron-apps-are-fine , electron is fine, good enough is fine
+
+10
+
+https://x.com/yacineMTB/status/1866247664121282874 , pride and professional
