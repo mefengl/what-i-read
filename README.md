@@ -80,6 +80,8 @@ https://collabfund.com/blog/rare-skills
 
 ### monthly
 
+https://qntm.org/mmacevedo
+
 https://www.kalzumeus.com/standing-invitation
 
 https://github.com/merlinmann/wisdom/blob/master/wisdom.md
@@ -2140,3 +2142,7 @@ https://nielsleenheer.com/articles/2021/why-electron-apps-are-fine , electron is
 10
 
 https://x.com/yacineMTB/status/1866247664121282874 , pride and professional
+
+11
+
+https://qntm.org/mmacevedo , disturbing but inspiring story about llm
