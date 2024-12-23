@@ -2150,3 +2150,7 @@ https://qntm.org/mmacevedo , disturbing but inspiring story about llm
 14
 
 https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-one-of-the-nations-great-musicians-cut-through-the-fog-of-a-dc-rush-hour-lets-find-out/2014/09/23/8a6d46da-4331-11e4-b47c-f5889e061e5f_story.html , few social experiments have been so beautifully written about and carefully studied
+
+23
+
+https://ratfactor.com/leaving-github , it has become a thing now
