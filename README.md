@@ -2154,3 +2154,5 @@ https://www.washingtonpost.com/lifestyle/magazine/pearls-before-breakfast-can-on
 23
 
 https://ratfactor.com/leaving-github , it has become a thing now
+
+https://interconnected.org/home/2024/12/10/transparency , an thought-provoking article about airpods and paths to equality
