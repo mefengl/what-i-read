@@ -2158,3 +2158,13 @@ https://ratfactor.com/leaving-github , it has become a thing now
 https://interconnected.org/home/2024/12/10/transparency , an thought-provoking article about airpods and paths to equality
 
 https://www.tnellen.com/cybereng/harrison.html , a story about a world where equality comes from harm, not help
+
+25
+
+https://simonwillison.net/2024/Dec/24/qvq , it's great to see the qwen team's hard work and skill behind all these models
+
+26
+
+https://andrewkelley.me/post/why-donating-to-musl-libc-project.html , I feel something real here
+
+https://andrewkelley.me/post/why-we-cant-have-nice-software.html , make "the" app
