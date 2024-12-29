@@ -2168,3 +2168,15 @@ https://simonwillison.net/2024/Dec/24/qvq , it's great to see the qwen team's ha
 https://andrewkelley.me/post/why-donating-to-musl-libc-project.html , I feel something real here
 
 https://andrewkelley.me/post/why-we-cant-have-nice-software.html , make "the" app
+
+28
+
+https://randomwire.com/why-japanese-web-design-is-so-different , at last I found the source of this finding
+
+https://arne.me/blog/we-need-more-zero-config-tools , "zero config" follows dhh's idea of "convention over configuration"
+
+29
+
+https://x.com/JacksonSteger/status/1873405964101292459 , people like elon and mrbeast can build a city outright
+
+https://x.com/iavins/status/1873382770203844884 , sqlite is fine
