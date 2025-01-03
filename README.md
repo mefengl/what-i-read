@@ -2179,4 +2179,16 @@ https://arne.me/blog/we-need-more-zero-config-tools , "zero config" follows dhh'
 
 https://x.com/JacksonSteger/status/1873405964101292459 , people like elon and mrbeast can build a city outright
 
-https://x.com/iavins/status/1873382770203844884 , sqlite is fine
+https://avi.im/blag/2024/sqlite-facts , sqlite is fine
+
+https://article.app/vincent/ai-s-lava-lamp-making-llms-creative , lava lamp is a great way to think about the creative side of llm
+
+## 2025-01
+
+03
+
+https://www.rugu.dev/en/blog/linux-asceticism , things got deep when it felt like faith
+
+04
+
+https://docs.google.com/document/d/1aEdTE-B6CSPPeUWYD-IgNVQVZM25f7MF-u9qn5KJJvo/mobilebasic , 2025 will be my year to go back to basics
