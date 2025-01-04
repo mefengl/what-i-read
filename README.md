@@ -2192,3 +2192,7 @@ https://www.rugu.dev/en/blog/linux-asceticism , things got deep when it felt lik
 04
 
 https://docs.google.com/document/d/1aEdTE-B6CSPPeUWYD-IgNVQVZM25f7MF-u9qn5KJJvo/mobilebasic , 2025 will be my year to go back to basics
+
+05
+
+https://docs.google.com/document/d/1-jBoSEVlryiX1IaSzV4vKuihDfm_LgXUznvSpl1T1kg , moving article, feel the same in many ways
