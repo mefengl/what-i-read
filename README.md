@@ -2200,3 +2200,7 @@ https://docs.google.com/document/d/1-jBoSEVlryiX1IaSzV4vKuihDfm_LgXUznvSpl1T1kg 
 8
 
 https://antfu.me/posts/epoch-semver , deep thinking on semver
+
+20
+
+https://bun.sh/blog/bun-v1.2 , happy to see such good work in the js world
