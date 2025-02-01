@@ -10,7 +10,7 @@ The best way to memorize is to repeatedly read them.
 
 ### weekly
 
-https://www.founderstribune.org/p/lessons-from-peter-thiel-by-joe-lonsdale
+https://www.8vc.com/resources/lessons-from-peter-thiel
 
 https://cybernetist.com/2024/03/11/importance-of-getting-the-foundations-right
 
@@ -2105,7 +2105,7 @@ https://www.lesswrong.com/posts/5jjk4CDnj9tA7ugxr/openai-email-archives-from-mus
 
 18
 
-https://www.founderstribune.org/p/lessons-from-peter-thiel-by-joe-lonsdale , brutal words that I like
+https://www.8vc.com/resources/lessons-from-peter-thiel , brutal words that I like
 
 https://www.founderstribune.org/p/how-to-be-elon-musk-by-justine-musk , obsessed
 
