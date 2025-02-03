@@ -2204,3 +2204,9 @@ https://antfu.me/posts/epoch-semver , deep thinking on semver
 20
 
 https://bun.sh/blog/bun-v1.2 , happy to see such good work in the js world
+
+## 2025-02
+
+03
+
+https://blog.yitianshijie.net/2025/02/03/sharing-is-pressuring , this article exemplifies clear writing that captures a hard-to-describe phenomenon
