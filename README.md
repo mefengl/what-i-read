@@ -2210,3 +2210,7 @@ https://bun.sh/blog/bun-v1.2 , happy to see such good work in the js world
 03
 
 https://blog.yitianshijie.net/2025/02/03/sharing-is-pressuring , this article exemplifies clear writing that captures a hard-to-describe phenomenon
+
+04
+
+https://sspai.com/post/95835 , an inspiring way to read
