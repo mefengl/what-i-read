@@ -2214,3 +2214,7 @@ https://blog.yitianshijie.net/2025/02/03/sharing-is-pressuring , this article ex
 04
 
 https://sspai.com/post/95835 , an inspiring way to read
+
+14
+
+https://basicappleguy.com/basicappleblog/apple-silicon-stickers , so cool to see the stickers
