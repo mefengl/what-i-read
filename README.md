@@ -2220,3 +2220,7 @@ https://sspai.com/post/95835 , an inspiring way to read
 https://basicappleguy.com/basicappleblog/apple-silicon-stickers , so cool to see the stickers
 
 https://world.hey.com/dhh/system-tests-have-failed-d90af718 , it broke my illusions about system testing
+
+25
+
+https://emilkowal.ski/ui/developing-taste , this exemplifies common sense well
