@@ -10,6 +10,8 @@ The best way to memorize is to repeatedly read them.
 
 ### weekly
 
+https://geohot.github.io/blog/jekyll/update/2025/02/19/nobody-will-profit.html
+
 https://www.8vc.com/resources/lessons-from-peter-thiel
 
 https://cybernetist.com/2024/03/11/importance-of-getting-the-foundations-right
