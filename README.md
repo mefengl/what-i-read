@@ -2224,3 +2224,7 @@ https://world.hey.com/dhh/system-tests-have-failed-d90af718 , it broke my illusi
 25
 
 https://emilkowal.ski/ui/developing-taste , this exemplifies common sense well
+
+27
+
+https://geohot.github.io/blog/jekyll/update/2025/02/19/nobody-will-profit.html , so touching
