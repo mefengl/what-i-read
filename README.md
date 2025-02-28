@@ -35,7 +35,7 @@ https://seths.blog/2024/07/the-lazy-jugglers
 https://www.sfwa.org/2011/12/14/guest-post-how-i-went-from-writing-2000-words-a-day-to-10000-words-a-day
 
 https://guzey.com/rare-talent
-
+G
 https://playbook.samaltman.com
 
 https://www.scattered-thoughts.net/writing/things-unlearned
@@ -2230,3 +2230,5 @@ https://emilkowal.ski/ui/developing-taste , this exemplifies common sense well
 27
 
 https://geohot.github.io/blog/jekyll/update/2025/02/19/nobody-will-profit.html , so touching
+
+https://blog.yitianshijie.net/2025/02/28/smart-is-the-new-celibate , very inspiring, "Using this kind of machine means focusing more on the spectacle of thinking, rather than thinking itself."
