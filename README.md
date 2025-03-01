@@ -2235,4 +2235,6 @@ https://blog.yitianshijie.net/2025/02/28/smart-is-the-new-celibate , very inspir
 
 ## 2025-03
 
+01
+
 https://annas-archive.org/blog/all-isbns-winners.html , winners' work is very impressive
