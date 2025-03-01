@@ -2232,3 +2232,7 @@ https://emilkowal.ski/ui/developing-taste , this exemplifies common sense well
 https://geohot.github.io/blog/jekyll/update/2025/02/19/nobody-will-profit.html , so touching
 
 https://blog.yitianshijie.net/2025/02/28/smart-is-the-new-celibate , very inspiring, "Using this kind of machine means focusing more on the spectacle of thinking, rather than thinking itself."
+
+## 2025-03
+
+https://annas-archive.org/blog/all-isbns-winners.html , winners' work is very impressive
