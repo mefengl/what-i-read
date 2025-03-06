@@ -2244,3 +2244,5 @@ https://annas-archive.org/blog/ai-copyright.html , a 20-year copyright term is a
 06
 
 https://antfu.me/posts/async-sync-in-between , such a neat way to solve problems
+
+https://mitchellh.com/writing/as-code , think of it as "as principle", it makes sense
