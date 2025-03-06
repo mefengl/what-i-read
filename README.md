@@ -2240,3 +2240,7 @@ https://blog.yitianshijie.net/2025/02/28/smart-is-the-new-celibate , very inspir
 https://annas-archive.org/blog/all-isbns-winners.html , winners' work is very impressive
 
 https://annas-archive.org/blog/ai-copyright.html , a 20-year copyright term is a good suggestion
+
+06
+
+https://antfu.me/posts/async-sync-in-between , such a neat way to solve problems
