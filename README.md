@@ -2246,3 +2246,7 @@ https://annas-archive.org/blog/ai-copyright.html , a 20-year copyright term is a
 https://antfu.me/posts/async-sync-in-between , such a neat way to solve problems
 
 https://mitchellh.com/writing/as-code , think of it as "as principle", it makes sense
+
+10
+
+https://www.lesswrong.com/posts/DfrSZaf3JC8vJdbZL/how-to-make-superbabies , the idea of finding the best embryo from many gives much food for thought
