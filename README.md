@@ -2250,3 +2250,5 @@ https://mitchellh.com/writing/as-code , think of it as "as principle", it makes 
 10
 
 https://www.lesswrong.com/posts/DfrSZaf3JC8vJdbZL/how-to-make-superbabies , the idea of finding the best embryo from many gives much food for thought
+
+https://markxu.com/Destroy , "destroy" compare to "addon" is interesting
