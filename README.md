@@ -2251,6 +2251,12 @@ https://mitchellh.com/writing/as-code , think of it as "as principle", it makes 
 
 https://www.lesswrong.com/posts/DfrSZaf3JC8vJdbZL/how-to-make-superbabies , the idea of finding the best embryo from many gives much food for thought
 
+11
+
 https://markxu.com/Destroy , "destroy" compare to "addon" is interesting
 
 https://markxu.com/How-To-Fashion , really good tips on how to get better fitting clothes
+
+13
+
+https://near.blog/personality-basins , how genes shape our traits through gradient-like paths is interesting
