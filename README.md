@@ -2260,3 +2260,7 @@ https://markxu.com/How-To-Fashion , really good tips on how to get better fittin
 13
 
 https://near.blog/personality-basins , how genes shape our traits through gradient-like paths is interesting
+
+14
+
+https://steveklabnik.com/writing/choosing-languages , because it's "migration" not "rewrite", so using go is a good pick, truly a wise choice
