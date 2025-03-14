@@ -2264,3 +2264,5 @@ https://near.blog/personality-basins , how genes shape our traits through gradie
 14
 
 https://steveklabnik.com/writing/choosing-languages , because it's "migration" not "rewrite", so using go is a good pick, truly a wise choice
+
+https://nilsnh.no/2023/09/02/celebrating-8-years-of-self-hosting-mail-in-a-box , self-hosting mail is cool
