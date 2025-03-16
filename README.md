@@ -2197,7 +2197,7 @@ https://docs.google.com/document/d/1aEdTE-B6CSPPeUWYD-IgNVQVZM25f7MF-u9qn5KJJvo/
 
 05
 
-https://docs.google.com/document/d/1-jBoSEVlryiX1IaSzV4vKuihDfm_LgXUznvSpl1T1kg , moving article, feel the same in many ways
+https://docs.google.com/document/d/1-jBoSEVlryiX1IaSzF4vKuihDfm_LgXUznvSpl1T1kg , moving article, feel the same in many ways
 
 8
 
@@ -2266,3 +2266,9 @@ https://near.blog/personality-basins , how genes shape our traits through gradie
 https://steveklabnik.com/writing/choosing-languages , because it's "migration" not "rewrite", so using go is a good pick, truly a wise choice
 
 https://nilsnh.no/2023/09/02/celebrating-8-years-of-self-hosting-mail-in-a-box , self-hosting mail is cool
+
+16
+
+https://lukastrumm.com/blog/2022/how-i-work/ , strongly resonate with this
+
+https://lukastrumm.com/notes/key-values/ , this one too
