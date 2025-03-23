@@ -2272,3 +2272,11 @@ https://nilsnh.no/2023/09/02/celebrating-8-years-of-self-hosting-mail-in-a-box ,
 https://lukastrumm.com/blog/2022/how-i-work/ , strongly resonate with this
 
 https://lukastrumm.com/notes/key-values/ , this one too
+
+23
+
+https://vintagedata.org/blog/posts/what-is-mid-training , "mid training"
+
+https://vintagedata.org/blog/posts/model-is-the-product , model as a service
+
+https://vintagedata.org/blog/posts/designing-llm-agents , same
