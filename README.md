@@ -2280,3 +2280,7 @@ https://vintagedata.org/blog/posts/what-is-mid-training , "mid training"
 https://vintagedata.org/blog/posts/model-is-the-product , model as a service
 
 https://vintagedata.org/blog/posts/designing-llm-agents , same
+
+26
+
+https://web.archive.org/web/20250326135802/https://threadreaderapp.com/thread/1904647316327588140.html , feel the same way. the industry has great potential, and there are many things worth doing in this world
