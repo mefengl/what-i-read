@@ -2284,3 +2284,7 @@ https://vintagedata.org/blog/posts/designing-llm-agents , same
 26
 
 https://web.archive.org/web/20250326135802/https://threadreaderapp.com/thread/1904647316327588140.html , feel the same way. the industry has great potential, and there are many things worth doing in this world
+
+## 2025-04
+
+https://medium.com/@arcthur/re-designed-chart-for-react-fbb31cf78415 , no need for brilliant ideas to make a good react library, you just need to follow its basic ideas
