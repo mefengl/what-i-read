@@ -2287,4 +2287,8 @@ https://web.archive.org/web/20250326135802/https://threadreaderapp.com/thread/19
 
 ## 2025-04
 
+01
+
 https://medium.com/@arcthur/re-designed-chart-for-react-fbb31cf78415 , no need for brilliant ideas to make a good react library, you just need to follow its basic ideas
+
+https://www.piratewires.com/p/doge-brown-university-student-email-admininstrative-staff , cool
