@@ -2294,3 +2294,7 @@ https://medium.com/@arcthur/re-designed-chart-for-react-fbb31cf78415 , no need f
 https://www.piratewires.com/p/doge-brown-university-student-email-admininstrative-staff , cool
 
 https://www.tumblr.com/sadoeuphemist/169919776656/writing-prompt-s-temples-are-built-for-gods , it's truly a masterpiece
+
+02
+
+https://levels.io/eighteen , still think it brings a lot of insight, but can't take everything inside literally
