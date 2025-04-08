@@ -2306,3 +2306,5 @@ https://ericneyman.wordpress.com/2025/03/24/will-jesus-christ-return-in-an-elect
 08
 
 https://alperenkeles.com/posts/verifiability-is-the-limit , "verifiability is the limit"
+
+https://threadreaderapp.com/thread/1876606275397841062.html , why "verifiability is the limit"
