@@ -2302,3 +2302,7 @@ https://levels.io/eighteen , still think it brings a lot of insight, but can't t
 07
 
 https://ericneyman.wordpress.com/2025/03/24/will-jesus-christ-return-in-an-election-year , jesus christ return in an election year
+
+08
+
+https://alperenkeles.com/posts/verifiability-is-the-limit , "verifiability is the limit"
