@@ -2310,3 +2310,7 @@ https://alperenkeles.com/posts/verifiability-is-the-limit , "verifiability is th
 https://threadreaderapp.com/thread/1876606275397841062.html , why "verifiability is the limit"
 
 https://sqlsync.dev/posts/stop-building-databases , "rebuilding databases" is a good idea that shows what we do in the complex state management world
+
+09
+
+https://www.quantamagazine.org/intelligence-evolved-at-least-twice-in-vertebrate-animals-20250407 , intelligence is normal
