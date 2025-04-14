@@ -264,7 +264,7 @@ https://fs.blog/twenty-five-pages-a-day/ , a nice strategy to read more, to me, 
 
 https://fs.blog/the-antilibrary/ , anti-library, what a great concept
 
-https://fs.blog/the-buffett-formula/ , amazing article, "I don’t know anyone wise who doesn’t read a lot"
+https://fs.blog/the-buffett-formula/ , amazing article, "I don't know anyone wise who doesn't read a lot"
 
 https://tegowerk.eu/posts/cruel-optimism/ , 'cruel optimism' and 'lazy optimism' is also two good concepts, like 'Pessimists are right, optimists succeed'
 
@@ -378,7 +378,7 @@ https://www.electronjs.org/blog/a-quiet-place-22 , the idea of a 'quiet month'
 
 https://davidamos.dev/email/b4a3476b-3737-4a30-afb7-4d687a55f829/ , reminds me of the importance to learn more strange languages like some DSLs
 
-https://alexkondov.com/accumulating-unintentional-tech-debt/ , "you could accumulate tech debt even if you don’t do anything", a sobering example
+https://alexkondov.com/accumulating-unintentional-tech-debt/ , "you could accumulate tech debt even if you don't do anything", a sobering example
 
 https://alexkondov.com/things-i-have-learned-about-interviewing/ , you can find a job without LeetCode (but not with nothing)
 
@@ -410,7 +410,7 @@ https://matklad.github.io/2020/09/13/your-language-sucks.html , interesting lang
 
 08
 
-https://matklad.github.io/2020/08/11/things-I-have-learned-about-life.html , "if it’s OK to love both your kids, than it should be OK to love both your partners, right?"
+https://matklad.github.io/2020/08/11/things-I-have-learned-about-life.html , "if it's OK to love both your kids, than it should be OK to love both your partners, right?"
 
 https://mindingourway.com/transmute-guilt-i/ ,  "Guilt was made for us, not us for it"
 
@@ -482,13 +482,13 @@ https://www.historydefined.net/sleeping-8-hours-per-night-is-a-surprisingly-new-
 
 19
 
-https://fs.blog/the-human-mind-has-a-shut-off-device/ , "Once you’ve formed a belief, adding exceptions and justifications becomes easier than updating it." same as "normal people believe the idea that comes last"
+https://fs.blog/the-human-mind-has-a-shut-off-device/ , "Once you've formed a belief, adding exceptions and justifications becomes easier than updating it." same as "normal people believe the idea that comes last"
 
 https://en.wikipedia.org/wiki/List_of_countries_by_suicide_rate , the answers of human being
 
 20
 
-https://sive.rs/hyn , "If you’re not feeling “hell yeah!” then say no"
+https://sive.rs/hyn , "If you're not feeling "hell yeah!" then say no"
 
 https://www.builder.io/blog/usesignal-is-the-future-of-web-frameworks , known the idea of `useSignal`
 
@@ -1175,7 +1175,7 @@ https://www.hecaitou.com/2023/07/Do-not-leave-the-good-stuff-for-the-next-day.ht
 
 https://andrewingram.net/posts/recipe-kits-a-great-alternative-to-installable-libraries , glad to see this idea of copy&paste component is getting popular, such as the coming Tailwind Catalyst.
 
-https://world.hey.com/jason/effective-productive-acfa210d , "Not doing something that isn’t worth doing is a wonderful way to spend your time"
+https://world.hey.com/jason/effective-productive-acfa210d , "Not doing something that isn't worth doing is a wonderful way to spend your time"
 
 https://world.hey.com/dhh/clear-the-barnacles-b9558830 , "barnacles" is such a good word to describe the "more is less".
 
@@ -1209,7 +1209,7 @@ https://www.lesswrong.com/s/FrqfoG3LJeCZs96Ym/p/GrDqnMjhqoxiqpQPw , Does humilit
 
 https://www.lesswrong.com/s/FrqfoG3LJeCZs96Ym/p/gWGA8Da539EQmAR9F , Faster! Stronger! Higher! Better!
 
-https://www.lesswrong.com/s/FrqfoG3LJeCZs96Ym/p/dLJv2CoRCgeC2mPgj , "I think it’s okay to be imperfect, but not so imperfect that other people notice."
+https://www.lesswrong.com/s/FrqfoG3LJeCZs96Ym/p/dLJv2CoRCgeC2mPgj , "I think it's okay to be imperfect, but not so imperfect that other people notice."
 
 https://www.lesswrong.com/s/3ELrPerFTSo75WnrH/p/qNZM3EGoE5ZeMdCRt , "Reversed Stupidity Is Not Intelligence"
 
@@ -1303,7 +1303,7 @@ https://dynomight.substack.com/p/humans , Basically, this article tells me that 
 
 15
 
-https://thezbook.com/code-first-vs-product-first , "If the product doesn’t work well, the code is not good." ⭐
+https://thezbook.com/code-first-vs-product-first , "If the product doesn't work well, the code is not good." ⭐
 
 https://mp.weixin.qq.com/s/oqJOaJJpu6eZa7sie0kRVw , AI industry status before 2023/09.
 
@@ -1383,7 +1383,7 @@ https://danmall.com/posts/how-much-of-a-rascal-are-you , The right way to promot
 
 06
 
-https://danmall.com/posts/commit-to-commit , "I’m not sure right now, but I can tell you in an hour."
+https://danmall.com/posts/commit-to-commit , "I'm not sure right now, but I can tell you in an hour."
 
 07
 
@@ -1809,7 +1809,7 @@ https://www.debugbear.com/blog/counting-chrome-extensions , amazing article abou
 
 15
 
-https://stack.convex.dev/caching-in , "Don’t think about caching"
+https://stack.convex.dev/caching-in , "Don't think about caching"
 
 https://blog.nateliason.com/p/de-atomization-is-the-secret-to-happiness , "Atomization" is a great concept, as is "De-Atomization"
 
@@ -1977,7 +1977,7 @@ https://guzey.com/writing-advice , writing advice from writer I like, what's mor
 
 https://www.talkhouse.com/lou-reed-of-the-velvet-underground-talks-kanye-wests-yeezus , rarely, there is one article that really tells the music from a feeling perspective, and it fits so well
 
-https://adamwathan.me/journal/2020/12/29/2020-year-in-review , what a year, it’s the miracle year for tailwindcss
+https://adamwathan.me/journal/2020/12/29/2020-year-in-review , what a year, it's the miracle year for tailwindcss
 
 06
 
@@ -2314,3 +2314,5 @@ https://sqlsync.dev/posts/stop-building-databases , "rebuilding databases" is a 
 09
 
 https://www.quantamagazine.org/intelligence-evolved-at-least-twice-in-vertebrate-animals-20250407 , intelligence is normal
+
+https://threadreaderapp.com/thread/1911584088688898526.html , just work
