@@ -2315,4 +2315,10 @@ https://sqlsync.dev/posts/stop-building-databases , "rebuilding databases" is a 
 
 https://www.quantamagazine.org/intelligence-evolved-at-least-twice-in-vertebrate-animals-20250407 , intelligence is normal
 
+14
+
 https://threadreaderapp.com/thread/1911584088688898526.html , just work
+
+15
+
+https://speechmap.substack.com/p/speechmapai-is-live , "Unlike most AI evaluations, which measure what models can do, SpeechMap.AI focuses on what they refuse to do: what they avoid, deflect, or shut down."
