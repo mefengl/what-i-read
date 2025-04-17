@@ -2324,3 +2324,7 @@ https://threadreaderapp.com/thread/1911584088688898526.html , just work
 https://speechmap.substack.com/p/speechmapai-is-live , "Unlike most AI evaluations, which measure what models can do, SpeechMap.AI focuses on what they refuse to do: what they avoid, deflect, or shut down."
 
 https://alexdanco.com/2025/02/07/manifest-destiny-returns , the article that i need at this moment to clear my confusion about this planet's destiny
+
+17
+
+https://lexfridman.com/cursor-team-transcript , cursor engineering is better than i thought
