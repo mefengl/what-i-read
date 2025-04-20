@@ -10,6 +10,8 @@ The best way to memorize is to repeatedly read them.
 
 ### weekly
 
+https://www.benkuhn.net/impact
+
 https://geohot.github.io/blog/jekyll/update/2025/02/19/nobody-will-profit.html
 
 https://www.8vc.com/resources/lessons-from-peter-thiel
@@ -2328,3 +2330,7 @@ https://alexdanco.com/2025/02/07/manifest-destiny-returns , the article that i n
 17
 
 https://lexfridman.com/cursor-team-transcript , cursor engineering is better than i thought
+
+20
+
+https://www.benkuhn.net/impact , amazingly good at describing how to do things
