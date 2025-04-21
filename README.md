@@ -2334,3 +2334,7 @@ https://lexfridman.com/cursor-team-transcript , cursor engineering is better tha
 20
 
 https://www.benkuhn.net/impact , amazingly good at describing how to do things
+
+21
+
+https://simonwillison.net/2025/Apr/21/ai-assisted-search , a good summary of the deep search series
