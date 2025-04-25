@@ -2338,3 +2338,9 @@ https://www.benkuhn.net/impact , amazingly good at describing how to do things
 21
 
 https://simonwillison.net/2025/Apr/21/ai-assisted-search , a good summary of the deep search series
+
+26
+
+https://letter.otherlife.co/p/the-next-5-years-of-other-life-part-2 , very inspiring for my future
+
+https://letter.otherlife.co/p/the-next-5-years-of-other-life-part-3 , same
