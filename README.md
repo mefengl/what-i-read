@@ -2347,6 +2347,8 @@ https://letter.otherlife.co/p/the-next-5-years-of-other-life-part-3 , same
 
 27
 
-https://thezvi.substack.com/p/ai-113-the-o3-era-begins , very good summary of my o3 shock
+https://thezvi.wordpress.com/2025/04/24/ai-113-the-o3-era-begins , very good summary of my o3 shock
+
+https://thezvi.wordpress.com/2025/04/22/you-better-mechanize , "mechanize" is a good concept
 
 https://ludwigabap.bearblog.dev/saturday-paper-reading , not the specific content, but the way of reading is very good
