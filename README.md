@@ -2351,4 +2351,6 @@ https://thezvi.wordpress.com/2025/04/24/ai-113-the-o3-era-begins , very good sum
 
 https://thezvi.wordpress.com/2025/04/22/you-better-mechanize , "mechanize" is a good concept
 
+https://thezvi.wordpress.com/2025/04/15/openai-13-altman-at-ted-and-openai-cutting-corners-on-safety-testing , just realized there's this other way to watch videos. Like that article about reading road signs, this showed me a new way to watch
+
 https://ludwigabap.bearblog.dev/saturday-paper-reading , not the specific content, but the way of reading is very good
