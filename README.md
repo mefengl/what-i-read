@@ -2344,3 +2344,7 @@ https://simonwillison.net/2025/Apr/21/ai-assisted-search , a good summary of the
 https://letter.otherlife.co/p/the-next-5-years-of-other-life-part-2 , very inspiring for my future
 
 https://letter.otherlife.co/p/the-next-5-years-of-other-life-part-3 , same
+
+27
+
+https://thezvi.substack.com/p/ai-113-the-o3-era-begins , very good summary of my o3 shock
