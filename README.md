@@ -2358,3 +2358,7 @@ https://ludwigabap.bearblog.dev/saturday-paper-reading , not the specific conten
 https://owenbroadcast.substack.com/p/parenting-as-redemption-arc , it touched me in some way
 
 https://www.techemails.com/p/mark-zuckerberg-peter-thiel-millennials , big think
+
+28
+
+https://epoch.ai/gradient-updates/how-much-energy-does-chatgpt-use , do feel like it a cool question to ask
