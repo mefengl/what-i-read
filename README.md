@@ -2354,3 +2354,7 @@ https://thezvi.wordpress.com/2025/04/22/you-better-mechanize , "mechanize" is a 
 https://thezvi.wordpress.com/2025/04/15/openai-13-altman-at-ted-and-openai-cutting-corners-on-safety-testing , just realized there's this other way to watch videos. Like that article about reading road signs, this showed me a new way to watch
 
 https://ludwigabap.bearblog.dev/saturday-paper-reading , not the specific content, but the way of reading is very good
+
+https://owenbroadcast.substack.com/p/parenting-as-redemption-arc , it touched me in some way
+
+https://www.techemails.com/p/mark-zuckerberg-peter-thiel-millennials , big think
