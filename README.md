@@ -2362,3 +2362,5 @@ https://www.techemails.com/p/mark-zuckerberg-peter-thiel-millennials , big think
 28
 
 https://epoch.ai/gradient-updates/how-much-energy-does-chatgpt-use , do feel like it a cool question to ask
+
+https://blog.vaxry.net/articles/2025-electronAintBad , electron is fine
