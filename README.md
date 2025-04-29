@@ -2368,3 +2368,7 @@ https://blog.vaxry.net/articles/2025-electronAintBad , electron is fine
 https://epoch.ai/gradient-updates/movarec-s-paradox , "moravec’s paradox" is interesting
 
 https://overreacted.io/what-does-use-client-do , after so much hard road of complexity, simple way has emerged
+
+29
+
+https://james-iry.blogspot.com/2012/02/too-dense.html , golf is a good way to think about code
