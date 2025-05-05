@@ -37,7 +37,7 @@ https://seths.blog/2024/07/the-lazy-jugglers
 https://www.sfwa.org/2011/12/14/guest-post-how-i-went-from-writing-2000-words-a-day-to-10000-words-a-day
 
 https://guzey.com/rare-talent
-G
+
 https://playbook.samaltman.com
 
 https://www.scattered-thoughts.net/writing/things-unlearned
@@ -2372,3 +2372,19 @@ https://overreacted.io/what-does-use-client-do , after so much hard road of comp
 29
 
 https://james-iry.blogspot.com/2012/02/too-dense.html , golf is a good way to think about code
+
+https://ponnekanti.net/posts/the-indifference-engine , llm is crazy, it is
+
+https://ponnekanti.net/posts/psychokinetics , really shows me the beauty of biology
+
+https://ponnekanti.net/posts/wellness-work-ethic , it's okay for something to be good and easy
+
+https://ponnekanti.net/posts/min-maxing , "min-maxing", i wait for some words for this concept for so long...
+
+## 2025-05
+
+05
+
+https://buttondown.com/thesephist/archive/radio-city , yeah, city could look like this
+
+https://emmettmcdow.com/posts/how-to-learn-a-foreign-language-like-a-software-engineer , better than i thought
