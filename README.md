@@ -2388,3 +2388,5 @@ https://ponnekanti.net/posts/min-maxing , "min-maxing", i wait for some words fo
 https://buttondown.com/thesephist/archive/radio-city , yeah, city could look like this
 
 https://emmettmcdow.com/posts/how-to-learn-a-foreign-language-like-a-software-engineer , better than i thought
+
+https://stevejobsarchive.com/exhibits/objects-of-our-life , great mind fit for many eras
