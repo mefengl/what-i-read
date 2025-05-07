@@ -2390,3 +2390,5 @@ https://buttondown.com/thesephist/archive/radio-city , yeah, city could look lik
 https://emmettmcdow.com/posts/how-to-learn-a-foreign-language-like-a-software-engineer , better than i thought
 
 https://stevejobsarchive.com/exhibits/objects-of-our-life , great mind fit for many eras
+
+https://cline.bot/blog/why-patterns-matter-lessons-from-hyper-growth-startups , "Once you have PMF, it's time to start implementing the basics – immediately!"
