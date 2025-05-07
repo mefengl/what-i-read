@@ -2391,4 +2391,8 @@ https://emmettmcdow.com/posts/how-to-learn-a-foreign-language-like-a-software-en
 
 https://stevejobsarchive.com/exhibits/objects-of-our-life , great mind fit for many eras
 
+07
+
 https://cline.bot/blog/why-patterns-matter-lessons-from-hyper-growth-startups , "Once you have PMF, it's time to start implementing the basics – immediately!"
+
+https://www.molsonhart.com/blog/america-underestimates-the-difficulty-of-bringing-manufacturing-back , very inspiring for both us and china
