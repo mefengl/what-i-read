@@ -2396,3 +2396,7 @@ https://stevejobsarchive.com/exhibits/objects-of-our-life , great mind fit for m
 https://cline.bot/blog/why-patterns-matter-lessons-from-hyper-growth-startups , "Once you have PMF, it's time to start implementing the basics – immediately!"
 
 https://www.molsonhart.com/blog/america-underestimates-the-difficulty-of-bringing-manufacturing-back , very inspiring for both us and china
+
+10
+
+https://www.hjorthjort.xyz/2018/02/21/the-deathbed-fallacy.html , "deathbed fallacy" is a good concept
