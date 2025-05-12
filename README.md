@@ -2404,3 +2404,5 @@ https://www.hjorthjort.xyz/2018/02/21/the-deathbed-fallacy.html , "deathbed fall
 11
 
 https://leerob.com/n/developer-marketing , "developer marketing"
+
+https://stream.thesephist.com/updates/1747018201 , "in well written codebases you can say a lot with a few words"
