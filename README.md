@@ -2401,4 +2401,6 @@ https://www.molsonhart.com/blog/america-underestimates-the-difficulty-of-bringin
 
 https://www.hjorthjort.xyz/2018/02/21/the-deathbed-fallacy.html , "deathbed fallacy" is a good concept
 
+11
+
 https://leerob.com/n/developer-marketing , "developer marketing"
