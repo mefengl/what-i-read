@@ -2410,3 +2410,7 @@ https://stream.thesephist.com/updates/1747018201 , "in well written codebases yo
 13
 
 https://basecamp.com/#features , write a tool like this
+
+15
+
+https://simonwillison.net/2025/May/13/launching-chatgpt-images , openai uses boring techs too
