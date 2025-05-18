@@ -2414,3 +2414,7 @@ https://basecamp.com/#features , write a tool like this
 15
 
 https://simonwillison.net/2025/May/13/launching-chatgpt-images , openai uses boring techs too
+
+19
+
+https://brr.fyi/posts/engineering-for-slow-internet , in the frontier, bits are more likely to be expensive
