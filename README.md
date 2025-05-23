@@ -2422,3 +2422,5 @@ https://brr.fyi/posts/engineering-for-slow-internet , in the frontier, bits are 
 23
 
 https://guzey.com/what-im-thinking-about , life like this
+
+https://www.astralcodexten.com/p/heuristics-that-almost-always-work , find the 0.01%
