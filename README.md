@@ -2418,3 +2418,7 @@ https://simonwillison.net/2025/May/13/launching-chatgpt-images , openai uses bor
 19
 
 https://brr.fyi/posts/engineering-for-slow-internet , in the frontier, bits are more likely to be expensive
+
+23
+
+https://guzey.com/what-im-thinking-about , life like this
