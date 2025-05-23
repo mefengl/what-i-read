@@ -2424,3 +2424,5 @@ https://brr.fyi/posts/engineering-for-slow-internet , in the frontier, bits are 
 https://guzey.com/what-im-thinking-about , life like this
 
 https://www.astralcodexten.com/p/heuristics-that-almost-always-work , find the 0.01%
+
+https://splittinginfinity.substack.com/p/sleep-need-reduction-therapies , interesting article about sleep less
