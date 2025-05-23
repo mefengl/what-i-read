@@ -10,6 +10,8 @@ The best way to memorize is to repeatedly read them.
 
 ### weekly
 
+https://threadreaderapp.com/thread/1917582090826137982.html
+
 https://www.benkuhn.net/impact
 
 https://geohot.github.io/blog/jekyll/update/2025/02/19/nobody-will-profit.html
@@ -2426,3 +2428,5 @@ https://guzey.com/what-im-thinking-about , life like this
 https://www.astralcodexten.com/p/heuristics-that-almost-always-work , find the 0.01%
 
 https://splittinginfinity.substack.com/p/sleep-need-reduction-therapies , interesting article about sleep less
+
+https://threadreaderapp.com/thread/1917582090826137982.html , the will to power
