@@ -2430,3 +2430,7 @@ https://www.astralcodexten.com/p/heuristics-that-almost-always-work , find the 0
 https://splittinginfinity.substack.com/p/sleep-need-reduction-therapies , interesting article about sleep less
 
 https://threadreaderapp.com/thread/1917582090826137982.html , the will to power
+
+25
+
+https://erikbern.com/2016/12/05/the-half-life-of-code.html , 3.33 year is the half life of code, so interesting
