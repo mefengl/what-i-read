@@ -2434,3 +2434,7 @@ https://threadreaderapp.com/thread/1917582090826137982.html , the will to power
 25
 
 https://erikbern.com/2016/12/05/the-half-life-of-code.html , 3.33 year is the half life of code, so interesting
+
+28
+
+https://resend.com/handbook/marketing/how-we-keep-momentum , another inspiring resend article
