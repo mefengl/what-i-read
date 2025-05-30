@@ -2438,3 +2438,9 @@ https://erikbern.com/2016/12/05/the-half-life-of-code.html , 3.33 year is the ha
 28
 
 https://resend.com/handbook/marketing/how-we-keep-momentum , another inspiring resend article
+
+30
+
+https://aella.substack.com/p/chattel-childhood , it's a relief to read this article
+
+https://aidanjs.com/blog/zugunruhe , "zugunruhe" is a good concept
