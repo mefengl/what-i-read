@@ -2444,3 +2444,9 @@ https://resend.com/handbook/marketing/how-we-keep-momentum , another inspiring r
 https://aella.substack.com/p/chattel-childhood , it's a relief to read this article
 
 https://aidanjs.com/blog/zugunruhe , "zugunruhe" is a good concept
+
+## 2025-06
+
+01
+
+https://blog.appsignal.com/2024/05/08/effective-testing-in-javascript.html , very good introduction to testing in javascript
