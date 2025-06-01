@@ -2450,3 +2450,5 @@ https://aidanjs.com/blog/zugunruhe , "zugunruhe" is a good concept
 01
 
 https://blog.appsignal.com/2024/05/08/effective-testing-in-javascript.html , very good introduction to testing in javascript
+
+https://rapidfullstackdevelopment.com/chapter-1 , maybe one of the best chapters in this book
