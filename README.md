@@ -2452,3 +2452,7 @@ https://aidanjs.com/blog/zugunruhe , "zugunruhe" is a good concept
 https://blog.appsignal.com/2024/05/08/effective-testing-in-javascript.html , very good introduction to testing in javascript
 
 https://rapidfullstackdevelopment.com/chapter-1 , maybe one of the best chapters in this book
+
+05
+
+https://cline.bot/blog/what-makes-a-coding-agent , clear article about coding agent details
