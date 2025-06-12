@@ -2456,3 +2456,5 @@ https://rapidfullstackdevelopment.com/chapter-1 , maybe one of the best chapters
 05
 
 https://cline.bot/blog/what-makes-a-coding-agent , clear article about coding agent details
+
+https://nostalgebraist.tumblr.com/post/785766737747574784/the-void , said something deep about llm
