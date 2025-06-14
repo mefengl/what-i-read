@@ -2458,3 +2458,7 @@ https://rapidfullstackdevelopment.com/chapter-1 , maybe one of the best chapters
 https://cline.bot/blog/what-makes-a-coding-agent , clear article about coding agent details
 
 https://nostalgebraist.tumblr.com/post/785766737747574784/the-void , said something deep about llm
+
+14
+
+https://overreacted.io/rsc-for-lisp-developers , "just quote" is a good explanation of "use client"
