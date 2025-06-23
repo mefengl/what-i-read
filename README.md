@@ -2462,3 +2462,10 @@ https://nostalgebraist.tumblr.com/post/785766737747574784/the-void , said someth
 14
 
 https://overreacted.io/rsc-for-lisp-developers , "just quote" is a good explanation of "use client"
+
+24
+
+https://www.nytimes.com/2023/06/12/magazine/mrbeast-youtube.html , amazing good article about mrbeast
+
+https://maxread.substack.com/p/whats-the-deal-with-all-those-weird , the advanced "hello"
+
