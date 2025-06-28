@@ -2469,5 +2469,11 @@ https://www.nytimes.com/2023/06/12/magazine/mrbeast-youtube.html , amazing good 
 
 https://maxread.substack.com/p/whats-the-deal-with-all-those-weird , the advanced "hello"
 
+27
+
 https://steipete.me/posts/2025/when-ai-meets-madness-peters-16-hour-days , "16 hour days", "20x output"
+
+28
+
+https://stack.convex.dev/caching-in , a good article about caching
 
