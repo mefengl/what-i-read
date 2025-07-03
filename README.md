@@ -2477,3 +2477,9 @@ https://steipete.me/posts/2025/when-ai-meets-madness-peters-16-hour-days , "16 h
 
 https://stack.convex.dev/caching-in , a good article about caching
 
+## 2025-07
+
+04
+
+https://world.hey.com/dhh/get-in-losers-we-re-moving-to-linux-5e1b93cd , linux yes
+
