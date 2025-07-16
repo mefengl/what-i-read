@@ -2483,3 +2483,9 @@ https://stack.convex.dev/caching-in , a good article about caching
 
 https://world.hey.com/dhh/get-in-losers-we-re-moving-to-linux-5e1b93cd , linux yes
 
+16
+
+https://asiatimes.com/2025/07/thucydides-trap-averted-china-speed-dodgy-data-and-the-houthis , provider some interesting perspectives
+
+https://justin.searls.co/posts/the-tshirts-i-buy , one right way to buy t-shirts
+
