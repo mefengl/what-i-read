@@ -2489,3 +2489,5 @@ https://asiatimes.com/2025/07/thucydides-trap-averted-china-speed-dodgy-data-and
 
 https://justin.searls.co/posts/the-tshirts-i-buy , one right way to buy t-shirts
 
+https://www.theatlantic.com/photography/archive/2025/07/photos-china-solar-power-energy/683488 , it's so beautiful
+
