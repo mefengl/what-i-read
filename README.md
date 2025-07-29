@@ -2495,3 +2495,7 @@ https://www.theatlantic.com/photography/archive/2025/07/photos-china-solar-power
 
 https://world.hey.com/jason/knives-and-battleships-ac8dc8c2 , also an option
 
+29
+
+https://longform.asmartbear.com/good-problems-to-have , move fast so breaking things
+
