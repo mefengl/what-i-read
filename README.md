@@ -2499,3 +2499,23 @@ https://world.hey.com/jason/knives-and-battleships-ac8dc8c2 , also an option
 
 https://longform.asmartbear.com/good-problems-to-have , move fast so breaking things
 
+https://tanstack.com/blog/tanstack-db-0.1-the-embedded-client-database-for-tanstack-query , we are still so early
+
+31
+
+https://arogozhnikov.github.io/2023/07/13/retrospective-thoughts-on-einops.html , "a system that is shaped by hard constraints"
+
+https://arogozhnikov.github.io/2023/01/29/migrations.html , future of db
+
+https://arogozhnikov.github.io/2022/11/29/delimiter-comes-first.html , future of fmt?
+
+## 2025-08
+
+https://mitchellh.com/writing/nix-with-dockerfiles , right way to docker
+
+https://threadreaderapp.com/thread/1951243907628724725.html , llm coding tips
+
+https://www.ivanmazour.com/the-apm-principle-what-starcraft-teaches-us-about-real-life-success , "I’ve written before about my time at Cambridge. Few people arriving there expect 10-14 hour days of mathematics, including weekends and holidays, to be possible, let alone reasonable. But seeing everyone around you doing it, what you expect of yourself changes, and you successfully do what you wouldn’t have even considered possible before."
+
+https://www.ivanmazour.com/single-most-unfair-advantage-person-can-get , i forgot how hard work i used to be
+
