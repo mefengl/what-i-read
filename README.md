@@ -2517,5 +2517,7 @@ https://threadreaderapp.com/thread/1951243907628724725.html , llm coding tips
 
 https://www.ivanmazour.com/the-apm-principle-what-starcraft-teaches-us-about-real-life-success , "I’ve written before about my time at Cambridge. Few people arriving there expect 10-14 hour days of mathematics, including weekends and holidays, to be possible, let alone reasonable. But seeing everyone around you doing it, what you expect of yourself changes, and you successfully do what you wouldn’t have even considered possible before."
 
-https://www.ivanmazour.com/single-most-unfair-advantage-person-can-get , i forgot how hard work i used to be
+https://www.ivanmazour.com/single-most-unfair-advantage-person-can-get , i forgot how hard-working i used to be
+
+https://www.ivanmazour.com/notification-protocol-vices-foductivity-distractions-happy-life , thing i forgot but now come back with better reasons
 
