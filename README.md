@@ -2531,3 +2531,5 @@ https://mariozechner.at/posts/2025-08-03-cchistory , interesting article aobut c
 
 https://balajis.com/p/ai-is-polytheistic-not-monotheistic , short and right
 
+https://zachperret.com/2025/04/04/st-umbrella , shit unbrella is a good concept
+
