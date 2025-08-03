@@ -2527,3 +2527,7 @@ https://www.ivanmazour.com/notification-protocol-vices-foductivity-distractions-
 
 https://mariozechner.at/posts/2025-08-03-cchistory , interesting article aobut claude code system prompt
 
+04
+
+https://balajis.com/p/ai-is-polytheistic-not-monotheistic , short and right
+
