@@ -2537,3 +2537,5 @@ https://zachperret.com/2025/04/04/st-umbrella , shit unbrella is a good concept
 
 https://lucumr.pocoo.org/2025/8/4/shitty-types , what is good type for llm
 
+https://lucumr.pocoo.org/2025/7/30/things-that-didnt-work , what is code means today
+
