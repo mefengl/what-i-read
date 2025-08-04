@@ -2533,3 +2533,7 @@ https://balajis.com/p/ai-is-polytheistic-not-monotheistic , short and right
 
 https://zachperret.com/2025/04/04/st-umbrella , shit unbrella is a good concept
 
+05
+
+https://lucumr.pocoo.org/2025/8/4/shitty-types , what is good type for llm
+
