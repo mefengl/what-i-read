@@ -2553,3 +2553,5 @@ https://stephango.com/concise , concise is a requirement to let ideas become mem
 
 https://stephango.com/in-good-hands , "in good hands" is a good concept, tanstack and dhh is like this
 
+https://stephango.com/vcware , "100% user-supported" so that "100% user-supported"
+
