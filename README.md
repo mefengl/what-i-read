@@ -2543,3 +2543,5 @@ https://stephango.com/ramblings , rambling channel is another way to adapt remot
 
 https://stephango.com/self-guarantee , "self guarantee" captures the right software mindset
 
+https://stephango.com/style , call it style is cool
+
