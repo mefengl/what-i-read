@@ -2547,3 +2547,5 @@ https://stephango.com/style , call it style is cool
 
 https://stephango.com/nibble , "nibble and your appetite will grow", nibble is a good word
 
+https://stephango.com/buy-wisely
+
