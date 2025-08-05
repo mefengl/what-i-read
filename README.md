@@ -2549,3 +2549,5 @@ https://stephango.com/nibble , "nibble and your appetite will grow", nibble is a
 
 https://stephango.com/buy-wisely , the cost of a thing
 
+https://stephango.com/concise , concise is a requirement to let ideas become memes
+
