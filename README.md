@@ -2563,3 +2563,5 @@ https://stephango.com/todos , a good ref to how to do todolist
 
 https://stephango.com/file-over-app , file over app, data over app, file over data too
 
+https://stephango.com/calmness , calm, there's always some room for play
+
