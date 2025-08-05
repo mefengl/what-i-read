@@ -2559,3 +2559,5 @@ https://stephango.com/understand , this world is going to eat you
 
 https://stephango.com/solving-problem-finding , don't forget to find problems when working too hard on easy jobs
 
+https://stephango.com/todos , a good ref to how to do todolist
+
