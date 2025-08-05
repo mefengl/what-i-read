@@ -2541,3 +2541,5 @@ https://lucumr.pocoo.org/2025/7/30/things-that-didnt-work , what is code means t
 
 https://stephango.com/ramblings , rambling channel is another way to adapt remote
 
+https://stephango.com/self-guarantee , "self guarantee" captures the right software mindset
+
