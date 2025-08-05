@@ -2555,3 +2555,5 @@ https://stephango.com/in-good-hands , "in good hands" is a good concept, tanstac
 
 https://stephango.com/vcware , "100% user-supported" so that "100% user-supported"
 
+https://stephango.com/understand , this world is going to eat you
+
