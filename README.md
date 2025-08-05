@@ -2545,3 +2545,5 @@ https://stephango.com/self-guarantee , "self guarantee" captures the right softw
 
 https://stephango.com/style , call it style is cool
 
+https://stephango.com/nibble , "nibble and your appetite will grow", nibble is a good word
+
