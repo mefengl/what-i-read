@@ -2557,3 +2557,5 @@ https://stephango.com/vcware , "100% user-supported" so that "100% user-supporte
 
 https://stephango.com/understand , this world is going to eat you
 
+https://stephango.com/solving-problem-finding , don't forget to find problems when working too hard on easy jobs
+
