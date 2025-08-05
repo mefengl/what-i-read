@@ -2551,3 +2551,5 @@ https://stephango.com/buy-wisely , the cost of a thing
 
 https://stephango.com/concise , concise is a requirement to let ideas become memes
 
+https://stephango.com/in-good-hands , "in good hands" is a good concept, tanstack and dhh is like this
+
