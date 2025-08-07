@@ -2575,3 +2575,5 @@ https://www.humaninvariant.com/blog/working , amazing article about the strange 
 
 https://www.humaninvariant.com/blog/time , i realise this at early 20s, but it is easy to forget
 
+https://www.humaninvariant.com/blog/cynical#embryo-selection-for-the-powerful-is-underway , another amazingly good article about this world
+
