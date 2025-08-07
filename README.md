@@ -2569,5 +2569,5 @@ https://stephango.com/calmness , calm, there's always some room for play
 
 https://stephango.com/evergreen-notes , known evergreen notes
 
-https://www.humaninvariant.com/blog/working , amazing article about the strange things when I joined work
+https://www.humaninvariant.com/blog/working , amazing article about the strange things after i joined work
 
