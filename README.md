@@ -38,6 +38,8 @@ https://seths.blog/2024/07/the-lazy-jugglers
 
 https://www.sfwa.org/2011/12/14/guest-post-how-i-went-from-writing-2000-words-a-day-to-10000-words-a-day
 
+https://www.humaninvariant.com/blog/working
+
 https://guzey.com/rare-talent
 
 https://playbook.samaltman.com
@@ -2566,4 +2568,6 @@ https://stephango.com/file-over-app , file over app, data over app, file over da
 https://stephango.com/calmness , calm, there's always some room for play
 
 https://stephango.com/evergreen-notes , known evergreen notes
+
+https://www.humaninvariant.com/blog/working , amazing article about the strange things that i join work
 
