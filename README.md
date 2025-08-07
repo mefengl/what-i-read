@@ -2545,6 +2545,8 @@ https://stephango.com/ramblings , rambling channel is another way to adapt remot
 
 https://stephango.com/self-guarantee , "self guarantee" captures the right software mindset
 
+07
+
 https://stephango.com/style , call it style is cool
 
 https://stephango.com/nibble , "nibble and your appetite will grow", nibble is a good word
@@ -2570,4 +2572,6 @@ https://stephango.com/calmness , calm, there's always some room for play
 https://stephango.com/evergreen-notes , known evergreen notes
 
 https://www.humaninvariant.com/blog/working , amazing article about the strange things after i joined work
+
+https://www.humaninvariant.com/blog/time , i realise this at early 20s, but it is easy to forget
 
