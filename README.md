@@ -2577,3 +2577,5 @@ https://www.humaninvariant.com/blog/time , i realise this at early 20s, but it i
 
 https://www.humaninvariant.com/blog/cynical#embryo-selection-for-the-powerful-is-underway , another amazingly good article about this world
 
+https://doriantaylor.com/inventors-paradox , it reverted my mind about how to get things done
+
