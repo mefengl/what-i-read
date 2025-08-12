@@ -2579,3 +2579,5 @@ https://www.humaninvariant.com/blog/cynical#embryo-selection-for-the-powerful-is
 
 https://doriantaylor.com/inventors-paradox , it reverted my mind about how to get things done
 
+https://www.justinmath.com/never-come-up-empty-handed , there's advice that's good but you should be in the environment that needs to use it, this is one
+
