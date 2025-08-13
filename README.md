@@ -2581,3 +2581,5 @@ https://doriantaylor.com/inventors-paradox , it reverted my mind about how to ge
 
 https://www.justinmath.com/never-come-up-empty-handed , there's advice that's good but you should be in the environment that needs to use it, this is one
 
+https://www.youtube.com/watch?v=2Xs5luF3Ip4 , know tulip
+
