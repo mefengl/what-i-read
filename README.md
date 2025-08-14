@@ -2583,3 +2583,5 @@ https://www.justinmath.com/never-come-up-empty-handed , there's advice that's go
 
 https://www.youtube.com/watch?v=2Xs5luF3Ip4 , know tulip
 
+https://zed.dev/blog/why-llms-cant-build-software , "the distinguishing factor of effective engineers is their ability to build and maintain clear mental models"
+
