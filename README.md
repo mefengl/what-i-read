@@ -2593,6 +2593,8 @@ https://www.readthesequences.com/The-Level-Above-Mine , "Maybe I just wasted too
 
 https://www.readthesequences.com/On-Doing-The-Impossible , "To do things that are very difficult or 'impossible', First you have to not run away. That takes seconds. Then you have to work. That takes hours. Then you have to stick at it. That takes years. Of these, I had to learn to do the first reliably instead of sporadically; the second is still a constant struggle for me; and the third comes naturally."
 
+https://outsidetext.substack.com/p/how-does-a-blind-model-see-the-earth , a fresh way to test model ability
+
 https://www.lesswrong.com/posts/9o3QBg2xJXcRCxGjS/working-hurts-less-than-procrastinating-we-fear-the-twinge , twinge fear is a good concept
 
 https://www.readthesequences.com/Make-An-Extraordinary-Effort , "extraordinary effort" is not "desperate effort", it clears my thoughts about what effort i should use
