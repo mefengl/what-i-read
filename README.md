@@ -110,7 +110,7 @@ https://www.lesswrong.com/posts/dkchEFnM9EYpW3bjK/why-and-how-to-graduate-early-
 
 https://fs.blog/the-buffett-formula
 
-https://www.lesswrong.com/s/gFvira6tHpLXnqCLH/p/2MD3NMLBPCqPfnfre
+https://www.readthesequences.com/Expecting-Short-Inferential-Distances
 
 https://www.cold-takes.com/the-duplicator
 
@@ -118,7 +118,7 @@ book: Four Thousand Weeks
 
 book: Programmer Brain
 
-https://www.lesswrong.com/s/M3TJ2fTCzoQq66NBJ/p/hwi8JQjspnMWyWs4g
+https://www.readthesequences.com/Burdensome-Details
 
 https://matt-rickard.com/reflections-on-10-000-hours-of-programming
 
@@ -162,7 +162,7 @@ https://www.cold-takes.com/the-most-important-century-in-a-nutshell/ , yet anoth
 
 12
 
-https://www.lesswrong.com/s/NBDFAKt3GbFwnwzQF/p/PBRWb2Em5SNeWYwwB , "The unexamined life is not worth living", like the footer 1 of this article
+https://www.readthesequences.com/Mysterious-Answers-To-Mysterious-Questions , "The unexamined life is not worth living", like the footer 1 of this article
 
 https://www.lesswrong.com/s/NBDFAKt3GbFwnwzQF/p/5JDkW4MYXit2CquLs , a good example of when not to believe
 
@@ -238,13 +238,13 @@ http://paulgraham.com/words.html , read it again, that's why self-machines like 
 
 https://seb.jambor.dev/posts/systemd-by-example-part-2-dependencies/ , known as the dependency part of systemd
 
-https://www.lesswrong.com/s/gFvira6tHpLXnqCLH/p/TGux5Fhcd7GmTfNGC , the real reason is 'invisible to the eye'
+https://www.readthesequences.com/The-Fallacy-Of-Gray , the real reason is 'invisible to the eye'
 
-https://www.lesswrong.com/s/gFvira6tHpLXnqCLH/p/2MD3NMLBPCqPfnfre , remind me of Elon's cache sentences
+https://www.readthesequences.com/Expecting-Short-Inferential-Distances , remind me of Elon's cache sentences
 
-https://www.lesswrong.com/s/gFvira6tHpLXnqCLH/p/dLJv2CoRCgeC2mPgj , fix my wrong view of the 'gray field'
+https://www.readthesequences.com/Hindsight-Devalues-Science , fix my wrong view of the 'gray field'
 
-https://www.lesswrong.com/s/gFvira6tHpLXnqCLH/p/rmAbiEKQDpDnZzcRf , a real-world example is always more absurd
+https://www.readthesequences.com/Illusion-Of-Transparency-Why-No-One-Understands-You , a real-world example is always more absurd
 
 21
 
@@ -278,11 +278,11 @@ https://tegowerk.eu/posts/cruel-optimism/ , 'cruel optimism' and 'lazy optimism'
 
 https://www.theatlantic.com/ideas/archive/2023/01/parents-saying-no-sleepovers-tiktok-controversy/672821/ , 'Sleepovers let kids get a slimpse of how other families live their lives'
 
-https://www.lesswrong.com/s/6xgy8XYEisLk3tCjH/p/nj8JKFoLSMEmD3RGp , 99% right need 34 evidence
+https://www.readthesequences.com/How-Much-Evidence-Does-It-Take , 99% right need 34 evidence
 
 https://www.lesswrong.com/s/6xgy8XYEisLk3tCjH/p/XTXWPQSEgoMkAupKt , nice article about the Bayes' Rule, "10000 women" and "bus driver's age" are good examples
 
-https://www.lesswrong.com/s/paoDwasxFpSpzwA2f/p/WBdvyyHLdxZSAMmoz , "see whether you can think without using those terms at all"
+https://www.readthesequences.com/Taboo-Your-Words , "see whether you can think without using those terms at all"
 
 27
 
@@ -434,7 +434,7 @@ https://mindingourway.com/defiance/ , "fuck these mortal constraints, I'm fixing
 
 https://mindingourway.com/self-signaling-the-ability-to-do-what-you-want/ , "Two bites left? Screw it, get me a take-out box.", "A problem isn't solved until it's solved automatically, without need for attention or willpower."
 
-https://www.lesswrong.com/s/paoDwasxFpSpzwA2f/p/kpRSCH7ALLcb6ucWM , fix my obsession with complexity
+https://www.readthesequences.com/Dissolving-The-Question , fix my obsession with complexity
 
 http://jlord.us/essential-electron/ , a good introduction to Electron
 
@@ -626,13 +626,13 @@ https://www.lesswrong.com/posts/8FsLyk6oDrhoqWEjB/pendulums-policy-level-decisio
 
 https://mp.weixin.qq.com/s/RlzIJItge7jjRqGwdu6-0Q , a refined article about ChatGPT
 
-https://www.lesswrong.com/posts/dLbkrPu5STNCBLRjr/applause-lights , If an idea looks completely unreasonable when flipped over, it means that the original idea is absolutely correct and absolutely meaningless
+https://www.readthesequences.com/Applause-Lights , If an idea looks completely unreasonable when flipped over, it means that the original idea is absolutely correct and absolutely meaningless
 
-https://www.lesswrong.com/posts/MwQRucYo6BZZwjKE7/einstein-s-arrogance , "Einstein's arrogance" is the pride of the person who does things
+https://www.readthesequences.com/Einsteins-Arrogance , "Einstein's arrogance" is the pride of the person who does things
 
-https://www.lesswrong.com/posts/f4txACqDWithRi7hs/occam-s-razor , a word added information or just extended the length of the sentence
+https://www.readthesequences.com/Occams-Razor , a word added information or just extended the length of the sentence
 
-https://www.lesswrong.com/posts/5JDkW4MYXit2CquLs/your-strength-as-a-rationalist , read again, this is the pride of a rationalist, there may be more posibilities that stories isn't true
+https://www.readthesequences.com/Your-Strength-As-A-Rationalist , read again, this is the pride of a rationalist, there may be more posibilities that stories isn't true
 
 https://letterstoanewdeveloper.com/2023/03/06/understanding-people-matters-more-than-understanding-tech/ , "people matter more than tech"
 
@@ -1211,13 +1211,13 @@ book: Four Thousand Weeks
 
 11
 
-https://www.lesswrong.com/s/FrqfoG3LJeCZs96Ym/p/GrDqnMjhqoxiqpQPw , Does humility make you stronger or weaker?
+https://www.readthesequences.com/The-Proper-Use-Of-Humility , Does humility make you stronger or weaker?
 
 https://www.lesswrong.com/s/FrqfoG3LJeCZs96Ym/p/gWGA8Da539EQmAR9F , Faster! Stronger! Higher! Better!
 
-https://www.lesswrong.com/s/FrqfoG3LJeCZs96Ym/p/dLJv2CoRCgeC2mPgj , "I think it's okay to be imperfect, but not so imperfect that other people notice."
+https://www.readthesequences.com/The-Third-Alternative , "I think it's okay to be imperfect, but not so imperfect that other people notice."
 
-https://www.lesswrong.com/s/3ELrPerFTSo75WnrH/p/qNZM3EGoE5ZeMdCRt , "Reversed Stupidity Is Not Intelligence"
+https://www.readthesequences.com/Reversed-Stupidity-Is-Not-Intelligence , "Reversed Stupidity Is Not Intelligence"
 
 book: Programmer Brain
 
@@ -1225,9 +1225,9 @@ https://www.lesswrong.com/posts/nEBbw2Bc2CnN2RMxy/gears-level-models-are-capital
 
 https://www.lesswrong.com/s/pmHZDpak4NeRLLLCw/p/BaCWFCxBQYjJXSsah , pretrain your mind
 
-https://www.lesswrong.com/s/M3TJ2fTCzoQq66NBJ/p/hwi8JQjspnMWyWs4g , "Splitting the Great Idea into parts; Treating every additional detail as burdensome;" ⭐
+https://www.readthesequences.com/Burdensome-Details , "Splitting the Great Idea into parts; Treating every additional detail as burdensome;" ⭐
 
-https://www.lesswrong.com/s/5bZZZJ5psXrrD5BGb/p/qRWfvgJG75ESLRNu9 , "opps"
+https://www.readthesequences.com/Conservation-Of-Expected-Evidence , "opps"
 
 12
 
@@ -2589,15 +2589,15 @@ https://zed.dev/blog/why-llms-cant-build-software , "the distinguishing factor o
 
 https://www.bloomberg.com/news/articles/2025-08-15/what-the-us-can-learn-from-engineering-in-china , "not just about infrastructure, it's also about population and social engineering"
 
-https://www.lesswrong.com/posts/kXSETKZ3X9oidMozA/the-level-above-mine , "Maybe I just wasted too much time on setting up the resources to support me, instead of studying math full-time through my whole youth; or I wasted too much youth on non-mathy ideas. And this choice, my past, is irrevocable. I'll hit a brick wall at 40, and there won't be anything left but to pass on the resources to another mind with the potential I wasted, still young enough to learn"
+https://www.readthesequences.com/The-Level-Above-Mine , "Maybe I just wasted too much time on setting up the resources to support me, instead of studying math full-time through my whole youth; or I wasted too much youth on non-mathy ideas. And this choice, my past, is irrevocable. I'll hit a brick wall at 40, and there won't be anything left but to pass on the resources to another mind with the potential I wasted, still young enough to learn"
 
-https://www.lesswrong.com/s/3szfzHZr7EYGSWt92/p/fpecAJLG9czABgCe9 , "To do things that are very difficult or 'impossible', First you have to not run away. That takes seconds. Then you have to work. That takes hours. Then you have to stick at it. That takes years. Of these, I had to learn to do the first reliably instead of sporadically; the second is still a constant struggle for me; and the third comes naturally."
+https://www.readthesequences.com/On-Doing-The-Impossible , "To do things that are very difficult or 'impossible', First you have to not run away. That takes seconds. Then you have to work. That takes hours. Then you have to stick at it. That takes years. Of these, I had to learn to do the first reliably instead of sporadically; the second is still a constant struggle for me; and the third comes naturally."
 
 https://www.lesswrong.com/posts/9o3QBg2xJXcRCxGjS/working-hurts-less-than-procrastinating-we-fear-the-twinge , twinge fear is a good concept
 
-https://www.lesswrong.com/posts/GuEsfTpSDSbXFiseH/make-an-extraordinary-effort , "extraordinary effort" is not "desperate effort", it clears my thoughts about what effort i should use
+https://www.readthesequences.com/Make-An-Extraordinary-Effort , "extraordinary effort" is not "desperate effort", it clears my thoughts about what effort i should use
 
-https://www.lesswrong.com/posts/nCvvhFBaayaXyuBiD/shut-up-and-do-the-impossible , you can just do things but a more comprehensive version
+https://www.readthesequences.com/Shut-Up-And-Do-The-Impossible , you can just do things but a more comprehensive version
 
 https://xkcd.com/356 , always "nerd sniping" myself
 
