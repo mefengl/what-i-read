@@ -2599,3 +2599,5 @@ https://www.lesswrong.com/posts/GuEsfTpSDSbXFiseH/make-an-extraordinary-effort ,
 
 https://www.lesswrong.com/posts/nCvvhFBaayaXyuBiD/shut-up-and-do-the-impossible , you can just do things but a more comprehensive version
 
+https://xkcd.com/356 , always "nerd sniping" myself
+
