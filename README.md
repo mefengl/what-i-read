@@ -2545,7 +2545,7 @@ https://stephango.com/ramblings , rambling channel is another way to adapt remot
 
 https://stephango.com/self-guarantee , "self guarantee" captures the right software mindset
 
-17
+07
 
 https://stephango.com/style , call it style is cool
 
@@ -2571,6 +2571,8 @@ https://stephango.com/calmness , calm, there's always some room for play
 
 https://stephango.com/evergreen-notes , known evergreen notes
 
+17
+
 https://www.humaninvariant.com/blog/working , amazing article about the strange things after i joined work
 
 https://www.humaninvariant.com/blog/time , i realise this at early 20s, but it is easy to forget
@@ -2592,4 +2594,8 @@ https://www.lesswrong.com/posts/kXSETKZ3X9oidMozA/the-level-above-mine , "Maybe 
 https://www.lesswrong.com/s/3szfzHZr7EYGSWt92/p/fpecAJLG9czABgCe9 , "To do things that are very difficult or 'impossible', First you have to not run away. That takes seconds. Then you have to work. That takes hours. Then you have to stick at it. That takes years. Of these, I had to learn to do the first reliably instead of sporadically; the second is still a constant struggle for me; and the third comes naturally."
 
 https://www.lesswrong.com/posts/9o3QBg2xJXcRCxGjS/working-hurts-less-than-procrastinating-we-fear-the-twinge , twinge fear is a good concept
+
+https://www.lesswrong.com/posts/GuEsfTpSDSbXFiseH/make-an-extraordinary-effort , "extraordinary effort" is not "desperate effort", it clears my thoughts about what effort i should use
+
+https://www.lesswrong.com/posts/nCvvhFBaayaXyuBiD/shut-up-and-do-the-impossible , you can just do things but a more comprehensive version
 
