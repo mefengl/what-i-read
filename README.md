@@ -592,9 +592,9 @@ https://every.to/divinations/how-ideas-grow , only real value deserves to be sha
 
 https://www.lesswrong.com/posts/W5HcGywyPoDDdJtbz/trigger-action-planning , make TAPs
 
-https://www.lesswrong.com/posts/ZHWiCM4QmX8WwYajH/goal-factoring-1 , the goal is not the smallest unit of desire
+https://radimentary.wordpress.com/2018/02/26/goal-factoring , the goal is not the smallest unit of desire
 
-https://www.lesswrong.com/posts/dvzwqLbpSK2nD8Yvn/aversion-factoring , the aversion is not the smallest unit of "don't want"
+https://radimentary.wordpress.com/2018/02/04/hammertime-day-7-aversion-factoring , the aversion is not the smallest unit of "don't want"
 
 09
 
@@ -610,9 +610,9 @@ https://stevepulec.com/posts/small/ , nice examples of small team
 
 11
 
-https://www.lesswrong.com/posts/jiJquD34sa9Lyo5wc/resolve-cycles , you can always resolve the cycle in 5 minutes, cause you can always give up after all
+https://mindlevelup.wordpress.com/2017/02/20/resolve-post-cfar-3 , you can always resolve the cycle in 5 minutes, cause you can always give up after all
 
-https://www.lesswrong.com/posts/f3o9ydY7iPjFF2fyk/focusing-1 , amazing article, focus is not only do one thing, instead, it's literally like take a photo, the focus is about to align
+https://radimentary.wordpress.com/2018/02/25/focusing , amazing article, focus is not only do one thing, instead, it's literally like take a photo, the focus is about to align
 
 https://www.lesswrong.com/posts/WFEt8QHGrnSQzPa9W/bucket-errors , use a concept called "bucket" to store different kinds of ideas?
 
