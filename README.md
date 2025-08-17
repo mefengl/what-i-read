@@ -2587,3 +2587,5 @@ https://zed.dev/blog/why-llms-cant-build-software , "the distinguishing factor o
 
 https://www.bloomberg.com/news/articles/2025-08-15/what-the-us-can-learn-from-engineering-in-china , "not just about infrastructure, it's also about population and social engineering"
 
+https://www.lesswrong.com/posts/kXSETKZ3X9oidMozA/the-level-above-mine , "Maybe I just wasted too much time on setting up the resources to support me, instead of studying math full-time through my whole youth; or I wasted too much youth on non-mathy ideas. And this choice, my past, is irrevocable. I'll hit a brick wall at 40, and there won't be anything left but to pass on the resources to another mind with the potential I wasted, still young enough to learn"
+
