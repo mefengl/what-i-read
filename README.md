@@ -2589,3 +2589,5 @@ https://www.bloomberg.com/news/articles/2025-08-15/what-the-us-can-learn-from-en
 
 https://www.lesswrong.com/posts/kXSETKZ3X9oidMozA/the-level-above-mine , "Maybe I just wasted too much time on setting up the resources to support me, instead of studying math full-time through my whole youth; or I wasted too much youth on non-mathy ideas. And this choice, my past, is irrevocable. I'll hit a brick wall at 40, and there won't be anything left but to pass on the resources to another mind with the potential I wasted, still young enough to learn"
 
+https://www.lesswrong.com/s/3szfzHZr7EYGSWt92/p/fpecAJLG9czABgCe9 , "To do things that are very difficult or 'impossible', First you have to not run away. That takes seconds. Then you have to work. That takes hours. Then you have to stick at it. That takes years. Of these, I had to learn to do the first reliably instead of sporadically; the second is still a constant struggle for me; and the third comes naturally."
+
