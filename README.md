@@ -2603,3 +2603,7 @@ https://www.readthesequences.com/Shut-Up-And-Do-The-Impossible , you can just do
 
 https://xkcd.com/356 , always "nerd sniping" myself
 
+19
+
+https://every.to/source-code/my-ai-had-already-fixed-the-code-before-i-saw-it , they do many things at the right time, while i am a bit late
+
