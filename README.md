@@ -2605,6 +2605,8 @@ https://xkcd.com/356 , always "nerd sniping" myself
 
 https://pedramnavid.com/blog/dspy-part-one , know dspy
 
+https://giansegato.com/essays/probabilistic-era , first half is good
+
 19
 
 https://every.to/source-code/my-ai-had-already-fixed-the-code-before-i-saw-it , they do many things at the right time, while i am a bit late
