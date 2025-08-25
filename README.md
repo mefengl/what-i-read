@@ -2615,3 +2615,5 @@ https://giansegato.com/essays/probabilistic-era , first half is good
 
 https://giansegato.com/essays/agency-is-eating-the-world , interesting article about "agency"
 
+https://litestream.io/blog/why-i-built-litestream , know litestream
+
