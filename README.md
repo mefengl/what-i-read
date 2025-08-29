@@ -2619,6 +2619,10 @@ https://litestream.io/blog/why-i-built-litestream , know litestream
 
 https://thedataquarry.com/blog/learning-dspy-1-the-power-of-good-abstractions , know dspy
 
+28
+
+https://mitchellh.com/writing/prompt-engineering-transactional-prompting , "code generation can be objectively correct"
+
 29
 
 https://dkl9.net/essays/unpredictably.html , help them finish words is a good way
