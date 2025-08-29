@@ -2627,3 +2627,7 @@ https://mitchellh.com/writing/prompt-engineering-transactional-prompting , "code
 
 https://dkl9.net/essays/unpredictably.html , help them finish words is a good way
 
+30
+
+https://expandingawareness.org/blog/the-appropriate-amount-of-effort-is-zero , it got some sense in the deep, but can't take it literally
+
