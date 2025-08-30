@@ -2631,3 +2631,5 @@ https://dkl9.net/essays/unpredictably.html , help them finish words is a good wa
 
 https://expandingawareness.org/blog/the-appropriate-amount-of-effort-is-zero , it got some sense in the deep, but can't take it literally
 
+https://ethanniser.dev/blog/the-difficulty-of-complexity , quite good recommend for effect
+
