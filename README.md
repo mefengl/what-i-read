@@ -2633,3 +2633,7 @@ https://expandingawareness.org/blog/the-appropriate-amount-of-effort-is-zero , i
 
 https://ethanniser.dev/blog/the-difficulty-of-complexity , quite good recommend for effect
 
+31
+
+https://mitchellh.com/writing/feel-it , meeting is nothing about real work
+
