@@ -2637,3 +2637,5 @@ https://ethanniser.dev/blog/the-difficulty-of-complexity , quite good recommend 
 
 https://mitchellh.com/writing/feel-it , meeting is nothing about real work
 
+https://world.hey.com/jason/the-difference-between-time-and-attention-bdd955eb , not having attention is a better reason than not having time
+
