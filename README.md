@@ -2639,3 +2639,5 @@ https://mitchellh.com/writing/feel-it , meeting is nothing about real work
 
 https://world.hey.com/jason/the-difference-between-time-and-attention-bdd955eb , not having attention is a better reason than not having time
 
+https://thedataquarry.com/blog/learning-dspy-2-understanding-the-internals/ , know dspy, again
+
