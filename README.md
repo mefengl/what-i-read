@@ -2641,3 +2641,5 @@ https://world.hey.com/jason/the-difference-between-time-and-attention-bdd955eb ,
 
 https://thedataquarry.com/blog/learning-dspy-2-understanding-the-internals/ , know dspy, again
 
+https://emilkowal.ski/ui/you-dont-need-animations , common sense of animation
+
