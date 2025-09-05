@@ -2637,13 +2637,17 @@ https://ethanniser.dev/blog/the-difficulty-of-complexity , quite good recommend 
 
 https://mitchellh.com/writing/feel-it , meeting is nothing about real work
 
+## 2025-09
+
+02
+
 https://world.hey.com/jason/the-difference-between-time-and-attention-bdd955eb , not having attention is a better reason than not having time
 
 https://thedataquarry.com/blog/learning-dspy-2-understanding-the-internals/ , know dspy, again
 
-https://emilkowal.ski/ui/you-dont-need-animations , common sense of animation
+04
 
-## 2025-09
+https://emilkowal.ski/ui/you-dont-need-animations , common sense of animation
 
 05
 
