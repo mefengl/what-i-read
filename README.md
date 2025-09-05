@@ -2643,3 +2643,9 @@ https://thedataquarry.com/blog/learning-dspy-2-understanding-the-internals/ , kn
 
 https://emilkowal.ski/ui/you-dont-need-animations , common sense of animation
 
+## 2025-09
+
+05
+
+https://adamwiggins.com/posts/why-sync , sync is also a good concept and good idea to eliminate complexity
+
