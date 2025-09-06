@@ -2653,3 +2653,7 @@ https://emilkowal.ski/ui/you-dont-need-animations , common sense of animation
 
 https://adamwiggins.com/posts/why-sync , sync is also a good concept and good idea to eliminate complexity
 
+06
+
+https://www.raindrop.ai/blog/thoughts-on-evals , just raise up the concept of 'eval'
+
