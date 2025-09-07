@@ -2661,3 +2661,5 @@ https://www.raindrop.ai/blog/thoughts-on-evals , just raise up the concept of 'e
 
 https://borretti.me/article/my-backup-infrastructure-2025-edition , the right backup tutorial i need
 
+https://borretti.me/article/domain-agnostic-and-domain-specific-tools , agree with this, we need more domain specific tools
+
