@@ -86,6 +86,8 @@ https://visakanv.com/1000/0152-letter-to-a-young-songwriter
 
 https://collabfund.com/blog/rare-skills
 
+https://borretti.me/article/notes-on-managing-adhd
+
 ### monthly
 
 https://qntm.org/mmacevedo
