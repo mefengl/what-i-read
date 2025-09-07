@@ -2657,3 +2657,7 @@ https://adamwiggins.com/posts/why-sync , sync is also a good concept and good id
 
 https://www.raindrop.ai/blog/thoughts-on-evals , just raise up the concept of 'eval'
 
+07
+
+https://borretti.me/article/my-backup-infrastructure-2025-edition , the right backup tutorial i need
+
