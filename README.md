@@ -2663,3 +2663,5 @@ https://borretti.me/article/my-backup-infrastructure-2025-edition , the right ba
 
 https://borretti.me/article/domain-agnostic-and-domain-specific-tools , agree with this, we need more domain specific tools
 
+https://borretti.me/article/notes-on-managing-adhd , life saver article
+
