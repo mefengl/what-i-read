@@ -2667,3 +2667,7 @@ https://borretti.me/article/domain-agnostic-and-domain-specific-tools , agree wi
 
 https://borretti.me/article/notes-on-managing-adhd , life saver article
 
+10
+
+https://steipete.me/posts/2025/claude-code-anonymous , nice meetup format
+
