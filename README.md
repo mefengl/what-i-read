@@ -2671,3 +2671,5 @@ https://borretti.me/article/notes-on-managing-adhd , life saver article
 
 https://steipete.me/posts/2025/claude-code-anonymous , nice meetup format
 
+https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference , removing randomness in first layer is good, same as using frameworks or tests to eliminate randomness
+
