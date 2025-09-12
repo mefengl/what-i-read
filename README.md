@@ -2677,3 +2677,5 @@ https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference , rem
 
 https://longform.asmartbear.com/slc , when we say mvp, we say slc
 
+https://giuseppegurgone.com/comment-directives-claude-code , it's a pattern of doing things
+
