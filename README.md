@@ -2673,3 +2673,7 @@ https://steipete.me/posts/2025/claude-code-anonymous , nice meetup format
 
 https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference , removing randomness in first layer is good, same as using frameworks or tests to eliminate randomness
 
+12
+
+https://longform.asmartbear.com/slc , when we say mvp, we say slc
+
