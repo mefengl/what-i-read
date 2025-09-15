@@ -2679,3 +2679,7 @@ https://longform.asmartbear.com/slc , when we say mvp, we say slc
 
 https://giuseppegurgone.com/comment-directives-claude-code , it's a pattern of doing things
 
+15
+
+https://vaibhawvipul.github.io/2025/04/22/How-to-Hire-Engineers-Who-Ship-Kernels.html , "ship kernel" is a good expression
+
