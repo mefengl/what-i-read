@@ -2683,3 +2683,5 @@ https://giuseppegurgone.com/comment-directives-claude-code , it's a pattern of d
 
 https://vaibhawvipul.github.io/2025/04/22/How-to-Hire-Engineers-Who-Ship-Kernels.html , "ship kernel" is a good expression
 
+https://scyy.fi/mistakes/invite-at-hand , yet another good article about how to know people
+
