@@ -2687,3 +2687,7 @@ https://scyy.fi/mistakes/invite-at-hand , yet another good article about how to 
 
 https://cognition.cafe/p/the-eldritch-in-the-21st-century , a long thinking problem, it's 21st century's problem
 
+http://laputan.org/mud/mud.html , it summarizes almost all mid-sized project structures
+
+http://laputan.org/selfish/selfish.html , great article making library analogy to genes
+
