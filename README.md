@@ -2685,3 +2685,5 @@ https://vaibhawvipul.github.io/2025/04/22/How-to-Hire-Engineers-Who-Ship-Kernels
 
 https://scyy.fi/mistakes/invite-at-hand , yet another good article about how to know people
 
+https://cognition.cafe/p/the-eldritch-in-the-21st-century , a long thinking problem, it's 21st century's problem
+
