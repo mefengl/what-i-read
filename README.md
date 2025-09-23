@@ -2693,3 +2693,5 @@ http://laputan.org/selfish/selfish.html , great article making library analogy t
 
 https://world.hey.com/dhh/what-do-you-do-with-a-chance-24c0714b , i feel it, i know what it is
 
+https://www.lesswrong.com/posts/8kSGbaHTn2xph5Trw/teaching-my-toddler-to-read , kids using anki is interesting
+
