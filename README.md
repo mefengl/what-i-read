@@ -2691,3 +2691,5 @@ http://laputan.org/mud/mud.html , it summarizes almost all mid-sized project str
 
 http://laputan.org/selfish/selfish.html , great article making library analogy to genes
 
+https://world.hey.com/dhh/what-do-you-do-with-a-chance-24c0714b , i feel it, i know what it is
+
