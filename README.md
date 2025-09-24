@@ -2685,11 +2685,15 @@ https://vaibhawvipul.github.io/2025/04/22/How-to-Hire-Engineers-Who-Ship-Kernels
 
 https://scyy.fi/mistakes/invite-at-hand , yet another good article about how to know people
 
+16
+
 https://cognition.cafe/p/the-eldritch-in-the-21st-century , a long thinking problem, it's 21st century's problem
 
 http://laputan.org/mud/mud.html , it summarizes almost all mid-sized project structures
 
 http://laputan.org/selfish/selfish.html , great article making library analogy to genes
+
+23
 
 https://world.hey.com/dhh/what-do-you-do-with-a-chance-24c0714b , i feel it, i know what it is
 
