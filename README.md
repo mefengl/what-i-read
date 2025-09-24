@@ -2695,3 +2695,7 @@ https://world.hey.com/dhh/what-do-you-do-with-a-chance-24c0714b , i feel it, i k
 
 https://www.lesswrong.com/posts/8kSGbaHTn2xph5Trw/teaching-my-toddler-to-read , kids using anki is interesting
 
+24
+
+https://medium.com/@stevenmiller2/astartes-vs-secret-level-episode-5-2dec53289345 , those who care will care
+
