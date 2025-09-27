@@ -2705,3 +2705,5 @@ https://medium.com/@stevenmiller2/astartes-vs-secret-level-episode-5-2dec5328934
 
 https://neuralblog.github.io/scaling-up-self-attention-inference , agents can't scale in random tasks, because ability needs more compute and time
 
+https://supaiku.com/attention-is-logarithmic , another article about attention and scaling
+
