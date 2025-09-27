@@ -2703,3 +2703,5 @@ https://www.lesswrong.com/posts/8kSGbaHTn2xph5Trw/teaching-my-toddler-to-read , 
 
 https://medium.com/@stevenmiller2/astartes-vs-secret-level-episode-5-2dec53289345 , those who care will care
 
+https://neuralblog.github.io/scaling-up-self-attention-inference , agents can't scale in random tasks, because ability needs more compute and time
+
