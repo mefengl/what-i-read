@@ -2707,3 +2707,5 @@ https://neuralblog.github.io/scaling-up-self-attention-inference , agents can't 
 
 https://supaiku.com/attention-is-logarithmic , another article about attention and scaling
 
+https://www.lesswrong.com/posts/Di9muNKLA33swbHBa/you-re-probably-overestimating-how-well-you-understand , fresh way to think about some fake knowledge
+
