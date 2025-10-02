@@ -2703,11 +2703,13 @@ https://www.lesswrong.com/posts/8kSGbaHTn2xph5Trw/teaching-my-toddler-to-read , 
 
 https://medium.com/@stevenmiller2/astartes-vs-secret-level-episode-5-2dec53289345 , those who care will care
 
+https://www.lesswrong.com/posts/Di9muNKLA33swbHBa/you-re-probably-overestimating-how-well-you-understand , fresh way to think about some fake knowledge
+
+27
+
 https://neuralblog.github.io/scaling-up-self-attention-inference , agents can't scale in random tasks, because ability needs more compute and time
 
 https://supaiku.com/attention-is-logarithmic , another article about attention and scaling
-
-https://www.lesswrong.com/posts/Di9muNKLA33swbHBa/you-re-probably-overestimating-how-well-you-understand , fresh way to think about some fake knowledge
 
 ## 2025-10
 
