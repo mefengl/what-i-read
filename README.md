@@ -2709,3 +2709,11 @@ https://supaiku.com/attention-is-logarithmic , another article about attention a
 
 https://www.lesswrong.com/posts/Di9muNKLA33swbHBa/you-re-probably-overestimating-how-well-you-understand , fresh way to think about some fake knowledge
 
+## 2025-10
+
+02
+
+https://lindynewsletter.beehiiv.com/p/the-return-of-oral-culture , "oral culture" is interesting concept
+
+https://lindynewsletter.beehiiv.com/p/the-masculine-urge-to-walk-away , let it go and let it be
+
