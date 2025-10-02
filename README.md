@@ -2719,3 +2719,5 @@ https://lindynewsletter.beehiiv.com/p/the-return-of-oral-culture , "oral culture
 
 https://lindynewsletter.beehiiv.com/p/the-masculine-urge-to-walk-away , let it go and let it be
 
+https://www.dwarkesh.com/p/the-vital-question , attractive introduction to the vital question
+
