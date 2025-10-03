@@ -2721,3 +2721,7 @@ https://lindynewsletter.beehiiv.com/p/the-masculine-urge-to-walk-away , let it g
 
 https://www.dwarkesh.com/p/the-vital-question , attractive introduction to the vital question
 
+04
+
+https://mitchellh.com/writing/zig-builds-getting-faster , it matters
+
