@@ -2725,3 +2725,7 @@ https://www.dwarkesh.com/p/the-vital-question , attractive introduction to the v
 
 https://mitchellh.com/writing/zig-builds-getting-faster , it matters
 
+06
+
+https://geohot.github.io//blog/jekyll/update/2025/10/06/always-been-at-war.html , know decentralized
+
