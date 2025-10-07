@@ -2729,3 +2729,9 @@ https://mitchellh.com/writing/zig-builds-getting-faster , it matters
 
 https://geohot.github.io//blog/jekyll/update/2025/10/06/always-been-at-war.html , know decentralized
 
+07
+
+https://jeremymaluf.com/onebag/ , the exactlly article i need to ref
+
+https://jeremymaluf.com/pockets-only/ , same as above
+
