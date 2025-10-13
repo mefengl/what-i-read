@@ -2740,3 +2740,5 @@ https://arxiv.org/html/2507.06268v1 , the way to thinking about llm future by in
 13
 
 https://tinyclouds.org/humans/ , this idea is correct
+
+https://matthewpalmer.net/blog/2014/11/05/the-true-android-fragmentation/index.html , fragment is a good product design concept
