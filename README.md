@@ -2743,6 +2743,8 @@ https://tinyclouds.org/humans/ , this idea is correct
 
 https://matthewpalmer.net/blog/2014/11/05/the-true-android-fragmentation/index.html , fragment is a good product design concept
 
+https://matthewpalmer.net/blog/2015/01/21/getting-started-and-understanding-things-iphone/index.html , back-to-basics gtd loop for shipping iOS work without overthinking it
+
 14
 
 https://matthewpalmer.net/blog/2013/10/05/i-dont-want-to-pay-up-front-for-your-app/index.html , Freemium-style pricing beats upfront tollgates—let users reach value before paying, then convert with trials, in-app unlocks, or subs as the 2024 app revenue mix shows.
