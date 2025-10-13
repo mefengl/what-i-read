@@ -2737,3 +2737,6 @@ https://jeremymaluf.com/pockets-only/ , same as above
 
 https://arxiv.org/html/2507.06268v1 , the way to thinking about llm future by intenet future is interesting
 
+13
+
+https://tinyclouds.org/humans/ , this idea is correct
