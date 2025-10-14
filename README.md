@@ -2748,3 +2748,5 @@ https://matthewpalmer.net/blog/2015/01/21/getting-started-and-understanding-thin
 14
 
 https://matthewpalmer.net/blog/2013/10/05/i-dont-want-to-pay-up-front-for-your-app/index.html , Freemium-style pricing beats upfront tollgates—let users reach value before paying, then convert with trials, in-app unlocks, or subs as the 2024 app revenue mix shows.
+
+https://people.csail.mit.edu/rachit/post/stateless-advisor , extending stateless into meeting environment is brilliant
