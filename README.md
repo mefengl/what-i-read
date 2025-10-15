@@ -2768,3 +2768,7 @@ https://en.wikipedia.org/wiki/Critical_path_method , also this one
 https://www.unkey.com/blog/serverless-exit , very good together with dhh's earlier serverless-exit
 
 https://buttondown.com/justincormack/archive/ignore-previous-directions-8-devopsdays , good article about vm and docker and the history and the reason
+
+https://importai.substack.com/p/import-ai-431-technological-optimism , known anthropic
+
+https://gwern.net/doc/existential-risk/1940-sciam-harrington-nuclearweapons-dontworryitcanthappen.pdf , very related to today agi situation
