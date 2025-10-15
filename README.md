@@ -2754,3 +2754,5 @@ https://people.csail.mit.edu/rachit/post/stateless-advisor , extending stateless
 15
 
 https://frantic.im/remix-3 , damn, remive v3 looks cool
+
+https://old.reddit.com/r/ClaudeCode/comments/1o4j750/why_pathbased_pattern_matching_beats , many ideas from this post is more right than normal people thoughts
