@@ -2762,3 +2762,5 @@ https://dev.to/vuong_ngo/ai-keeps-breaking-your-architectural-patterns-documenta
 https://en.wikipedia.org/wiki/Amdahl%27s_law , parrell has it's limit, of course also in llm agent development
 
 https://en.wikipedia.org/wiki/Critical_path_method , also this one
+
+https://www.unkey.com/blog/serverless-exit , very good together with dhh's more early serverless-exit
