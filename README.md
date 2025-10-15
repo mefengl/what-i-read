@@ -2760,3 +2760,5 @@ https://old.reddit.com/r/ClaudeCode/comments/1o4j750/why_pathbased_pattern_match
 https://dev.to/vuong_ngo/ai-keeps-breaking-your-architectural-patterns-documentation-wont-fix-it-4dgj , same as above, especially the banner image
 
 https://en.wikipedia.org/wiki/Amdahl%27s_law , parrell has it's limit, of course also in llm agent development
+
+https://en.wikipedia.org/wiki/Critical_path_method , also this one
