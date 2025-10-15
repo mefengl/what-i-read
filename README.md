@@ -2764,3 +2764,5 @@ https://en.wikipedia.org/wiki/Amdahl%27s_law , parrell has it's limit, of course
 https://en.wikipedia.org/wiki/Critical_path_method , also this one
 
 https://www.unkey.com/blog/serverless-exit , very good together with dhh's more early serverless-exit
+
+https://buttondown.com/justincormack/archive/ignore-previous-directions-8-devopsdays , good article about vm and docker and the history and the reason
