@@ -2715,7 +2715,7 @@ https://supaiku.com/attention-is-logarithmic , another article about attention a
 
 02
 
-https://lindynewsletter.beehiiv.com/p/the-return-of-oral-culture , "oral culture" is interesting concept
+https://lindynewsletter.beehiiv.com/p/the-return-of-oral-culture , "oral culture" is an interesting concept
 
 https://lindynewsletter.beehiiv.com/p/the-masculine-urge-to-walk-away , let it go and let it be
 
@@ -2731,11 +2731,11 @@ https://geohot.github.io//blog/jekyll/update/2025/10/06/always-been-at-war.html 
 
 07
 
-https://jeremymaluf.com/onebag/ , the exactlly article i need to ref
+https://jeremymaluf.com/onebag/ , the exactly article i need to ref
 
 https://jeremymaluf.com/pockets-only/ , same as above
 
-https://arxiv.org/html/2507.06268v1 , the way to thinking about llm future by intenet future is interesting
+https://arxiv.org/html/2507.06268v1 , the way to think about llm future by internet future is interesting
 
 13
 
@@ -2753,9 +2753,9 @@ https://people.csail.mit.edu/rachit/post/stateless-advisor , extending stateless
 
 15
 
-https://frantic.im/remix-3 , damn, remive v3 looks cool
+https://frantic.im/remix-3 , damn, remix v3 looks cool
 
-https://old.reddit.com/r/ClaudeCode/comments/1o4j750/why_pathbased_pattern_matching_beats , many ideas from this post is more right than normal people thoughts
+https://old.reddit.com/r/ClaudeCode/comments/1o4j750/why_pathbased_pattern_matching_beats , many ideas from this post are more right than normal people's thoughts
 
 https://dev.to/vuong_ngo/ai-keeps-breaking-your-architectural-patterns-documentation-wont-fix-it-4dgj , same as above, especially the banner image
 
@@ -2772,3 +2772,7 @@ https://buttondown.com/justincormack/archive/ignore-previous-directions-8-devops
 https://importai.substack.com/p/import-ai-431-technological-optimism , known anthropic
 
 https://gwern.net/doc/existential-risk/1940-sciam-harrington-nuclearweapons-dontworryitcanthappen.pdf , very related to today agi situation
+
+18
+
+https://ecromata.com , great idea about eliminate scarcity
