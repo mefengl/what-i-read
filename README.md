@@ -2741,6 +2741,8 @@ https://arxiv.org/html/2507.06268v1 , the way to think about llm future by inter
 
 https://tinyclouds.org/humans/ , this idea is correct
 
+https://matthewpalmer.net/blog/2014/10/29/an-analysis-of-home-screen-layouts/index.html , finally i know how to config my home screen
+
 https://matthewpalmer.net/blog/2014/11/05/the-true-android-fragmentation/index.html , fragment is a good product design concept
 
 https://matthewpalmer.net/blog/2015/01/21/getting-started-and-understanding-things-iphone/index.html , back-to-basics gtd loop for shipping iOS work without overthinking it
