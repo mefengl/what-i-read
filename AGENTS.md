@@ -30,3 +30,6 @@ Before requesting review, ensure each entry answers “Why reread?” with a con
 
 ## 提交策略
 - 先清理代码，然后提交改动。简单改动直接提交，复杂改动看 diff 分次提交。
+
+## Date Context
+When adding entries, always run `date +%Y-%m-%d` to get the current date and determine the correct year-month section (e.g., `## 2025-10`) and day marker (just the day number like `19`). Never assume or guess the date.

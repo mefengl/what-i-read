@@ -2776,3 +2776,7 @@ https://gwern.net/doc/existential-risk/1940-sciam-harrington-nuclearweapons-dont
 18
 
 https://ecromata.com , great idea about eliminate scarcity
+
+19
+
+https://masonjwang.com/writing/reading-research , practical advice on how to read research papers
