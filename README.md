@@ -2782,3 +2782,5 @@ https://ecromata.com , great idea about eliminate scarcity
 19
 
 https://masonjwang.com/writing/reading-research , practical advice on how to read research papers
+
+https://thesephist.com/posts/stephenson-command-line , let difficult be simple, but not easy
