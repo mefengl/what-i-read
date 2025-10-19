@@ -2784,3 +2784,5 @@ https://ecromata.com , great idea about eliminate scarcity
 https://masonjwang.com/writing/reading-research , practical advice on how to read research papers
 
 https://thesephist.com/posts/stephenson-command-line , let difficult be simple, but not easy
+
+https://www.tweag.io/blog/2022-07-14-taming-unix-with-nix , taming unix with functional programming
