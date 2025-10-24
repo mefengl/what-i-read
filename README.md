@@ -2786,3 +2786,7 @@ https://masonjwang.com/writing/reading-research , practical advice on how to rea
 https://thesephist.com/posts/stephenson-command-line , let difficult be simple, but not easy
 
 https://www.tweag.io/blog/2022-07-14-taming-unix-with-nix , taming unix with functional programming
+
+24
+
+https://ampcode.com/news/handoff , clear solution to engineering handoffs is context
