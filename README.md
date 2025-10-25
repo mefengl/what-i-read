@@ -2790,3 +2790,7 @@ https://www.tweag.io/blog/2022-07-14-taming-unix-with-nix , taming unix with fun
 24
 
 https://ampcode.com/news/handoff , clear solution to engineering handoffs is context
+
+25
+
+https://shopify.engineering/what-is-nix , known nix
