@@ -2794,3 +2794,7 @@ https://ampcode.com/news/handoff , clear solution to engineering handoffs is con
 25
 
 https://shopify.engineering/what-is-nix , known nix
+
+26
+
+https://structuredprocrastination.com , good way to try
