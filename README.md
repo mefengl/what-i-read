@@ -2798,3 +2798,7 @@ https://shopify.engineering/what-is-nix , known nix
 26
 
 https://structuredprocrastination.com , good way to try
+
+27
+
+https://gwern.net/google-shutdown , the death of a software is predictable
