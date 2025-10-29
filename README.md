@@ -2804,3 +2804,7 @@ https://structuredprocrastination.com , good way to try
 https://gwern.net/google-shutdown , the death of a software is predictable
 
 https://www.joelonsoftware.com/2002/06/12/strategy-letter-v , have some fundamental things about opensource
+
+29
+
+https://xvw.lol/en/articles/why-ocaml.html , known ocaml
