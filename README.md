@@ -2808,3 +2808,9 @@ https://www.joelonsoftware.com/2002/06/12/strategy-letter-v , have some fundamen
 29
 
 https://xvw.lol/en/articles/why-ocaml.html , known ocaml
+
+## 2025-11
+
+02
+
+https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time , nice article inspire me of some new shell commands usage cases
