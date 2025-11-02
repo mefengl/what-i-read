@@ -2814,3 +2814,5 @@ https://xvw.lol/en/articles/why-ocaml.html , known ocaml
 02
 
 https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time , nice article inspire me of some new shell commands usage cases
+
+https://www.seangoedecke.com/predators , asymmetric DoS attacks on your time
