@@ -2830,3 +2830,5 @@ https://overreacted.io/how-to-fix-any-bug , explain how to debug with llm so cle
 https://overreacted.io/where-its-at , it reverse the order of user and platform, very interesting
 
 https://chrislakin.blog/p/flirting , it's inspiring, you can only be liked by the one predetermined
+
+https://www.amazon.science/blog/how-the-lean-language-brings-math-to-coding-and-coding-to-math , know lean
