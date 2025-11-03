@@ -2824,3 +2824,5 @@ https://entropicthoughts.com/you-want-technology-with-warts , yet another "using
 https://entropicthoughts.com/the-reinforcing-nature-of-toil , "toil" is a good concept
 
 https://overreacted.io/algebraic-effects-for-the-rest-of-us , know algebraic effects
+
+https://overreacted.io/how-to-fix-any-bug , explain how to debug with llm so clearly
