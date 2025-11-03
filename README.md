@@ -2820,3 +2820,5 @@ https://www.seangoedecke.com/predators , asymmetric DoS attacks on your time
 03
 
 https://entropicthoughts.com/you-want-technology-with-warts , yet another "using boring articles"
+
+https://entropicthoughts.com/the-reinforcing-nature-of-toil , "toil" is a good concept
