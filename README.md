@@ -2816,3 +2816,7 @@ https://xvw.lol/en/articles/why-ocaml.html , known ocaml
 https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time , nice article inspire me of some new shell commands usage cases
 
 https://www.seangoedecke.com/predators , asymmetric DoS attacks on your time
+
+03
+
+https://entropicthoughts.com/you-want-technology-with-warts , yet another "using boring articles"
