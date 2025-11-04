@@ -2834,3 +2834,5 @@ https://chrislakin.blog/p/flirting , it's inspiring, you can only be liked by th
 https://www.amazon.science/blog/how-the-lean-language-brings-math-to-coding-and-coding-to-math , know lean
 
 https://grahamc.com/blog/erase-your-darlings , one of the sources that sparked my genuine interest in nix
+
+https://signoregalilei.com/2025/11/03/i-ate-bear-fat-to-prove-a-point , create food from first principle
