@@ -2832,3 +2832,5 @@ https://overreacted.io/where-its-at , it reverse the order of user and platform,
 https://chrislakin.blog/p/flirting , it's inspiring, you can only be liked by the one predetermined
 
 https://www.amazon.science/blog/how-the-lean-language-brings-math-to-coding-and-coding-to-math , know lean
+
+https://grahamc.com/blog/erase-your-darlings , one of the sources that sparked my genuine interest in nix
