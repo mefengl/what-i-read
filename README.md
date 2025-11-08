@@ -2836,3 +2836,7 @@ https://www.amazon.science/blog/how-the-lean-language-brings-math-to-coding-and-
 https://grahamc.com/blog/erase-your-darlings , one of the sources that sparked my genuine interest in nix
 
 https://signoregalilei.com/2025/11/03/i-ate-bear-fat-to-prove-a-point , create food from first principle
+
+09
+
+https://prison.josh.mn/lessons , i like this way
