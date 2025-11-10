@@ -2844,3 +2844,7 @@ https://prison.josh.mn/lessons , i like this way to let people know my software
 10
 
 https://www.fastcompany.com/91435192/chatgpt-llm-openai-jobs-amazon , good observation about short term
+
+11
+
+https://aiming.pro/app#/workshop/15 , know mouse
