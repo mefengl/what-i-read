@@ -2840,3 +2840,7 @@ https://signoregalilei.com/2025/11/03/i-ate-bear-fat-to-prove-a-point , create f
 09
 
 https://prison.josh.mn/lessons , i like this way to let people know my software
+
+10
+
+https://www.fastcompany.com/91435192/chatgpt-llm-openai-jobs-amazon , good observation about short term继续
