@@ -2848,3 +2848,5 @@ https://www.fastcompany.com/91435192/chatgpt-llm-openai-jobs-amazon , good obser
 11
 
 https://aiming.pro/app#/workshop/15 , know mouse
+
+https://hexacera.com/posts/moving-google-photos , know google photo
