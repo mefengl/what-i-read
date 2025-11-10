@@ -2852,3 +2852,5 @@ https://aiming.pro/app#/workshop/15 , know mouse
 https://hexacera.com/posts/moving-google-photos , know google photo
 
 https://hexacera.com/posts/sticky-keys , know sticky keys
+
+https://hexacera.com/posts/keyboard-ergonomics , know keyboard
