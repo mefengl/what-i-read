@@ -2857,4 +2857,4 @@ https://hexacera.com/posts/keyboard-ergonomics , know keyboard
 
 12
 
-https://www.nushell.sh/book/how_nushell_code_gets_run.html , you got an idea, then you got a good shell
+https://www.nushell.sh/book/how_nushell_code_gets_run.html , you know what is good idea, you got a good shell
