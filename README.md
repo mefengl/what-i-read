@@ -2862,3 +2862,5 @@ https://www.nushell.sh/book/how_nushell_code_gets_run.html , you know what is go
 https://kristoff.it/blog/zig-new-async-io , know zig io
 
 https://kristoff.it/blog/asynchrony-is-not-concurrency , know asynchrony
+
+https://openai.com/index/building-chatgpt-atlas , interesting to know atlas's tech stack
