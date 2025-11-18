@@ -2870,3 +2870,5 @@ https://openai.com/index/building-chatgpt-atlas , interesting to know atlas's te
 https://sharif.io/anna-alexei , anther good article about party, always invite if you want, invite someone is more about yourself
 
 https://news.ycombinator.com/item?id=45348495 , hn comment on above link
+
+https://edwardpackard.com/wp-content/uploads/2025/10/Nine-Things-I-Learned-In-Ninety-Years.pdf , very very base ideas
