@@ -2864,3 +2864,9 @@ https://kristoff.it/blog/zig-new-async-io , know zig io
 https://kristoff.it/blog/asynchrony-is-not-concurrency , know asynchrony
 
 https://openai.com/index/building-chatgpt-atlas , interesting to know atlas's tech stack
+
+18
+
+https://sharif.io/anna-alexei , anther good article about party, always invite if you want, invite someone is more about yourself
+
+https://news.ycombinator.com/item?id=45348495 , hn comment on above link
