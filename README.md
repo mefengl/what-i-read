@@ -2872,3 +2872,7 @@ https://sharif.io/anna-alexei , anther good article about party, always invite i
 https://news.ycombinator.com/item?id=45348495 , hn comment on above link
 
 https://edwardpackard.com/wp-content/uploads/2025/10/Nine-Things-I-Learned-In-Ninety-Years.pdf , very very base ideas
+
+20
+
+https://underlap.org/software-convergence/ , software convergence
