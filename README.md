@@ -2878,3 +2878,5 @@ https://edwardpackard.com/wp-content/uploads/2025/10/Nine-Things-I-Learned-In-Ni
 https://underlap.org/software-convergence/ , convergent software, a very good description of test-driven development
 
 https://www.english-corpora.org/ai-llms/phrases.pdf , explains why LLM writing is easy to spot if you read a lot
+
+https://www.dbreunig.com/2025/06/22/how-contexts-fail-and-how-to-fix-them.html , very good article about different llm context problems
