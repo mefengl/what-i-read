@@ -2880,3 +2880,7 @@ https://underlap.org/software-convergence/ , convergent software, a very good de
 https://www.english-corpora.org/ai-llms/phrases.pdf , explains why LLM writing is easy to spot if you read a lot
 
 https://www.dbreunig.com/2025/06/22/how-contexts-fail-and-how-to-fix-them.html , very good article about different llm context problems
+
+28
+
+https://zed.dev/blog/nerd-sniped-project-search , very inspiring about searching
