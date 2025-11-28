@@ -2888,3 +2888,7 @@ https://zed.dev/blog/nerd-sniped-project-search , very inspiring about searching
 https://blog.danielh.cc/blog/passwords , inspiring about password management
 
 https://geohot.github.io//blog/jekyll/update/2025/11/28/replacing-my-macbook.html , "4W of those 7W are the CPU", i like this way of thinking, almost jumping straight to first principles
+
+29
+
+https://www.paradigm.xyz/2020/08/ethereum-is-a-dark-forest , very interesting story
