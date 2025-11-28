@@ -2884,3 +2884,5 @@ https://www.dbreunig.com/2025/06/22/how-contexts-fail-and-how-to-fix-them.html ,
 28
 
 https://zed.dev/blog/nerd-sniped-project-search , very inspiring about searching
+
+https://blog.danielh.cc/blog/passwords , inspiring about password management
