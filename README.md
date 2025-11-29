@@ -2892,3 +2892,5 @@ https://geohot.github.io//blog/jekyll/update/2025/11/28/replacing-my-macbook.htm
 29
 
 https://www.paradigm.xyz/2020/08/ethereum-is-a-dark-forest , very interesting story
+
+https://vitalik.eth.limo/general/2025/11/25/plinko.html , know PIR
