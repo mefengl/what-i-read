@@ -2897,7 +2897,7 @@ https://vitalik.eth.limo/general/2025/11/25/plinko.html , know PIR
 
 02
 
-https://tonsky.me/blog/needy-programs/ , good software is like ls: does what you need and stays quiet, no accounts, no forced updates, no notifications
+https://tonsky.me/blog/needy-programs/ , what good software is
 
 ## 2025-12
 
