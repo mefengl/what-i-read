@@ -2908,3 +2908,6 @@ https://bun.com/blog/bun-joins-anthropic , it's a good thing
 06
 
 https://resonantcomputing.org , better than i thought, "whoever controls the context holds the power"
+
+
+https://lightpanda.io/blog/posts/why-we-built-lightpanda-in-zig , know lightpanda
