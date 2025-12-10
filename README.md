@@ -2911,3 +2911,7 @@ https://resonantcomputing.org , better than i thought, "whoever controls the con
 
 
 https://lightpanda.io/blog/posts/why-we-built-lightpanda-in-zig , know lightpanda
+
+10
+
+https://alexsci.com/blog/calm-tech-discover , "calm tech" is an interesting concept
