@@ -2915,3 +2915,11 @@ https://lightpanda.io/blog/posts/why-we-built-lightpanda-in-zig , know lightpand
 10
 
 https://alexsci.com/blog/calm-tech-discover , "calm tech" is an interesting concept
+
+11
+
+https://radiccio.music/news/2025/10/22/introducing-radiccio , example of when people "take care"
+
+https://radiccio.music/news/2025/10/30/design-of-radiccio , same
+
+https://longform.asmartbear.com/delegation , "We hire smart people so they can tell us what to do."
