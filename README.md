@@ -2923,3 +2923,7 @@ https://radiccio.music/news/2025/10/22/introducing-radiccio , example of when pe
 https://radiccio.music/news/2025/10/30/design-of-radiccio , same
 
 https://longform.asmartbear.com/delegation , "We hire smart people so they can tell us what to do."
+
+14
+
+https://www.humaninvariant.com/blog/titles , "Title Arbitrage" is a good concept
