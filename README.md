@@ -2927,3 +2927,7 @@ https://longform.asmartbear.com/delegation , "We hire smart people so they can t
 14
 
 https://www.humaninvariant.com/blog/titles , "Title Arbitrage" is a good concept
+
+17
+
+https://afewthingz.com/browserbookmark , know '.url'
