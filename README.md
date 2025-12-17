@@ -2932,3 +2932,7 @@ https://www.humaninvariant.com/blog/titles , "Title Arbitrage" is a good concept
 https://afewthingz.com/browserbookmark , know '.url'
 
 https://afewthingz.com/touchesofcolouronconcrete , interesting perspective on subtle beauty in urban environments
+
+18
+
+https://jgthms.com/picknplace.js , very inspiring, similar to sticky key
