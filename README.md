@@ -2909,7 +2909,6 @@ https://bun.com/blog/bun-joins-anthropic , it's a good thing
 
 https://resonantcomputing.org , better than i thought, "whoever controls the context holds the power"
 
-
 https://lightpanda.io/blog/posts/why-we-built-lightpanda-in-zig , know lightpanda
 
 10
@@ -2931,3 +2930,5 @@ https://www.humaninvariant.com/blog/titles , "Title Arbitrage" is a good concept
 17
 
 https://afewthingz.com/browserbookmark , know '.url'
+
+https://afewthingz.com/touchesofcolouronconcrete , interesting perspective on subtle beauty in urban environments
