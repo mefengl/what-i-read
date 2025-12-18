@@ -2936,3 +2936,5 @@ https://afewthingz.com/touchesofcolouronconcrete , interesting perspective on su
 18
 
 https://jgthms.com/picknplace.js , very inspiring, similar to sticky key
+
+https://msanroman.io/blog/ai-consumption-paradigm , right way to think about it: "consuming, not creating"
