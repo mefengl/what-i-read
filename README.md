@@ -2938,3 +2938,7 @@ https://afewthingz.com/touchesofcolouronconcrete , interesting perspective on su
 https://jgthms.com/picknplace.js , very inspiring, similar to sticky key
 
 https://msanroman.io/blog/ai-consumption-paradigm , right way to think about it: "consuming, not creating"
+
+21
+
+https://annas-archive.li/blog/backing-up-spotify.html , 200TB is kind of small since it's Spotify backup
