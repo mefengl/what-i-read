@@ -2942,3 +2942,5 @@ https://msanroman.io/blog/ai-consumption-paradigm , right way to think about it:
 21
 
 https://annas-archive.li/blog/backing-up-spotify.html , 200TB is kind of small since it's Spotify backup
+
+https://thesquareplanet.com/blog/about-40-hours , great article about the work hours debate
