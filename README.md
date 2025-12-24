@@ -2948,3 +2948,7 @@ https://thesquareplanet.com/blog/about-40-hours , great article about the work h
 23
 
 https://schier.co/blog/next-stop-yaak , good software grows itself
+
+25
+
+https://www.justinmath.com/a-little-gamification-can-go-a-long-way , naming a thing is important, bad name is over from beginning
