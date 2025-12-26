@@ -2952,3 +2952,7 @@ https://schier.co/blog/next-stop-yaak , good software grows itself
 25
 
 https://www.justinmath.com/a-little-gamification-can-go-a-long-way , naming a thing is important, bad name is over from beginning
+
+26
+
+https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html , git inherits filesystem limitations, and filesystems make terrible databases
