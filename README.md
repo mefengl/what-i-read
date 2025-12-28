@@ -2895,11 +2895,11 @@ https://www.paradigm.xyz/2020/08/ethereum-is-a-dark-forest , very interesting st
 
 https://vitalik.eth.limo/general/2025/11/25/plinko.html , know PIR
 
+## 2025-12
+
 02
 
 https://tonsky.me/blog/needy-programs/ , what good software is
-
-## 2025-12
 
 03
 
