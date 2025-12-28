@@ -2908,7 +2908,6 @@ https://bun.com/blog/bun-joins-anthropic , it's a good thing
 06
 
 https://resonantcomputing.org , better than i thought, "whoever controls the context holds the power"
-
 https://lightpanda.io/blog/posts/why-we-built-lightpanda-in-zig , know lightpanda
 
 10
@@ -2918,9 +2917,7 @@ https://alexsci.com/blog/calm-tech-discover , "calm tech" is an interesting conc
 11
 
 https://radiccio.music/news/2025/10/22/introducing-radiccio , example of when people "take care"
-
 https://radiccio.music/news/2025/10/30/design-of-radiccio , same
-
 https://longform.asmartbear.com/delegation , "We hire smart people so they can tell us what to do."
 
 14
@@ -2930,19 +2927,16 @@ https://www.humaninvariant.com/blog/titles , "Title Arbitrage" is a good concept
 17
 
 https://afewthingz.com/browserbookmark , know '.url'
-
 https://afewthingz.com/touchesofcolouronconcrete , interesting perspective on subtle beauty in urban environments
 
 18
 
 https://jgthms.com/picknplace.js , very inspiring, similar to sticky key
-
 https://msanroman.io/blog/ai-consumption-paradigm , right way to think about it: "consuming, not creating"
 
 21
 
 https://annas-archive.li/blog/backing-up-spotify.html , 200TB is kind of small since it's Spotify backup
-
 https://thesquareplanet.com/blog/about-40-hours , great article about the work hours debate
 
 23
@@ -2956,3 +2950,7 @@ https://www.justinmath.com/a-little-gamification-can-go-a-long-way , naming a th
 26
 
 https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html , git inherits filesystem limitations, and filesystems make terrible databases
+
+29
+
+https://niplav.site/eschews.html#High_Status_Eschews_Quantification_of_Performance , quantification is a method only, not a goal
