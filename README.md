@@ -2955,3 +2955,9 @@ https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html
 
 https://niplav.site/eschews.html#High_Status_Eschews_Quantification_of_Performance , quantification is a method only, not a goal
 https://rauchg.com/2015/pure-ui , "pure ui" is a concept that emphasizes declarative, functional UI components without side effects
+
+## 2026-01
+
+01
+
+https://blog.jim-nielsen.com/2025/uncomfortable-i-dont-know , llm actually write bad code and sometimes(always?) works
