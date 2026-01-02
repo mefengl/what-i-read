@@ -13,7 +13,7 @@ git diff README.md            # verify formatting before committing
 Run commands from the repository root.
 
 ## Coding Style &amp; Naming Conventions
-Write in plain Markdown with 80–100 character lines when possible. Each link entry should follow the pattern `https://example.com/article , short two-clause insight`. Use comma + space to separate the URL from the annotation, and keep commentary to one or two sentences. Group new links under the correct year-month heading, and append day numbers as existing sections do. When starting a fresh day inside a month section, put the day-of-month on its own line (e.g., `14`), leave a blank line, then list the links so the chronology reads top-to-bottom. For nested bullets (rare), indent by two spaces. Avoid HTML unless Markdown cannot express the layout.
+Write in plain Markdown with 80–100 character lines when possible. Each link entry should follow the pattern `https://example.com/article , short two-clause insight`. Use comma + space to separate the URL from the annotation, and keep commentary to one or two sentences. Separate each link entry with a blank line. Group new links under the correct year-month heading, and append day numbers as existing sections do. When starting a fresh day inside a month section, put the day-of-month on its own line (e.g., `14`), leave a blank line, then list the links so the chronology reads top-to-bottom. For nested bullets (rare), indent by two spaces. Avoid HTML unless Markdown cannot express the layout.
 Keep day markers in ascending order (e.g., `02`, `04`, `06`, `07`, `13`, `14`) when inserting new entries; if the target day already exists, append the link under that heading instead of creating a duplicate marker.
 
 ## Testing Guidelines
