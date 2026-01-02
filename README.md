@@ -2972,3 +2972,5 @@ https://blog.jim-nielsen.com/2025/uncomfortable-i-dont-know , llm actually write
 02
 
 https://danwang.co/2025-letter , great as always
+
+https://www.justinmath.com/my-rule-of-thumb-for-lifestyle-upgrades , inspiring perspective on 'lifestyle upgrades'
