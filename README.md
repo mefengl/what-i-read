@@ -2961,3 +2961,7 @@ https://rauchg.com/2015/pure-ui , "pure ui" is a concept that emphasizes declara
 01
 
 https://blog.jim-nielsen.com/2025/uncomfortable-i-dont-know , llm actually write bad code and sometimes(always?) works
+
+02
+
+https://danwang.co/2025-letter , great as always
