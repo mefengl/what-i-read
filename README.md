@@ -2980,3 +2980,5 @@ https://www.justinmath.com/my-rule-of-thumb-for-lifestyle-upgrades , inspiring p
 https://www.jeffgeerling.com/blog/2025/upgrading-m4-pro-mac-minis-storage-half-price , it will be useful someday
 
 https://bvisness.me/high-level , great article about levels in abstraction
+
+https://www.thecut.com/article/brooding-friction-maxxing-new-years-2026-resolution.html , that's when reading becomes interesting and necessary. actually reading is always necessary, but most life is a lie, tells you otherwise
