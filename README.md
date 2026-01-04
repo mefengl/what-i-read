@@ -2978,3 +2978,5 @@ https://www.justinmath.com/my-rule-of-thumb-for-lifestyle-upgrades , inspiring p
 04
 
 https://www.jeffgeerling.com/blog/2025/upgrading-m4-pro-mac-minis-storage-half-price , it will be useful someday
+
+https://bvisness.me/high-level , great article about levels in abstraction
