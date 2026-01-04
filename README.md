@@ -2974,3 +2974,7 @@ https://blog.jim-nielsen.com/2025/uncomfortable-i-dont-know , llm actually write
 https://danwang.co/2025-letter , great as always
 
 https://www.justinmath.com/my-rule-of-thumb-for-lifestyle-upgrades , inspiring perspective on 'lifestyle upgrades'
+
+04
+
+https://www.jeffgeerling.com/blog/2025/upgrading-m4-pro-mac-minis-storage-half-price , it will be useful someday
