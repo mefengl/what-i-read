@@ -2982,3 +2982,7 @@ https://www.jeffgeerling.com/blog/2025/upgrading-m4-pro-mac-minis-storage-half-p
 https://bvisness.me/high-level , great article about levels in abstraction
 
 https://www.thecut.com/article/brooding-friction-maxxing-new-years-2026-resolution.html , that's when reading becomes interesting and necessary. actually reading is always necessary, but most life is a lie, tells you otherwise
+
+05
+
+https://candost.blog/the-unbearable-joy-of-sitting-alone-in-a-cafe , life like that
