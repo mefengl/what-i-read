@@ -2986,3 +2986,7 @@ https://www.thecut.com/article/brooding-friction-maxxing-new-years-2026-resoluti
 05
 
 https://candost.blog/the-unbearable-joy-of-sitting-alone-in-a-cafe , life like that
+
+08
+
+https://longform.asmartbear.com/focus , explains why 'focus' makes more sense
