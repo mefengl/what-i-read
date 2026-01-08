@@ -2990,3 +2990,7 @@ https://candost.blog/the-unbearable-joy-of-sitting-alone-in-a-cafe , life like t
 08
 
 https://longform.asmartbear.com/focus , explains why 'focus' makes more sense
+
+09
+
+https://daverupert.com/2026/01/twenty-twenty-five , also 2026
