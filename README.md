@@ -2994,3 +2994,7 @@ https://longform.asmartbear.com/focus , explains why 'focus' makes more sense
 09
 
 https://daverupert.com/2026/01/twenty-twenty-five , also 2026
+
+11
+
+https://www.dbreunig.com/2026/01/08/a-software-library-with-no-code.html , this is the future of little code library
