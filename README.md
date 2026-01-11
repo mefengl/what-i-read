@@ -2998,3 +2998,5 @@ https://daverupert.com/2026/01/twenty-twenty-five , also 2026
 11
 
 https://www.dbreunig.com/2026/01/08/a-software-library-with-no-code.html , this is the future of little code library
+
+https://grishy.dev/en/post/macOS-setup-2025 , many nice configs
