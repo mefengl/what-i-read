@@ -3004,3 +3004,5 @@ https://grishy.dev/en/post/macOS-setup-2025 , many nice configs
 13
 
 https://blog.jim-nielsen.com/2026/in-the-beginning-slop , slop and masterpiece all more and faster produced because of llm
+
+https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids , using floppy disks as physical tokens for tv shows is a brilliant tactile interface for kids
