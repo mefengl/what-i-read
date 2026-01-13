@@ -3008,3 +3008,5 @@ https://blog.jim-nielsen.com/2026/in-the-beginning-slop , slop and masterpiece a
 https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids , using floppy disks as physical tokens for tv shows is a brilliant tactile interface for kids
 
 https://blog.tangled.org/docs , use pandoc for doc hosting, cool
+
+https://confer.to/blog/2026/01/private-inference , local llm don't need local
