@@ -3018,3 +3018,5 @@ https://cursor.com/blog/scaling-agents , agents excel in diverse translation tas
 16
 
 https://jakub.kr/work/using-ai-as-a-design-engineer , rare article that taught me something about LLM design engineering
+
+https://alperenkeles.com/posts/test-dont-verify , testing is about finding bugs, verification is about proving correctness - keep testing, not proving
