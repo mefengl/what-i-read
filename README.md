@@ -3010,3 +3010,9 @@ https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids , usin
 https://blog.tangled.org/docs , use pandoc for doc hosting, cool
 
 https://confer.to/blog/2026/01/private-inference , local llm don't need local
+
+14
+
+15
+
+https://cursor.com/blog/scaling-agents , agents excel in diverse translation tasks
