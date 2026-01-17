@@ -3022,3 +3022,7 @@ https://jakub.kr/work/using-ai-as-a-design-engineer , rare article that taught m
 https://alperenkeles.com/posts/test-dont-verify , testing is about finding bugs, verification is about proving correctness - keep testing, not proving
 
 https://www.awwwards.com/messenger.html , cool to know background story of it
+
+17
+
+https://www.dwarkesh.com/p/hiring-scouts-to-help-me-find-guests , how you write an article to hire intellectuals
