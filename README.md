@@ -3026,3 +3026,9 @@ https://www.awwwards.com/messenger.html , cool to know background story of it
 17
 
 https://www.dwarkesh.com/p/hiring-scouts-to-help-me-find-guests , how you write an article to hire intellectuals
+
+19
+
+https://overreacted.io/a-social-filesystem , reading dan's opinion on the same problem is interesting
+
+https://ampcode.com/news/painter , inspiring ui design though
