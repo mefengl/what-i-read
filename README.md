@@ -3032,3 +3032,17 @@ https://www.dwarkesh.com/p/hiring-scouts-to-help-me-find-guests , how you write 
 https://overreacted.io/a-social-filesystem , reading dan's opinion on the same problem is interesting
 
 https://ampcode.com/news/painter , inspiring ui design though
+
+
+20
+
+https://vitalik.eth.limo/general/2020/11/08/concave.html , "Convex and Concave" is interesting concept
+
+22
+
+https://blog.jim-nielsen.com/2026/easy-vs-simple , easy to do, simple to understand
+
+https://www.seangoedecke.com/addicted-to-being-useful , explain the "being useful" eager
+
+https://www.seangoedecke.com/impressing-people , great combination with above article, this goes deeper
+
