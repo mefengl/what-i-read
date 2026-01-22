@@ -3046,3 +3046,5 @@ https://www.seangoedecke.com/addicted-to-being-useful , explain the "being usefu
 
 https://www.seangoedecke.com/impressing-people , great combination with above article, this goes deeper
 
+https://waitbutwhy.com/2014/09/but-what-about-greenland.html , know greenland
+
