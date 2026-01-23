@@ -3048,3 +3048,9 @@ https://www.seangoedecke.com/impressing-people , great combination with above ar
 
 https://waitbutwhy.com/2014/09/but-what-about-greenland.html , know greenland
 
+23
+
+https://cannoneyed.com/projects/isometric-nyc , interesting workflow though
+
+https://www.raptitude.com/2026/01/cover-your-twenty-five-miles-then-rest-up-and-sleep , great writing on this topic
+
