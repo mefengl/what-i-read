@@ -3054,5 +3054,9 @@ https://cannoneyed.com/projects/isometric-nyc , interesting workflow though
 
 https://www.raptitude.com/2026/01/cover-your-twenty-five-miles-then-rest-up-and-sleep , great writing on this topic
 
+24
+
 https://bower.sh/react-is-bad-because-its-great , good article about react
+
+https://slim.computer/blug/going-nonverbal.html , feel the same
 
