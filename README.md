@@ -3064,3 +3064,5 @@ https://slim.computer/blug/going-nonverbal.html , feel the same
 
 https://www.seangoedecke.com/how-i-estimate-work , great article about work estimate
 
+https://fakepixels.substack.com/p/twenty-five-percent-without-thinking , clearly AI writing, still good though
+
