@@ -3068,3 +3068,5 @@ https://fakepixels.substack.com/p/twenty-five-percent-without-thinking , clearly
 
 https://micahcantor.com/blog/bluesky-comment-section.html , embedded bluesky comments reduces infrastructure and moderation burden while keeping conversation open
 
+https://functional.computer/blog/responsibility-and-authority , run as fast as you can when no authority
+
