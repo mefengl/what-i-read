@@ -3066,3 +3066,5 @@ https://www.seangoedecke.com/how-i-estimate-work , great article about work esti
 
 https://fakepixels.substack.com/p/twenty-five-percent-without-thinking , clearly AI writing, still good though
 
+https://micahcantor.com/blog/bluesky-comment-section.html , embedded bluesky comments reduces infrastructure and moderation burden while keeping conversation open
+
