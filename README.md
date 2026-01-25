@@ -3060,3 +3060,7 @@ https://bower.sh/react-is-bad-because-its-great , good article about react
 
 https://slim.computer/blug/going-nonverbal.html , feel the same
 
+25
+
+https://www.seangoedecke.com/how-i-estimate-work , great article about work estimate
+
