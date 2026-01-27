@@ -3070,3 +3070,7 @@ https://micahcantor.com/blog/bluesky-comment-section.html , know blog comments b
 
 https://functional.computer/blog/responsibility-and-authority , when no authority... run as fast as you can
 
+27
+
+https://www.nateberkopec.com/blog/37signals-is-not-smarter-than-you , 10k lines of code is a good threshold
+
