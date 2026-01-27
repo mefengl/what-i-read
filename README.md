@@ -3080,3 +3080,7 @@ https://aifoc.us/the-browser-is-the-sandbox , inspiring, but still don't think b
 
 https://www.seangoedecke.com/knowing-how-to-drive-the-car , everything you need to know about work for others
 
+28
+
+https://stevejobsarchive.com/artifact/steve-at-home-sitting-under-his-tiffany-lamp , steve at home
+
