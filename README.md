@@ -3074,3 +3074,9 @@ https://functional.computer/blog/responsibility-and-authority , when no authorit
 
 https://www.nateberkopec.com/blog/37signals-is-not-smarter-than-you , 10k lines of code is a good threshold
 
+https://consciousdigital.org/why-we-do-not-support-opt-out-forms , surprised by how often well-intentioned organizations correctly identify problems, simply because they care
+
+https://aifoc.us/the-browser-is-the-sandbox , inspiring, but still don't think browser will be the answer
+
+https://www.seangoedecke.com/knowing-how-to-drive-the-car , everything you need to know about work for others
+
