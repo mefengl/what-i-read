@@ -3084,3 +3084,7 @@ https://www.seangoedecke.com/knowing-how-to-drive-the-car , everything you need 
 
 https://stevejobsarchive.com/artifact/steve-at-home-sitting-under-his-tiffany-lamp , steve at home
 
+29
+
+https://technology.riotgames.com/news/taxonomy-tech-debt , know tech debt
+
