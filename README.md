@@ -3088,3 +3088,5 @@ https://stevejobsarchive.com/artifact/steve-at-home-sitting-under-his-tiffany-la
 
 https://technology.riotgames.com/news/taxonomy-tech-debt , know tech debt
 
+https://notes.hyperlink.academy/note/small-scale-social , "small-scale social" is a good concept
+
