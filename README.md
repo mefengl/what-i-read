@@ -3090,3 +3090,6 @@ https://technology.riotgames.com/news/taxonomy-tech-debt , know tech debt
 
 https://notes.hyperlink.academy/note/small-scale-social , "small-scale social" is a good concept
 
+31
+
+https://antirez.com/news/159 , "automatic programming" is a good concept
