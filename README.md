@@ -3099,3 +3099,5 @@ https://antirez.com/news/159 , "automatic programming" is a good concept
 01
 
 https://www.nytimes.com/2026/01/30/opinion/ezra-klein-podcast-adam-tooze.html , "What, if anything, is struggling to be born here?" is a real question
+
+https://soatok.blog/2025/12/17/the-revolution-will-not-make-the-hacker-news-front-page , used to say two Americas, now there are also two tech worlds
