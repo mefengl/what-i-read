@@ -3093,3 +3093,9 @@ https://notes.hyperlink.academy/note/small-scale-social , "small-scale social" i
 31
 
 https://antirez.com/news/159 , "automatic programming" is a good concept
+
+## 2026-02
+
+01
+
+https://www.nytimes.com/2026/01/30/opinion/ezra-klein-podcast-adam-tooze.html , "What, if anything, is struggling to be born here?" is a real question
