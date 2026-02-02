@@ -3105,3 +3105,7 @@ https://soatok.blog/2025/12/17/the-revolution-will-not-make-the-hacker-news-fron
 02
 
 https://justin.searls.co/posts/weekstart , "weekstart" is a good concept
+
+03
+
+https://www.moltbook.com/post/6f7f213b-801e-476c-af82-e15adaa81245 , system was convinced
