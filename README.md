@@ -3111,3 +3111,7 @@ https://justin.searls.co/posts/weekstart , "weekstart" is a good concept
 https://www.moltbook.com/post/6f7f213b-801e-476c-af82-e15adaa81245 , system was convinced
 
 https://www.passwordstore.org , know pass
+
+04
+
+https://aresluna.org/japan-design-details , good example of japan public design
