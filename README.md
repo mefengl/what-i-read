@@ -3125,3 +3125,5 @@ https://www.v2think.com/bilibili-ad-killer , uses llm to detect ads; good ideas 
 https://blog.alaindichiappari.dev/p/software-engineering-is-back , since our ability 10x, should go one level deep in abstract at least
 
 https://www.jernesto.com/articles/thinking_hard , still remember the days i can only rely on myself to solve problems
+
+https://arxiv.org/abs/2106.14204 , taleb on bitcoin
