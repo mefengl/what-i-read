@@ -3119,3 +3119,7 @@ https://aresluna.org/japan-design-details , good example of japan public design
 05
 
 https://www.v2think.com/bilibili-ad-killer , uses llm to detect ads; good ideas are like this, when someone shares it with you, you feel things already should be like this
+
+09
+
+https://blog.alaindichiappari.dev/p/software-engineering-is-back , since our ability 10x, should go one level deep in abstract at least
