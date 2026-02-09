@@ -3139,3 +3139,7 @@ https://mitchellh.com/writing/my-ai-adoption-journey , it's always helpful to se
 https://gwern.net/interview-inkhaven , yet another great article about writing from gwern
 
 https://www.seangoedecke.com/how-does-ai-impact-skill-formation , this is from engineer in big company's perspective, where we don't really care about the coding ability
+
+https://www.dwarkesh.com/p/elon-musk , rare recent interview that actually asked real questions
+
+https://www.dwarkesh.com/p/notes-on-space-gpus , interesting comments on dwarkesh's interview with elon
