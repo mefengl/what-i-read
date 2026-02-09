@@ -3135,3 +3135,5 @@ https://haskellforall.com/2026/02/beyond-agentic-coding , the way to think of ag
 10
 
 https://mitchellh.com/writing/my-ai-adoption-journey , it's always helpful to see a serious person's way to using ai
+
+https://gwern.net/interview-inkhaven , yet another great article about writing from gwern
