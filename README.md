@@ -3137,3 +3137,5 @@ https://haskellforall.com/2026/02/beyond-agentic-coding , the way to think of ag
 https://mitchellh.com/writing/my-ai-adoption-journey , it's always helpful to see a serious person's way to using ai
 
 https://gwern.net/interview-inkhaven , yet another great article about writing from gwern
+
+https://www.seangoedecke.com/how-does-ai-impact-skill-formation , this is from engineer in big company's perspective, where we don't really care about the coding ability
