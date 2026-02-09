@@ -3131,3 +3131,7 @@ https://arxiv.org/abs/2106.14204 , taleb on bitcoin
 https://github.com/searlsco/prove_it , "prove it" is a good llm primitive
 
 https://haskellforall.com/2026/02/beyond-agentic-coding , the way to think of agentic coding is fresh
+
+10
+
+https://mitchellh.com/writing/my-ai-adoption-journey , it's always helpful to see a serious person's way to using ai
