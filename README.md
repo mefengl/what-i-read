@@ -3129,3 +3129,5 @@ https://www.jernesto.com/articles/thinking_hard , still remember the days i can 
 https://arxiv.org/abs/2106.14204 , taleb on bitcoin
 
 https://github.com/searlsco/prove_it , "prove it" is a good llm primitive
+
+https://haskellforall.com/2026/02/beyond-agentic-coding , the way to think of agentic coding is fresh
