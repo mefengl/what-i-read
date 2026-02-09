@@ -3127,3 +3127,5 @@ https://blog.alaindichiappari.dev/p/software-engineering-is-back , since our abi
 https://www.jernesto.com/articles/thinking_hard , still remember the days i can only rely on myself to solve problems
 
 https://arxiv.org/abs/2106.14204 , taleb on bitcoin
+
+https://github.com/searlsco/prove_it , "prove it" is a good llm primitive
