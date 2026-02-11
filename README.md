@@ -3145,3 +3145,5 @@ https://www.dwarkesh.com/p/notes-on-space-gpus , interesting comments on dwarkes
 11
 
 https://campedersen.com/singularity , it's interesting to see the progress is somehow linear
+
+https://campedersen.com/just-press-enter , when it won't hurt anyone
