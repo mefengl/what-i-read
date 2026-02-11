@@ -3141,3 +3141,7 @@ https://www.seangoedecke.com/how-does-ai-impact-skill-formation , this is from e
 https://www.dwarkesh.com/p/elon-musk , rare recent interview that actually asked real questions
 
 https://www.dwarkesh.com/p/notes-on-space-gpus , interesting comments on dwarkesh's interview with elon
+
+11
+
+https://campedersen.com/singularity , it's interesting to see the progress is somehow linear
