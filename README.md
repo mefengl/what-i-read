@@ -3155,3 +3155,7 @@ https://blog.can.ac/2026/02/12/the-harness-problem , hashline, neat tool for llm
 18
 
 https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood , bluetooth is a blind spot
+
+19
+
+https://graymirror.substack.com/p/us-60735250-and-the-roots-of-bitcoin , limited supply is all you need
