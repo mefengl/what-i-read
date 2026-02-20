@@ -3159,3 +3159,5 @@ https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood , bluetooth is a bl
 19
 
 https://graymirror.substack.com/p/us-60735250-and-the-roots-of-bitcoin , limited supply is all you need
+
+https://graymirror.substack.com/p/barbarians-and-mandarins , "barbarians and mandarins" is a great concept
