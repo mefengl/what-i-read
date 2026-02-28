@@ -3163,3 +3163,7 @@ https://graymirror.substack.com/p/us-60735250-and-the-roots-of-bitcoin , limited
 https://graymirror.substack.com/p/barbarians-and-mandarins , "barbarians and mandarins" is a great concept
 
 https://www.neuroai.science/p/blue-light-filters-dont-work , dark mode and bright light at day
+
+28
+
+https://www.imdb.com/news/ni65146405 , "I'm really in pursuit of greatness."
