@@ -3172,4 +3172,4 @@ https://www.imdb.com/news/ni65146405 , "I'm really in pursuit of greatness."
 
 04
 
-http://prize.hutter1.net , fresh to see this reverse path nowadays
+http://prize.hutter1.net , fresh to see intelligence pursued through compression while everyone else scales models
