@@ -3167,3 +3167,9 @@ https://www.neuroai.science/p/blue-light-filters-dont-work , dark mode and brigh
 28
 
 https://www.imdb.com/news/ni65146405 , "I'm really in pursuit of greatness."
+
+## 2026-03
+
+04
+
+http://prize.hutter1.net , fresh to see this reverse path nowadays
