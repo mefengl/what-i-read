@@ -3178,6 +3178,10 @@ http://prize.hutter1.net , fresh to see intelligence pursued through compression
 
 https://marvinh.dev/blog/speeding-up-javascript-ecosystem , a good example of leverage
 
+08
+
+https://patrickcollison.com/advice , always feel something when someone advises "read more"
+
 09
 
 https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code , "plausibility vs correctness" is a good concept
