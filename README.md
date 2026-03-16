@@ -3187,3 +3187,7 @@ https://patrickcollison.com/advice , always feel something when someone advises 
 https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code , "plausibility vs correctness" is a good concept
 
 https://antirez.com/news/162 , final GNU is that we don't need GNU
+
+16
+
+https://entropicthoughts.com/no-swe-bench-improvement , if progress has stalled, who's been lying to us
