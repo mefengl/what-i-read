@@ -3191,3 +3191,7 @@ https://antirez.com/news/162 , final GNU is that we don't need GNU
 16
 
 https://entropicthoughts.com/no-swe-bench-improvement , if progress has stalled, who's been lying to us
+
+18
+
+https://www.ft.com/content/b43184b1-5b14-4be7-9801-975089aec690 , know chinese stock market
