@@ -3195,3 +3195,7 @@ https://entropicthoughts.com/no-swe-bench-improvement , if progress has stalled,
 18
 
 https://www.ft.com/content/b43184b1-5b14-4be7-9801-975089aec690 , know chinese stock market
+
+21
+
+https://www.ribbonfarm.com/2017/11/09/ceos-dont-steer/ , know ceo
