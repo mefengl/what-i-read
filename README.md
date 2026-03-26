@@ -3201,3 +3201,5 @@ https://www.ft.com/content/b43184b1-5b14-4be7-9801-975089aec690 , know chinese s
 https://www.ribbonfarm.com/2017/11/09/ceos-dont-steer/ , know ceo
 
 https://entropicthoughts.com/lines-of-code , like the quantitative analysis here
+
+https://www.sixthtone.com/news/1010535 , know jiang
