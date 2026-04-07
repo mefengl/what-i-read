@@ -3203,3 +3203,13 @@ https://www.ribbonfarm.com/2017/11/09/ceos-dont-steer/ , know ceo
 https://entropicthoughts.com/lines-of-code , like the quantitative analysis here
 
 https://www.sixthtone.com/news/1010535 , know jiang
+
+29
+
+https://michaelnotebook.com/dci/index.html , book bring people into a mind
+
+## 2026-04
+
+07
+
+https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted , know sam
