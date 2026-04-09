@@ -3213,3 +3213,7 @@ https://michaelnotebook.com/dci/index.html , book bring people into a mind
 07
 
 https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted , know sam
+
+09
+
+https://piechowski.io/post/git-commands-before-reading-code , a way to view a codebase through git
