@@ -3217,3 +3217,5 @@ https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-
 09
 
 https://piechowski.io/post/git-commands-before-reading-code , a way to view a codebase through git
+
+https://www.trychroma.com/research/context-1 , know deepsearch
