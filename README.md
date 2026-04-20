@@ -3219,3 +3219,7 @@ https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-
 https://piechowski.io/post/git-commands-before-reading-code , a way to view a codebase through git
 
 https://www.trychroma.com/research/context-1 , know deepsearch
+
+20
+
+https://www.lesswrong.com/posts/KRLGxCaqdgrotyB8z/there-are-only-four-skills-design-technical-management-and , "design, technical, management, and physical" is a great classification
