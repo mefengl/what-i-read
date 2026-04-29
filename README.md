@@ -3223,3 +3223,7 @@ https://www.trychroma.com/research/context-1 , know deepsearch
 20
 
 https://www.lesswrong.com/posts/KRLGxCaqdgrotyB8z/there-are-only-four-skills-design-technical-management-and , "design, technical, management, and physical" is a great classification
+
+29
+
+https://longform.asmartbear.com/prioritization , convexity, convexity, convexity
