@@ -3227,3 +3227,9 @@ https://www.lesswrong.com/posts/KRLGxCaqdgrotyB8z/there-are-only-four-skills-des
 29
 
 https://longform.asmartbear.com/prioritization , convexity, convexity, convexity
+
+## 2026-05
+
+06
+
+https://blogs.nvidia.com/blog/ai-5-layer-cake , useful though
