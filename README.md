@@ -3235,3 +3235,7 @@ https://longform.asmartbear.com/prioritization , convexity, convexity, convexity
 https://blogs.nvidia.com/blog/ai-5-layer-cake , useful though
 
 https://www.filipposanzeni.com/posts/on-ai-and-temporal-arbitrage , amazing article about the rules inside "ai cake"
+
+11
+
+https://www.lesswrong.com/posts/aBhMGziEwA7FXNxhq/try-even-if-they-have-you-cold , just be great
