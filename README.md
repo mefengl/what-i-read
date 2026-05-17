@@ -3239,3 +3239,7 @@ https://www.filipposanzeni.com/posts/on-ai-and-temporal-arbitrage , amazing arti
 11
 
 https://www.lesswrong.com/posts/aBhMGziEwA7FXNxhq/try-even-if-they-have-you-cold , just be great
+
+17
+
+https://www.seangoedecke.com/steering-vectors , know steering
