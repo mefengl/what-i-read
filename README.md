@@ -3243,3 +3243,7 @@ https://www.lesswrong.com/posts/aBhMGziEwA7FXNxhq/try-even-if-they-have-you-cold
 17
 
 https://www.seangoedecke.com/steering-vectors , know steering
+
+18
+
+https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/#one-last-reason-i-moved-away-from-tailwind , lindy works again
