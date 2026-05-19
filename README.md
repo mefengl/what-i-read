@@ -3247,3 +3247,7 @@ https://www.seangoedecke.com/steering-vectors , know steering
 18
 
 https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/#one-last-reason-i-moved-away-from-tailwind , lindy works again
+
+19
+
+https://borretti.me/article/human-bottlenecks , great article explains this thing well
