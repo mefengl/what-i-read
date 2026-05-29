@@ -3251,3 +3251,7 @@ https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-struc
 19
 
 https://borretti.me/article/human-bottlenecks , great article explains this thing well
+
+30
+
+https://noperator.dev/posts/you-can-just-say-it , used to feel angry about it
