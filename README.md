@@ -3255,3 +3255,9 @@ https://borretti.me/article/human-bottlenecks , great article explains this thin
 30
 
 https://noperator.dev/posts/you-can-just-say-it , used to feel angry about it
+
+## 2026-06
+
+14
+
+https://borretti.me/article/human-routers-of-machine-words , ideas are dreams
