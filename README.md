@@ -3261,3 +3261,7 @@ https://noperator.dev/posts/you-can-just-say-it , used to feel angry about it
 14
 
 https://borretti.me/article/human-routers-of-machine-words , ideas are dreams
+
+23
+
+https://www.lesswrong.com/posts/yLHiQGCPdvzL9fBn3/model-size-scaling-in-2023-2031 , great article for tracking llm progress
