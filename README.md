@@ -3265,3 +3265,7 @@ https://borretti.me/article/human-routers-of-machine-words , ideas are dreams
 23
 
 https://www.lesswrong.com/posts/yLHiQGCPdvzL9fBn3/model-size-scaling-in-2023-2031 , great article for tracking llm progress
+
+24
+
+https://marginalrevolution.com/marginalrevolution/2026/06/again-the-paper-format-will-be-dying-out.html , "computer graph" is a great concept
