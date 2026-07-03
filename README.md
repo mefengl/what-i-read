@@ -3269,3 +3269,9 @@ https://www.lesswrong.com/posts/yLHiQGCPdvzL9fBn3/model-size-scaling-in-2023-203
 24
 
 https://marginalrevolution.com/marginalrevolution/2026/06/again-the-paper-format-will-be-dying-out.html , "computer graph" is a great concept
+
+## 2026-07
+
+04
+
+https://pradyuprasad.com/writings/how-to-ask-for-help , many people still do not understand these basics
