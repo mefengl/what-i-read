@@ -3275,3 +3275,11 @@ https://marginalrevolution.com/marginalrevolution/2026/06/again-the-paper-format
 04
 
 https://pradyuprasad.com/writings/how-to-ask-for-help , many people still do not understand these basics
+
+08
+
+https://cdn.fastly.steamstatic.com/apps/valve/Valve_NewEmployeeHandbook.pdf , know valve
+
+10
+
+https://alexalejandre.com/programming/interview-with-mitchell-hashimoto , the opinion on modern tech stack still inspiring
