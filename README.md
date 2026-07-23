@@ -3283,3 +3283,7 @@ https://cdn.fastly.steamstatic.com/apps/valve/Valve_NewEmployeeHandbook.pdf , kn
 10
 
 https://alexalejandre.com/programming/interview-with-mitchell-hashimoto , the opinion on modern tech stack still inspiring
+
+23
+
+https://elsewhere.news/en/elsewhere/wenfeng-liangs-four-hour-investor-meeting-full-transcript , know deepseek
