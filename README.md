@@ -3293,3 +3293,9 @@ https://elsewhere.news/en/elsewhere/wenfeng-liangs-four-hour-investor-meeting-fu
 https://www.seangoedecke.com/you-dont-have-to-be-smart-if-you-think-clearly , I like the idea of a "strong engineer"
 
 https://www.youtube.com/watch?v=DprKDXRlubw , know China
+
+## 2026-08
+
+03
+
+https://www.seangoedecke.com/giving-and-taking-credit , let the information flow
