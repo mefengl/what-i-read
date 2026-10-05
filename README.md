@@ -3299,3 +3299,9 @@ https://www.youtube.com/watch?v=DprKDXRlubw , know China
 03
 
 https://www.seangoedecke.com/giving-and-taking-credit , let the information flow
+
+## 2026-10
+
+05
+
+https://contraptions.venkateshrao.com/p/our-eukaryotic-moment , human enhanced article ;)
