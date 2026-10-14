@@ -3305,3 +3305,7 @@ https://www.seangoedecke.com/giving-and-taking-credit , let the information flow
 05
 
 https://contraptions.venkateshrao.com/p/our-eukaryotic-moment , human enhanced article ;)
+
+14
+
+https://www.youtube.com/watch?v=zwi5b5xSsKA , "do more with less"
