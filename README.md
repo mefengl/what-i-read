@@ -3309,3 +3309,7 @@ https://contraptions.venkateshrao.com/p/our-eukaryotic-moment , human enhanced a
 14
 
 https://www.youtube.com/watch?v=zwi5b5xSsKA , "do more with less"
+
+27
+
+https://gist.github.com/geohot/8a91117a3c01d83893266affeee4e073 , it's beautiful
